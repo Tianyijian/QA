@@ -59,7 +59,7 @@ def ltp_seg_sent(sent):
 def create_index():
     # 定义索引域 TODO 采用KeywordAnalyzer,可优化
     schema = Schema(id=ID(stored=True), passage=TEXT(stored=False))
-    schema = Schema(id=ID(stored=True), passage=TEXT(stored=False, analyzer=KeywordAnalyzer()))
+    # schema = Schema(id=ID(stored=True), passage=TEXT(stored=False, analyzer=KeywordAnalyzer()))
     ix = create_in(const.index_dir, schema, indexname=const.index_name)
     writer = ix.writer()
     # 读取json文件
@@ -100,36 +100,37 @@ def train_test():
         pid_label = []
         pid_pre = []
         i = 0
-        for item in items[0:500]:
+        # for item in items[0:500]:
+        for item in items:
             pid_label.append(item['pid'])
             q = ltp_seg_sent(item['question'])
             # print(q)
             results = searcher.search(parser.parse(q))
             if len(results) > 0:
-                pid_pre.append([int(res['id']) for res in results[0:2]])
+                pid_pre.append([int(res['id']) for res in results[0:3]])
                 # pid_pre.append([int(results[0]['id'])])
             else:
                 pid_pre.append([])
             i += 1
-            if i % 100 == 0:
+            if i % 1000 == 0:
                 const.logging.debug("search {} done, use time {}s".format(i, time.time() - time1))
                 time1 = time.time()
     end = time.time()
     print("Search {}, use time {}s".format(i, end - start))
-    print(pid_label)
-    print(pid_pre)
+    # print(pid_label)
+    # print(pid_pre)
     const.logging.debug("Search {}, use time {}s".format(i, end - start))
-    const.logging.debug(pid_label)
-    const.logging.debug(pid_pre)
+    const.logging.debug(pid_label[0:3])
+    const.logging.debug(pid_pre[0:3])
     eval(pid_label, pid_pre)
 
 
 def eval(label, pre):
-    rr_rn = 0  # 检索回来的文档总数
+    rr_rn = len(label)  # 检索回来的文档总数 按问题数目算
     rr = 0  # 检索回来的相关文档数
     rr_nr = len(label)  # 相关文档总数
     for i in range(len(label)):
-        rr_rn += len(pre[i])
+        # rr_rn += len(pre[i])
         if label[i] in pre[i]:
             rr += 1
     p = float(rr) / rr_rn

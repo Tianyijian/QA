@@ -1,2 +1,4 @@
 # ignore the index dir
 result/index
+__pycache__
+.idea
