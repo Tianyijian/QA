@@ -115,3 +115,26 @@
 2019-05-07 11:09:51,933 - DEBUG - [10995, 6726, 11013]
 2019-05-07 11:09:51,933 - DEBUG - [[9265, 11071, 4715], [6726, 11774, 6000], [11013, 3027, 3988]]
 2019-05-07 11:09:51,936 - DEBUG - Total:5352, rr:4772, rr_rn:5352, rr_nr:5352, P:0.8916292974588939, R:0.8916292974588939, F1:0.8916292974588939
+2019-05-21 20:02:56,415 - DEBUG - Building prefix dict from the default dictionary ...
+2019-05-21 20:02:57,572 - DEBUG - Dumping model to file cache C:\Users\26241\AppData\Local\Temp\jieba.cache
+2019-05-21 20:02:57,697 - DEBUG - Loading model cost 1.263 seconds.
+2019-05-21 20:02:57,697 - DEBUG - Prefix dict has been built succesfully.
+2019-05-21 20:13:41,871 - ERROR - exception calling callback for <Future at 0x1fdcdf9f7f0 state=finished raised TerminatedWorkerError>
+Traceback (most recent call last):
+  File "C:\Users\26241\AppData\Local\Programs\Python\Python36\lib\site-packages\joblib\externals\loky\_base.py", line 625, in _invoke_callbacks
+    callback(self)
+  File "C:\Users\26241\AppData\Local\Programs\Python\Python36\lib\site-packages\joblib\parallel.py", line 309, in __call__
+    self.parallel.dispatch_next()
+  File "C:\Users\26241\AppData\Local\Programs\Python\Python36\lib\site-packages\joblib\parallel.py", line 731, in dispatch_next
+    if not self.dispatch_one_batch(self._original_iterator):
+  File "C:\Users\26241\AppData\Local\Programs\Python\Python36\lib\site-packages\joblib\parallel.py", line 759, in dispatch_one_batch
+    self._dispatch(tasks)
+  File "C:\Users\26241\AppData\Local\Programs\Python\Python36\lib\site-packages\joblib\parallel.py", line 716, in _dispatch
+    job = self._backend.apply_async(batch, callback=cb)
+  File "C:\Users\26241\AppData\Local\Programs\Python\Python36\lib\site-packages\joblib\_parallel_backends.py", line 510, in apply_async
+    future = self._workers.submit(SafeFunction(func))
+  File "C:\Users\26241\AppData\Local\Programs\Python\Python36\lib\site-packages\joblib\externals\loky\reusable_executor.py", line 151, in submit
+    fn, *args, **kwargs)
+  File "C:\Users\26241\AppData\Local\Programs\Python\Python36\lib\site-packages\joblib\externals\loky\process_executor.py", line 1022, in submit
+    raise self._flags.broken
+joblib.externals.loky.process_executor.TerminatedWorkerError: A worker process managed by the executor was unexpectedly terminated. This could be caused by a segmentation fault while calling the function or by an excessive memory usage causing the Operating System to kill the worker.

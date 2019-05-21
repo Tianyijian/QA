@@ -5,6 +5,7 @@ from sklearn.svm import SVC
 from sklearn.linear_model import LogisticRegression
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.model_selection import GridSearchCV
+import jieba
 import const
 import os
 
@@ -113,6 +114,19 @@ def ltp_remove_stop_words():
             f.writelines(result)
 
 
+def jie_ba_seg():
+    """使用 jie ba 进行分词"""
+    file = [(const.qc_train_data, const.qc_train_seg_jie_ba), (const.qc_test_data, const.qc_test_seg_jie_ba)]
+    for i in range(2):
+        result = []
+        with open(file[i][0], 'r', encoding='utf-8') as f:
+            for line in f.readlines():
+                attr = line.strip().split('\t')
+                result.append("{}\t{}\n".format(attr[0], ' '.join(jieba.cut(attr[1]))))
+        with open(file[i][1], 'w', encoding='utf-8') as f:
+            f.writelines(result)
+
+
 def load_data(size='fine'):
     """加载数据
     Parameters
@@ -123,7 +137,7 @@ def load_data(size='fine'):
     y_train = []
     x_test = []
     y_test = []
-    with open(const.qc_train_seg, 'r', encoding='utf-8') as f:
+    with open(const.qc_train_seg_jie_ba, 'r', encoding='utf-8') as f:
         for line in f.readlines():
             attr = line.strip().split('\t')
             x_train.append(attr[1])
@@ -131,7 +145,7 @@ def load_data(size='fine'):
                 y_train.append(attr[0].split('_')[0])
             else:
                 y_train.append(attr[0])
-    with open(const.qc_test_seg, 'r', encoding='utf-8') as f:
+    with open(const.qc_test_seg_jie_ba, 'r', encoding='utf-8') as f:
         for line in f.readlines():
             attr = line.strip().split('\t')
             x_test.append(attr[1])
@@ -215,6 +229,7 @@ def train_svm_rough():
     test_data = tv.transform(x_test)
 
     # clf = SVC(decision_function_shape='ovo')
+    # clf = SVC(C=100.0, kernel='linear')
     clf = SVC(C=100.0, gamma=0.1)
     clf.fit(train_data, y_train)
     # print(clf.predict(test_data))
@@ -225,6 +240,8 @@ def choose_svm():
     """SVM 网格搜索调参
     TF-IDF: 大类: 100, 0.1, 0.8912547528517111  小类: 100, 0.01, 0.7809885931558935
     BoW: 大类: 100, 0.01, 0.8935361216730038 小类:100, 0.01, 0.7505703422053231
+    BoW jie ba: 大类: 100, 0.02, 0.8942965779467681 小类: 100, 0.01, 0.7422053231939163
+    TF-IDF jie ba: 大类: 100, 0.1,0.8996197718631179 小类: 100, 0.01, 0.7741444866920152
     """
     svc = SVC()
     parameters = [
@@ -233,14 +250,15 @@ def choose_svm():
             'gamma': ['scale', 0.001, 0.002, 0.01, 0.02, 0.1, 1],
             'kernel': ['rbf']
         },
-        {
-            'C': [1, 10, 50, 100, 500, 1000],
-            'kernel': ['linear']
-        }]
-    x_train, y_train, x_test, y_test = load_data()
+        # {
+        #     'C': [1, 10, 50, 100, 500, 1000],
+        #     'kernel': ['linear']
+        # }
+        ]
+    x_train, y_train, x_test, y_test = load_data(size='rough')
     # x_train, y_train, x_test, y_test = load_data()
-    # tv = TfidfVectorizer(token_pattern=r"(?u)\b\w+\b")
-    tv = CountVectorizer(token_pattern=r"(?u)\b\w+\b")
+    tv = TfidfVectorizer(token_pattern=r"(?u)\b\w+\b")
+    # tv = CountVectorizer(token_pattern=r"(?u)\b\w+\b")
     train_data = tv.fit_transform(x_train)
     test_data = tv.transform(x_test)
 
@@ -260,7 +278,8 @@ if __name__ == '__main__':
     # ltp_seg_data()
     # ltp_pos_data()
     # ltp_ner_data()
-    ltp_remove_stop_words()
+    # ltp_remove_stop_words()
+    # jie_ba_seg()
     # train_nb()
     # train_lr()
     train_svm_fine()
