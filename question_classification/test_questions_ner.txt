@@ -1,0 +1,1315 @@
+DES_ABBR	API/_O 的/_O 全称/_O 是/_O 什么/_O ？/_O
+DES_ABBR	DNA/_O 全称/_O 是/_O 什么/_O ？/_O
+DES_ABBR	FF/_O 是/_O 什么/_O 的/_O 简称/_O
+DES_ABBR	HTTP/_O 的/_O 中文/_O 全称/_O 是/_O 什么/_O ？/_O
+DES_ABBR	MPEG/_O 是/_O 什么/_O 的/_O 缩写/_O ？/_O
+DES_ABBR	PC/_O 的/_O 全称/_O 是/_O 什么/_O ？/_O
+DES_ABBR	UPS/_O 全称/_O 是/_O 什么/_O ？/_O
+DES_ABBR	WAP/_O 是/_O 指/_O 什么/_O 简称/_O ？/_O
+DES_ABBR	阿拉伯/_B-Ns 联合/_I-Ns 酋长国/_E-Ns 的/_O 简称/_O 是/_O 什么/_O
+DES_ABBR	安徽省/_S-Ns 的/_O 简称/_O 是/_O 什么/_O
+DES_ABBR	东北/_B-Ni 林业/_I-Ni 大学/_E-Ni 的/_O 简称/_O 是/_O 什么/_O
+DES_ABBR	非典/_O 的/_O 全称/_O 是/_O 什么/_O
+DES_ABBR	国际/_B-Ni 体操/_I-Ni 联合会/_I-Ni 健美操/_I-Ni 委员会/_E-Ni 的/_O 英文/_O 简称/_O 是/_O 什么/_O ？/_O
+DES_ABBR	国际/_O 通用/_O 的/_O 求救/_O 信号/_O SOS/_O 是/_O 什么/_O 的/_O 缩写/_O 形式/_O ？/_O
+DES_ABBR	国民收入/_O 的/_O 英文/_O 简写/_O 是/_O 什么/_O ？/_O
+DES_ABBR	哈尔滨/_B-Ni 工业/_I-Ni 大学/_E-Ni 的/_O 英文/_O 简称/_O 是/_O 什么/_O
+DES_ABBR	局域网/_O 的/_O 英文/_O 缩写/_O 是/_O 什么/_O ？/_O
+DES_ABBR	上海/_S-Ns 简称/_O 什么/_O
+DES_ABBR	世界/_B-Ni 贸易/_I-Ni 组织/_E-Ni 的/_O 简称/_O 是/_O 什么/_O
+DES_ABBR	世界/_B-Ni 卫生/_I-Ni 组织/_E-Ni 的/_O 简称/_O 是/_O 什么/_O
+DES_ABBR	世界/_B-Ni 卫生/_I-Ni 组织/_E-Ni 的/_O 英文/_O 缩写/_O 是/_O 什么/_O ？/_O
+DES_ABBR	苏联/_S-Ns 的/_O 全称/_O 是/_O 什么/_O
+DES_ABBR	新/_O 中国/_S-Ns 第一/_O 部/_O 临时/_O 宪法/_O 的/_O 简称/_O 是/_O 什么/_O ？/_O
+DES_ABBR	亚洲/_S-Ns 的/_O 全称/_O 是/_O 什么/_O
+DES_ABBR	音乐/_O 电视/_O 的/_O 英语/_O 缩写/_O 是/_O 什么/_O ？/_O
+DES_DEFINITION	PT/_O 股/_O 是/_O 什么/_O 股/_O ？/_O
+DES_DEFINITION	“/_O 大陆架/_O ”/_O 是/_O 什么/_O ？/_O
+DES_DEFINITION	佛家/_O 明心见性/_O 是/_O 指/_O 什么/_O
+DES_DEFINITION	何谓/_O 人口/_O 爆炸/_O
+DES_DEFINITION	江泽民/_S-Nh 的/_O 三/_O 个/_O 代表/_O 是/_O 什么/_O
+DES_DEFINITION	精神/_O 是/_O 什么/_O
+DES_DEFINITION	能量/_O 守恒/_O 定律/_O 是/_O 什么/_O
+DES_DEFINITION	弄瓦之喜/_O 是/_O 指/_O 什么/_O 喜事/_O ？/_O
+DES_DEFINITION	人造/_O 纤维/_O 是/_O 什么/_O
+DES_DEFINITION	什么/_O 是/_O 磁偏角/_O ？/_O
+DES_DEFINITION	什么/_O 是/_O 死活山/_O
+DES_DEFINITION	银河系/_O 是/_O 什么/_O
+DES_DEFINITION	重金属/_O 是/_O 什么/_O
+DES_DEFINITION	自然/_O 语言/_O 是/_O 什么/_O
+DES_DEFINITION	什么/_O 是/_O URL/_O ？/_O
+DES_EXPRESSION	F/_O 翻译/_O 成/_O 中文/_O 是/_O 什么/_O
+DES_EXPRESSION	“/_O 我/_O 爱/_O 你/_O ”/_O 用/_O 英语/_O 怎么/_O 说/_O ？/_O
+DES_EXPRESSION	番茄/_O 这个/_O 词/_O 英语/_O 怎么/_O 翻译/_O
+DES_EXPRESSION	氧气用/_O 英语/_O 怎么/_O 说/_O
+DES_EXPRESSION	摄氏度/_O 的/_O 英文/_O 命名/_O 是/_O 什么/_O
+DES_JUDGE	太阳/_O 和/_O 月亮/_O 哪/_O 一个/_O 更/_O 重要/_O
+DES_JUDGE	中国/_S-Ns 是/_O 世界/_O 上/_O 老年/_O 人口/_O 最/_O 多/_O 的/_O 国家/_O 吗/_O
+DES_MANNER	艾滋病/_O 是/_O 如何/_O 传染/_O 的/_O
+DES_MANNER	白花谷/_O 是/_O 怎样/_O 形成/_O 的/_O
+DES_MANNER	狗/_O 是/_O 怎么/_O 散热/_O 的/_O ？/_O
+DES_MANNER	河/_O 是/_O 如何/_O 划定/_O 的/_O
+DES_MANNER	马/_O 是/_O 怎样/_O 睡觉/_O 的/_O ？/_O
+DES_MANNER	人大脑/_O 的/_O 左右/_O 半球/_O 是/_O 如何/_O 互相/_O 沟通/_O 的/_O
+DES_MANNER	如何/_O 缓解/_O 压力/_O
+DES_MANNER	如何/_O 加强/_O 绿化/_O 工作/_O 的/_O 进展/_O
+DES_MANNER	如何/_O 饮食/_O 能够/_O 延长/_O 人类/_O 的/_O 寿命/_O
+DES_MANNER	沙漠/_O 是/_O 怎样/_O 形成/_O 的/_O
+DES_MANNER	星座/_O 是/_O 如何/_O 命名/_O 的/_O
+DES_MANNER	一定量/_O 的/_O 气体/_O 当/_O 体积/_O 减/_O 小时/_O 压力/_O 如何/_O 变化/_O
+DES_MANNER	怎么样/_O 才/_O 能/_O 飞翔/_O
+DES_MANNER	怎样/_O 才/_O 能/_O 保持/_O 身体/_O 健康/_O
+DES_MANNER	怎样/_O 才/_O 能/_O 预防/_O
+DES_MANNER	怎样/_O 将/_O 钉子/_O 钉/_O 进/_O 木头/_O 里/_O
+DES_MANNER	怎样/_O 能够/_O 减肥/_O
+DES_MANNER	怎样/_O 预防/_O 非典/_O
+DES_MANNER	怎样/_O 预防/_O 呼吸道/_O 传染病/_O
+DES_MANNER	非/_O 典型/_O 肺炎/_O 通过/_O 哪些/_O 途径/_O 进行/_O 传播/_O
+DES_MEANING	WNBA/_O 代表/_O 什么/_O ？/_O
+DES_MEANING	"/_O Moonlighting/_O "/_O 是/_O 什么/_O 意思/_O ？/_O
+DES_MEANING	DNA/_O 是/_O 什么/_O 意思/_O ？/_O
+DES_MEANING	IT/_O 是/_O 什么/_O 意思/_O ？/_O
+DES_MEANING	黑色/_O 星期五/_O 是/_O 什么/_O 意思/_O
+DES_MEANING	汽车/_O 铭牌/_O 上/_O 的/_O “/_O SGL/_O ”/_O 标识/_O 表示/_O 什么/_O 意思/_O ？/_O
+DES_MEANING	送给/_O 恋人/_O 3/_O 朵/_O 花/_O 表示/_O 什么/_O 意思/_O ？/_O
+DES_MEANING	蒸汽机/_O 的/_O 发明/_O 意味着/_O 什么/_O
+DES_OTHER	心脏/_O 是/_O 用/_O 来/_O 做/_O 什么/_O 的/_O
+DES_OTHER	哺乳动物/_O 的/_O 定义/_O 是/_O 什么/_O
+DES_OTHER	搜索引擎/_O 是/_O 用/_O 来/_O 做/_O 什么/_O 的/_O
+DES_OTHER	游乐场/_O 是/_O 做/_O 什么/_O 的/_O
+DES_OTHER	中国/_B-Ni 农工党/_E-Ni 的/_O 忠旨/_O 是/_O 什么/_O
+DES_OTHER	.net/_O 技术/_O 的/_O 核心/_O 是/_O 什么/_O ？/_O
+DES_OTHER	操作系统/_O 中/_O 进程/_O 的/_O 概念/_O 是/_O 什么/_O
+DES_OTHER	艾滋病/_O 和/_O 性病/_O 有/_O 什么/_O 关系/_O
+DES_OTHER	奥林匹克/_O 运动会/_O 的/_O 口号/_O 是/_O 什么/_O ？/_O
+DES_OTHER	北冰洋/_S-Ns 有/_O 什么/_O 特点/_O
+DES_OTHER	避雷针/_O 有/_O 什么/_O 用/_O
+DES_OTHER	病毒/_O 和/_O 细菌/_O 有/_O 什么/_O 不同/_O
+DES_OTHER	操作系统/_O 中/_O 进程/_O 和/_O 线程/_O 有/_O 什么/_O 本质/_O 的/_O 区别/_O
+DES_OTHER	大米/_O 是/_O 用/_O 来/_O 干/_O 什么/_O 的/_O
+DES_OTHER	灯泡/_O 发光/_O 的/_O 原理/_O 是/_O 什么/_O
+DES_OTHER	电子表/_O 和/_O 机械表/_O 有/_O 什么/_O 区别/_O
+DES_OTHER	东北菜/_O 和/_O 广东/_S-Ns 菜/_O 有/_O 什么/_O 不同/_O
+DES_OTHER	东宫/_S-Ns 与/_O 西宫/_S-Ns 有/_O 什么/_O 不同/_O
+DES_OTHER	对比/_O 和/_O 对照/_O 有/_O 什么/_O 区别/_O
+DES_OTHER	对立统一/_O 原理/_O 讲述/_O 了/_O 什么/_O 道理/_O
+DES_OTHER	额定/_O 功率/_O 和/_O 最/_O 大/_O 功率/_O 有/_O 什么/_O 区别/_O
+DES_OTHER	分类/_O 和/_O 聚类/_O 有/_O 什么/_O 不同/_O
+DES_OTHER	近视/_O 眼镜/_O 有/_O 什么/_O 作用/_O
+DES_OTHER	梁启超/_S-Nh 和/_O 梁思成/_S-Nh 是/_O 什么/_O 关系/_O ？/_O
+DES_OTHER	南极/_S-Ns 和/_O 北极/_S-Ns 有/_O 何/_O 不同/_O
+DES_OTHER	帕金森病/_O 的/_O 症状/_O 是/_O 什么/_O
+DES_OTHER	千/_O 斤/_O 鼎/_O 的/_O 工作/_O 原理/_O 是/_O 什么/_O
+DES_OTHER	氢弹/_O 的/_O 爆炸/_O 原理/_O 是/_O 什么/_O ？/_O
+DES_OTHER	山谷/_O 和/_O 峡谷/_O 有/_O 什么/_O 区别/_O
+DES_OTHER	舌苔/_O 有/_O 什么/_O 用/_O
+DES_OTHER	石油/_O 的/_O 用途/_O 是/_O 什么/_O
+DES_OTHER	什么样/_O 的/_O 食品/_O 属/_O 绿色/_O 食品/_O
+DES_OTHER	太阳/_O 活动/_O 强弱/_O 的/_O 主要/_O 标志/_O 是/_O 什么/_O ？/_O
+DES_OTHER	危地马拉/_S-Ns 的/_O 经济/_O 支柱/_O 是/_O 什么/_O ？/_O
+DES_OTHER	唯物主义/_O 和/_O 唯心主义/_O 的/_O 本质/_O 区别/_O 是/_O 什么/_O
+DES_OTHER	温家宝/_S-Nh 第一/_O 次/_O 关于/_O 预防/_O 非典型性/_O 肺炎/_O 的/_O 讲话/_O 内容/_O 是/_O 什么/_O
+DES_OTHER	象牙/_O 有/_O 什么/_O 功能/_O ？/_O
+DES_OTHER	眼睛/_O 是/_O 干什么/_O 用/_O 的/_O
+DES_OTHER	云南/_S-Ns 白药/_O 有/_O 什么/_O 功能/_O ？/_O
+DES_OTHER	张家界/_S-Ns 有/_O 什么/_O 特色/_O
+DES_OTHER	哲学史/_O 是/_O 研究/_O 什么/_O 的/_O
+DES_OTHER	打开/_O 中/_S-Ns 美/_S-Ns 建交/_O 大门/_O 的/_O 最/_O 早/_O 的/_O 外交/_O 活动/_O 是/_O 什么/_O ？/_O
+DES_OTHER	鼻毛/_O 的/_O 作用/_O 有/_O 哪些/_O
+DES_OTHER	国际/_O 红十字会/_O 的/_O 旗帜/_O 是/_O 什么/_O 形状/_O 的/_O ？/_O
+DES_OTHER	蜜蜂/_O 对/_O 人类/_O 有/_O 何/_O 益处/_O
+DES_OTHER	作为/_O 最/_O 理想/_O 和/_O 最/_O 重要/_O 的/_O 授粉/_O 昆虫/_O ，/_O 蜜蜂/_O 具有/_O 什么样/_O 的/_O 形态/_O 构造/_O
+DES_REASON	澳大利亚/_S-Ns 以/_O 什么/_O 著名/_O
+DES_REASON	白炽灯/_O 用/_O 久/_O 了/_O 为什么/_O 会/_O 发/_O 黑/_O ？/_O
+DES_REASON	百慕大/_S-Ns 三角洲/_O 为什么/_O 会/_O 著名/_O
+DES_REASON	北极/_S-Ns 没有/_O 企鹅/_O 的/_O 原因/_O 是/_O 什么/_O ？/_O
+DES_REASON	地球/_O 上/_O 的/_O 四季/_O 变迁/_O 是/_O 由/_O 什么/_O 引起/_O 的/_O ？/_O
+DES_REASON	敦煌/_S-Ns 因/_O 什么/_O 而/_O 出名/_O
+DES_REASON	甘肃/_B-Ns 酒泉/_E-Ns 因/_O 何/_O 得/_O 名/_O ？/_O
+DES_REASON	广州/_S-Ns 因/_O 何/_O 而/_O 有/_O “/_O 羊城/_S-Ns ”/_O 之/_O 名/_O ？/_O
+DES_REASON	哈尔滨/_S-Ns 以/_O 什么/_O 著称/_O
+DES_REASON	花儿/_O 为什么/_O 这样/_O 红/_O
+DES_REASON	华山/_S-Ns 为什么/_O 著名/_O
+DES_REASON	李小龙/_S-Nh 的/_O 死因/_O 是/_O 什么/_O ？/_O
+DES_REASON	林肯/_S-Nh 是/_O 怎么/_O 死/_O 的/_O ？/_O
+DES_REASON	汽水/_O 为什么/_O 能/_O 解暑/_O ？/_O
+DES_REASON	人/_O 为什么/_O 活/_O 着/_O
+DES_REASON	人/_O 在/_O 死海/_S-Ns 游泳/_O 不/_O 会/_O 沉/_O 到/_O 水底/_O ，/_O 是/_O 什么/_O 原因/_O ？/_O
+DES_REASON	少林寺/_S-Ns 为什么/_O 有名/_O
+DES_REASON	台湾/_S-Ns 为什么/_O 要/_O 独立/_O
+DES_REASON	天/_O 为什么/_O 是/_O 蓝/_O 的/_O 啊/_O ？/_O
+DES_REASON	图灵/_O 以/_O 什么/_O 闻名于世/_O
+DES_REASON	为什么/_O 会/_O 打雷/_O
+DES_REASON	为什么/_O 会/_O 大规模/_O 传染/_O 疾病/_O
+DES_REASON	为什么/_O 唐朝/_O 时/_O 的/_O 中国/_S-Ns 是/_O 当时/_O 最/_O 鼎盛/_O 的/_O 国度/_O
+DES_REASON	为什么/_O 用/_O 久/_O 了/_O 的/_O 电灯/_O 泡会/_O 发/_O 黑/_O ？/_O
+DES_REASON	西双版纳/_S-Ns 以/_O 什么/_O 文明/_O 于/_O 世/_O
+DES_REASON	夏威夷/_S-Ns 为什么/_O 闻名于世/_O
+DES_REASON	星期天/_O 为什么/_O 又/_O 叫/_O 礼拜天/_O
+DES_REASON	张国荣/_S-Nh 为什么/_O 会/_O 自杀/_O
+DES_REASON	张家界/_S-Ns 以/_O 什么/_O 而/_O 著名/_O
+DES_REASON	中国/_S-Ns 的/_O 丝绸之路/_O 因/_O 何/_O 而/_O 得/_O 名/_O
+DES_REASON	中国/_S-Ns 民间/_O 为什么/_O 要/_O 吃/_O 腊八/_O 粥/_O ？/_O
+DES_REASON	中国/_S-Ns 为什么/_O 落后/_O
+HUM_DESCRIPTION	布什/_S-Nh 是/_O 个/_O 什么样/_O 的/_O 人/_O
+HUM_DESCRIPTION	布什/_S-Nh 是/_O 谁/_O
+HUM_DESCRIPTION	陈独秀/_S-Nh 是/_O 何许人/_O
+HUM_DESCRIPTION	谁/_O 是/_O 康熙大帝/_O
+HUM_DESCRIPTION	周恩来/_S-Nh 是/_O 什么/_O 人/_O
+HUM_ORGANIZATION	IMF/_O 是/_O 哪个/_O 国际/_O 组织/_O 的/_O 简称/_O ？/_O
+HUM_ORGANIZATION	UNESCO/_O 是/_O 什么/_O 国际/_O 组织/_O 的/_O 简称/_O ？/_O
+HUM_ORGANIZATION	美国/_S-Ns 陆军/_O 特种部队/_O 别名/_O 叫/_O 什么/_O
+HUM_ORGANIZATION	2000年/_O 世界杯/_O 获得/_O 冠军/_O 的/_O 是/_O 哪/_O 一/_O 支/_O 足球队/_O
+HUM_ORGANIZATION	中国/_S-Ns 企业/_O 进入/_O 世界/_O 五百/_O 强/_O 的/_O 都/_O 哪些/_O
+HUM_ORGANIZATION	1885年/_O 哪/_O 位/_O 德国/_S-Ns 汽车/_O 制造商/_O 制造/_O 出/_O 第一/_O 辆/_O 摩托车/_O
+HUM_ORGANIZATION	1999年/_O NBA/_O 总/_O 冠军/_O 是/_O 哪/_O 支/_O 球队/_O
+HUM_ORGANIZATION	2000年/_O 美国/_S-Ns 棒球/_O 冠军/_O 是/_O 哪/_O 支/_O 球队/_O
+HUM_ORGANIZATION	2004/_O 届/_O 世界/_O 足球/_O 先生/_O 效力/_O 于/_O 哪个/_O 俱乐部/_O
+HUM_ORGANIZATION	Flash/_O 是/_O 哪个/_O 公司/_O 的/_O 产品/_O
+HUM_ORGANIZATION	NASA/_O 是/_O 哪个/_O 国际/_O 组织/_O
+HUM_ORGANIZATION	Quake/_O 系列/_O 的/_O 游戏/_O 的/_O 开发/_O 公司/_O 是/_O 哪个/_O 公司/_O
+HUM_ORGANIZATION	WPS/_O 是/_O 由/_O 哪个/_O 公司/_O 开发/_O 的/_O
+HUM_ORGANIZATION	安徽/_B-Ns 合肥/_E-Ns 最/_O 好/_O 的/_O 大学/_O 是/_O 哪/_O 一/_O 所/_O
+HUM_ORGANIZATION	处理/_O 两岸/_O 同胞/_O 文化/_O 交流/_O 的/_O 是/_O 哪个/_O 政府/_O 机构/_O
+HUM_ORGANIZATION	代表/_O 美国/_S-Ns 参加/_O 奥运会/_O 的/_O 男子/_O 篮球队/_O 被/_O 称作/_O 什么/_O
+HUM_ORGANIZATION	德国/_S-Ns 的/_O 执政党/_O 是/_O 哪个/_O
+HUM_ORGANIZATION	德国/_S-Ns 历史/_O 最/_O 悠久/_O 的/_O 工科/_O 大学/_O 是/_O 哪/_O 所/_O
+HUM_ORGANIZATION	第一/_O 届/_O 世界杯/_O 足球赛/_O 的/_O 冠军/_O 是/_O 哪/_O 只/_O 球队/_O
+HUM_ORGANIZATION	管理/_O 全国/_O 计划生育/_O 工作/_O 的/_O 国家/_O 机构/_O 是/_O 哪个/_O
+HUM_ORGANIZATION	黑龙江/_S-Ns 的/_O 甲级/_O 足球/_O 俱乐部/_O 叫/_O 什么/_O
+HUM_ORGANIZATION	计划生育/_O 归/_O 什么/_O 部门/_O 管理/_O
+HUM_ORGANIZATION	江泽民/_S-Nh 毕业/_O 于/_O 哪/_O 一/_O 所/_O 大学/_O
+HUM_ORGANIZATION	美国/_S-Ns 的/_O C-130/_O 运输机/_O 是/_O 哪个/_O 公司/_O 的/_O 产品/_O
+HUM_ORGANIZATION	哪个/_O 机构/_O 执行/_O 中国/_S-Ns 货币/_O 政策/_O
+HUM_ORGANIZATION	什么/_O 部门/_O 负责/_O 对外贸易/_O 监控/_O
+HUM_ORGANIZATION	世界杯/_O 足球赛/_O 的/_O 首/_O 届/_O 冠军/_O 是/_O 哪个/_O 队/_O
+HUM_ORGANIZATION	世界/_O 上/_O 最/_O 有名/_O 的/_O 动画/_O 电影/_O 公司/_O 是/_O 什么/_O
+HUM_ORGANIZATION	世界/_O 最/_O 大/_O 的/_O 银行/_O 是/_O 什么/_O 银行/_O
+HUM_ORGANIZATION	我国/_O 哪/_O 一/_O 银行/_O 执行/_O 中央/_B-Ni 银行/_E-Ni 的/_O 职能/_O
+HUM_ORGANIZATION	现任/_O 中国/_S-Ns 总理/_O 毕业/_O 于/_O 哪/_O 所/_O 大学/_O
+HUM_ORGANIZATION	香港/_S-Ns 的/_O 立法/_O 机构/_O 是/_O 什么/_O
+HUM_ORGANIZATION	杨致远/_S-Nh 是/_O 什么/_O 大学/_O 毕业/_O 的/_O
+HUM_ORGANIZATION	英国/_S-Ns 历史/_O 最/_O 悠久/_O 的/_O 大学/_O 是/_O 哪/_O 所/_O
+HUM_ORGANIZATION	有/_O 权/_O 公布/_O 国家/_O 法定/_O 计量/_O 单位/_O 的/_O 名称/_O 符号/_O 的/_O 是/_O 什么/_O 部门/_O
+HUM_ORGANIZATION	在/_O 中国/_S-Ns 制定/_O 货币/_O 政策/_O 的/_O 是/_O 哪个/_O 银行/_O
+HUM_ORGANIZATION	朱熔基/_S-Nh 总理/_O 曾/_O 任/_O 清华大学/_B-Ni 哪个/_I-Ni 学院/_E-Ni 的/_O 院长/_O
+HUM_PERSON	1990年/_O 中国/_B-Ni 共产党/_E-Ni 的/_O 总书记/_O 是/_O 谁/_O
+HUM_PERSON	狼牙山/_S-Ns 五/_O 壮士/_O 的/_O 五/_O 个/_O 人/_O 是/_O 谁/_O
+HUM_PERSON	请问/_O 初唐/_O 四/_O 杰/_O 是/_O 哪/_O 四/_O 位/_O
+HUM_PERSON	是/_O 谁/_O 发现/_O 了/_O 电子/_O
+HUM_PERSON	谁/_O 发现/_O 的/_O 非典型性/_O 肺炎/_O 的/_O 病毒/_O
+HUM_PERSON	谁/_O 发现/_O 的/_O 哈雷彗星/_O
+HUM_PERSON	谁/_O 发现/_O 的/_O 南极洲/_B-Ni
+HUM_PERSON	谁/_O 发现/_O 的/_O 万有引力/_O 定理/_O
+HUM_PERSON	谁/_O 发现/_O 了/_O 非/_O 典型/_O 肺炎/_O 的/_O 病原体/_O k/_O
+HUM_PERSON	谁/_O 发现/_O 了/_O 南极/_S-Ns 大陆/_O
+HUM_PERSON	谁/_O 发现/_O 了/_O 新大陆/_O
+HUM_PERSON	谁/_O 发现/_O 闪电/_O 是/_O 一/_O 种/_O 电/_O
+HUM_PERSON	谁/_O 最先/_O 发现/_O 天王星/_O
+HUM_PERSON	在/_O 朝鲜/_S-Ns 停战/_O 的/_O 协议/_O 上/_O 签字/_O 的/_O 中/_S-Ns 美/_S-Ns 双方/_O 代表/_O 分别/_O 是/_O 谁/_O ？/_O
+HUM_PERSON	中共/_B-Ni 十六大/_I-Ni 中央/_I-Ni 政治局/_I-Ni 成员/_E-Ni 是/_O 哪/_O 几/_O 位/_O
+HUM_PERSON	中国/_S-Ns 开国/_O 十/_O 大/_O 元帅/_O 是/_O 哪些/_O 人/_O
+HUM_PERSON	中国/_S-Ns 著名/_O 诗人/_O 有/_O 哪些/_O
+HUM_PERSON	中华人民共和国/_S-Ns 的/_O 历任/_O 主席/_O 都/_O 是/_O 谁/_O
+HUM_PERSON	诸子/_O 百/_O 家/_O 是/_O 哪些/_O
+HUM_PERSON	1869年/_O 3月/_O ，/_O 哪/_O 位/_O 科学家/_O 正式/_O 公布/_O 了/_O 元素/_O 周期/_O 律/_O
+HUM_PERSON	1897年/_O ，/_O 谁/_O 发现/_O 了/_O 电子/_O
+HUM_PERSON	1945年/_O 发明/_O 了/_O 第一/_O 个/_O 充气/_O 轮胎/_O 的/_O 工程师/_O 叫/_O 什么/_O 名字/_O
+HUM_PERSON	1990年/_O 世界杯/_O 最佳/_O 射手/_O 是/_O 谁/_O 呀/_O
+HUM_PERSON	2000年/_O 世界/_O 足球/_O 先生/_O 是/_O 谁/_O
+HUM_PERSON	LINUX/_O 是/_O 由/_O 谁/_O 发明/_O 的/_O
+HUM_PERSON	《/_O 白雪/_O 公主/_O 》/_O 的/_O 作者/_O 是/_O 谁/_O
+HUM_PERSON	《/_O 浮士德/_S-Nh 交响曲/_O 》/_O 是/_O 由/_O 谁/_O 创作/_O 的/_O
+HUM_PERSON	《/_O 钢铁/_O 是/_O 怎样/_O 炼/_O 成/_O 的/_O 》/_O 作者/_O 是/_O 谁/_O
+HUM_PERSON	《/_O 哈利·波特/_S-Nh 》/_O 一/_O 书/_O 作者/_O 是/_O 谁/_O
+HUM_PERSON	《/_O 化学/_O 哲学/_O 的/_O 新/_O 体系/_O 》/_O 是/_O 哪/_O 位/_O 科学家/_O 的/_O 著作/_O
+HUM_PERSON	《/_O 黄河/_S-Ns 大合唱/_O 》/_O 的/_O 作曲者/_O 是/_O 谁/_O
+HUM_PERSON	《/_O 简爱/_O 》/_O 是/_O 谁/_O 写/_O 的/_O
+HUM_PERSON	《/_O 洛神/_S-Nh 赋/_O 图/_O 》/_O 是/_O 谁/_O 的/_O 作品/_O
+HUM_PERSON	《/_O 儒林外史/_O 》/_O 的/_O 作者/_O 是/_O 谁/_O
+HUM_PERSON	《/_O 宿命/_O 》/_O 是/_O 谁/_O 的/_O 作品/_O
+HUM_PERSON	《/_O 乡愁/_O 》/_O 是/_O 谁/_O 的/_O 诗作/_O
+HUM_PERSON	《/_O 义勇军/_O 进行曲/_O 》/_O 的/_O 曲作者/_O 是/_O 谁/_O
+HUM_PERSON	阿炳/_S-Nh 的/_O 原名/_O 叫/_O 什么/_O
+HUM_PERSON	埃及/_S-Ns 人/_O 面狮/_O 身/_O 像/_O 的/_O 鼻子/_O ，/_O 是/_O 被/_O 谁/_O 炸毁/_O 的/_O
+HUM_PERSON	被/_O 称为/_O 是/_O “/_O 全能/_O 数学家/_O ”/_O 的/_O 是/_O 谁/_O
+HUM_PERSON	被/_O 称为/_O 太阳王/_O 的/_O 国王/_O 是/_O 谁/_O
+HUM_PERSON	第一/_O 次/_O 世界大战/_O 时/_O ，/_O 美国/_S-Ns 总统/_O 是/_O 谁/_O
+HUM_PERSON	第一/_O 个/_O 打破/_O 世界/_O 纪录/_O 的/_O 中国/_S-Ns 人/_O 是/_O 谁/_O
+HUM_PERSON	发明/_O 青霉素/_O 的/_O 科学家/_O 是/_O 谁/_O
+HUM_PERSON	发明/_O 珍妮/_S-Nh 纺纱机/_O 的/_O 人/_O 是/_O 谁/_O
+HUM_PERSON	法国/_S-Ns 的/_O 凡尔赛宫/_S-Ns 是/_O 由/_O 谁/_O 设计/_O 的/_O
+HUM_PERSON	哥伦布/_S-Nh 航海/_O 计划/_O 得到/_O 谁/_O 的/_O 支持/_O 才/_O 变成/_O 现实/_O
+HUM_PERSON	哈工大/_O 的/_O 现任/_O 校长/_O 是/_O 谁/_O
+HUM_PERSON	抗美援朝/_B-Ni 中国/_I-Ni 人民/_I-Ni 志愿军/_I-Ni 司令员/_E-Ni 是/_O 谁/_O
+HUM_PERSON	马其顿/_S-Ns 方阵/_O 是/_O 由/_O 谁/_O 发明/_O 的/_O
+HUM_PERSON	馒头/_O 是/_O 谁/_O 发明/_O 的/_O
+HUM_PERSON	名画/_O 《/_O 马拉/_S-Ns 之/_O 死/_O 》/_O 是/_O 谁/_O 的/_O 作品/_O
+HUM_PERSON	名画/_O 《/_O 最后/_O 的/_O 晚餐/_O 》/_O 是/_O 谁/_O 的/_O 作品/_O
+HUM_PERSON	名著/_O 《/_O 西游记/_O 》/_O 的/_O 作者/_O 是/_O 谁/_O
+HUM_PERSON	哪/_O 位/_O 科学家/_O 被/_O 称为/_O “/_O 计算机/_O 之/_O 父/_O ”/_O
+HUM_PERSON	哪/_O 位/_O 科学家/_O 最先/_O 指出/_O 细菌/_O 会/_O 引起/_O 疾病/_O
+HUM_PERSON	彭德怀/_S-Nh 将军/_O 原名/_O 是/_O 什么/_O
+HUM_PERSON	诗仙/_O 是/_O 谁/_O
+HUM_PERSON	世界/_O 机器人/_O 足球/_O 的/_O 创始人/_O 是/_O 谁/_O
+HUM_PERSON	世界/_O 名画/_O 《/_O 和平鸽/_O 》/_O 的/_O 创作者/_O 是/_O 谁/_O
+HUM_PERSON	世界/_O 上/_O 第一/_O 个/_O 成功/_O 移植/_O 肝脏/_O 的/_O 医生/_O 是/_O 谁/_O
+HUM_PERSON	世界/_O 上/_O 第一/_O 个/_O 诺贝尔/_O 物理奖/_O 获得者/_O 是/_O 谁/_O
+HUM_PERSON	世界/_O 上/_O 第一/_O 例/_O 试管婴儿/_O 叫/_O 什么/_O 名字/_O
+HUM_PERSON	世界/_O 上/_O 第一/_O 只/_O 鼠标/_O 是/_O 谁/_O 发明/_O 的/_O
+HUM_PERSON	世界/_O 上/_O 首/_O 次/_O 测算/_O 出/_O 子午线/_O 长度/_O 的/_O 是/_O 谁/_O
+HUM_PERSON	是/_O 谁/_O 出卖/_O 了/_O 耶稣/_S-Nh
+HUM_PERSON	是/_O 谁/_O 发明/_O 的/_O 地震仪/_O
+HUM_PERSON	是/_O 谁/_O 发明/_O 的/_O 印刷术/_O
+HUM_PERSON	是/_O 谁/_O 发明/_O 了/_O 磅秤/_O
+HUM_PERSON	是/_O 谁/_O 发明/_O 了/_O 活字/_O 印刷术/_O
+HUM_PERSON	是/_O 谁/_O 发现/_O 的/_O 冥王星/_O
+HUM_PERSON	是/_O 谁/_O 与/_O 牛顿/_S-Nh 争夺/_O 微积分/_O 发现/_O 的/_O 优先权/_O
+HUM_PERSON	是/_O 谁/_O 在/_O 著作/_O 中/_O 首先/_O 提到/_O 了/_O 勾股/_O 定理/_O
+HUM_PERSON	首先/_O 讨论/_O 黑洞/_O 的/_O 一/_O 位/_O 剑桥/_S-Ns 人/_O 叫/_O 什么/_O 名字/_O
+HUM_PERSON	谁/_O 发明/_O 的/_O 火车/_O
+HUM_PERSON	谁/_O 发明/_O 了/_O 车轮/_O
+HUM_PERSON	谁/_O 发明/_O 了/_O 电话/_O
+HUM_PERSON	谁/_O 发明/_O 了/_O 火药/_O
+HUM_PERSON	谁/_O 发明/_O 了/_O 造纸术/_O
+HUM_PERSON	谁/_O 发明/_O 了/_O 蒸汽机/_O
+HUM_PERSON	谁/_O 发现/_O 了/_O 白光/_O 是/_O 七色光/_O 组成/_O 的/_O
+HUM_PERSON	谁/_O 获得/_O 1987年/_O 的/_O 诺贝尔/_S-Nh 文学奖/_O
+HUM_PERSON	谁/_O 领导/_O 中国/_S-Ns 人民/_O 创立/_O 了/_O 新/_O 中国/_S-Ns
+HUM_PERSON	谁/_O 是/_O 第一/_O 个/_O 航海/_O 经过/_O 非洲/_S-Ns 最/_O 南端/_O 的/_O 欧洲人/_O
+HUM_PERSON	谁/_O 是/_O 第一/_O 个/_O 美国/_S-Ns 总统/_O
+HUM_PERSON	谁/_O 是/_O 电磁/_O 感应/_O 的/_O 发现者/_O
+HUM_PERSON	谁/_O 是/_O 微软/_S-Ni 的/_O 首席/_O 执行官/_O
+HUM_PERSON	谁/_O 是/_O 中国/_S-Ns 第一/_O 任/_O 的/_O 外交部长/_O
+HUM_PERSON	谁/_O 死/_O 后/_O 布/_O 了/_O 七十二/_O 疑/_O 冢/_O
+HUM_PERSON	谁/_O 提出/_O 了/_O 凯恩斯/_S-Nh 定理/_O
+HUM_PERSON	谁/_O 提出/_O 了/_O 最/_O 大/_O 熵/_O 理论/_O
+HUM_PERSON	谁/_O 写/_O 了/_O 著名/_O 的/_O 诗篇/_O 《/_O 将/_O 进/_O 酒/_O 》/_O
+HUM_PERSON	谁/_O 在/_O 第二十五/_O 届/_O 奥运会/_O 获得/_O 第一/_O 枚/_O 金牌/_O
+HUM_PERSON	谁/_O 在/_O 香港/_S-Ns 电影/_O 《/_O 花样/_O 年华/_O 》/_O 中/_O 饰演/_O 男/_O 主角/_O
+HUM_PERSON	谁/_O 制造/_O 出/_O 第一/_O 台/_O 计算机/_O
+HUM_PERSON	谁/_O 制造/_O 了/_O 第一/_O 台/_O 电脑/_O
+HUM_PERSON	宋朝/_O 的/_O 开国/_O 皇帝/_O 是/_O 谁/_O
+HUM_PERSON	泰坦尼克号/_O 的/_O 舰长/_O 是/_O 谁/_O
+HUM_PERSON	太平天国/_O 中/_O 的/_O 西王/_O 是/_O 谁/_O
+HUM_PERSON	太阳/_O 中心/_O 说是/_O 谁/_O 提出/_O 的/_O
+HUM_PERSON	唐朝/_O 的/_O 第一/_O 个/_O 皇帝/_O 是/_O 谁/_O
+HUM_PERSON	微软/_B-Ni 亚洲/_I-Ni 研究院/_E-Ni 的/_O 院长/_O 是/_O 谁/_O
+HUM_PERSON	文学/_O 名著/_O 《/_O 基督/_O 山/_O 伯爵/_O 》/_O 是/_O 谁/_O 的/_O 作品/_O
+HUM_PERSON	我国/_O 古代/_O 历法/_O "/_O 十二/_O 气历/_O "/_O 是/_O 谁/_O 提出/_O 的/_O
+HUM_PERSON	我国/_O 军史/_O 上/_O 第一/_O 位/_O 女/_O 将军/_O 是/_O 谁/_O
+HUM_PERSON	卧龙/_S-Nh 先生/_O 是/_O 谁/_O
+HUM_PERSON	现代/_O 奥林匹克/_O 运动/_O 创始人/_O 是/_O 谁/_O
+HUM_PERSON	现代/_O 奥运会/_O 的/_O 创始人/_O 是/_O 谁/_O
+HUM_PERSON	现任/_O 美国/_S-Ns 国务卿/_O 是/_O 谁/_O
+HUM_PERSON	新/_O 当选/_O 的/_O 中共中央/_S-Ni 总书记/_O 是/_O 谁/_O
+HUM_PERSON	新/_O 上任/_O 的/_O 中国/_B-Ni 卫生部/_E-Ni 部长/_O 是/_O 谁/_O
+HUM_PERSON	星际/_O 航行/_O 理论/_O 的/_O 开创者/_O 是/_O 哪/_O 位/_O 科学家/_O
+HUM_PERSON	伊拉克/_S-Ns 总统/_O 是/_O 谁/_O
+HUM_PERSON	伊斯兰教/_O 中/_O 唯一/_O 的/_O 神/_O 是/_O 谁/_O
+HUM_PERSON	遗传/_O 分子/_O DNA/_O 双/_O 螺旋/_O 结构/_O 模型/_O 由/_O 谁/_O 提出/_O
+HUM_PERSON	由于/_O “/_O 水门/_O 事件/_O ”/_O 下台/_O 的/_O 美国/_S-Ns 总统/_O 是/_O 谁/_O
+HUM_PERSON	岳不群/_S-Nh 的/_O 妻子/_O 叫/_O 什么/_O 名字/_O
+HUM_PERSON	招商/_O 银行/_O 总经理/_O 是/_O 谁/_O
+HUM_PERSON	指南针/_O 是/_O 谁/_O 发明/_O 的/_O
+HUM_PERSON	纸/_O 是/_O 谁/_O 发明/_O 的/_O
+HUM_PERSON	中国/_S-Ns 参加/_O 奥运会/_O 次数/_O 最/_O 多/_O 的/_O 运动员/_O 是/_O 谁/_O
+HUM_PERSON	中国/_B-Ni 共产党/_E-Ni 的/_O 创始人/_O 李大钊/_S-Nh 是/_O 被/_O 什么/_O 人/_O 杀害/_O 的/_O
+HUM_PERSON	中国/_S-Ns 古代/_O 名医/_O 华佗/_S-Nh 为/_O 谁/_O 所/_O 杀/_O
+HUM_PERSON	中国/_S-Ns 古代/_O 哪/_O 一/_O 位/_O 曾/_O 被/_O 称为/_O “/_O 药王/_O ”/_O
+HUM_PERSON	中国/_S-Ns 空军/_O 第一/_O 任/_O 总司令/_O 是/_O 谁/_O
+HUM_PERSON	中国/_S-Ns 历史/_O 上/_O 第一/_O 个/_O 皇帝/_O 是/_O 谁/_O
+HUM_PERSON	中国/_S-Ns 历史/_O 上/_O 清朝/_O 历代/_O 皇帝/_O 都/_O 是/_O 谁/_O
+HUM_PERSON	中国/_S-Ns 现任/_O 国家/_O 主席/_O 是/_O 谁/_O
+HUM_PERSON	中华人民共和国/_S-Ns 的/_O 外交部长/_O 是/_O 谁/_O
+HUM_PERSON	中华人民共和国/_S-Ns 是/_O 哪/_O 位/_O 民主人士/_O 提出/_O 的/_O
+HUM_PERSON	自由/_O 落体/_O 定律/_O 由/_O 谁/_O 发现/_O
+HUM_PERSON	最先/_O 吃/_O 螃蟹/_O 的/_O 人/_O 是/_O 谁/_O
+HUM_PERSON	最/_O 早/_O 发现/_O x/_O 射线/_O 的/_O 科学家/_O 是/_O 谁/_O
+HUM_PERSON	最/_O 早/_O 提出/_O “/_O 人/_O 猿/_O 同/_O 祖论/_O ”/_O 的/_O 是/_O 谁/_O
+HUM_PERSON	作家/_O 老舍/_S-Nh 的/_O 原名/_O 叫/_O 什么/_O
+HUM_PERSON	上/_O 一/_O 届/_O 美国/_S-Ns 总统/_O 是/_O 哪/_O 位/_O
+LOC_ADDRESS	北京/_S-Ns 世界/_O 公元/_O 的/_O 地址/_O 是/_O
+LOC_ADDRESS	大连/_B-Ni 陆军/_I-Ni 学院/_E-Ni 的/_O 地址/_O 是/_O 什么/_O ？/_O
+LOC_ADDRESS	哈尔滨/_B-Ni 工业/_I-Ni 大学/_E-Ni 的/_O 地址/_O 是/_O 什么/_O ？/_O
+LOC_ADDRESS	海尔/_B-Ni 集团/_E-Ni 总部/_O 的/_O 地址/_O 在/_O 哪里/_O ？/_O
+LOC_ADDRESS	上海/_B-Ni 东方/_I-Ni 明珠/_E-Ni 的/_O 详细/_O 地址/_O 是/_O 什么/_O
+LOC_ADDRESS	深圳/_B-Ni 中兴/_I-Ni 通讯/_I-Ni 公司/_E-Ni 的/_O 总部/_O 的/_O 确切/_O 地址/_O 是/_O 什么/_O
+LOC_ADDRESS	中南海/_S-Ns 的/_O 地址/_O 是/_O 多少/_O
+LOC_ADDRESS	国际/_B-Ni 奥委会/_E-Ni 最初/_O 成立/_O 时/_O 总部/_O 设置/_O 在/_O 什么/_O 地点/_O ？/_O
+LOC_ADDRESS	加内特/_S-Nh 的/_O 个人/_O 主页/_O 是/_O 什么/_O
+LOC_ADDRESS	马尔/_S-Nh 他/_O 大学/_O 的/_O 网址/_O 是/_O 什么/_O ？/_O
+LOC_ADDRESS	中国/_B-Ni 卫生部/_E-Ni 的/_O 网址/_O 是/_O 什么/_O
+LOC_ADDRESS	足球/_O 明星/_O 罗纳尔多/_S-Nh 的/_O 邮箱/_O 地址/_O 是/_O 什么/_O
+LOC_BUILDING	哈尔滨/_S-Ns 有/_O 哪/_O 几/_O 家/_O 五星级/_O 宾馆/_O
+LOC_BUILDING	我国/_O 第一/_O 座/_O 自行/_O 设计/_O 、/_O 自行/_O 建造/_O 的/_O 核电站/_O 是/_O 哪/_O 一个/_O ？/_O
+LOC_BUILDING	哈尔滨/_S-Ns 最/_O 大/_O 的/_O 游乐场/_O 是/_O 哪个/_O 游乐场/_O
+LOC_BUILDING	北京/_S-Ns 的/_O 凯莱/_O 大酒店/_O 在/_O 哪里/_O
+LOC_BUILDING	台北/_S-Ns 最/_O 大/_O 的/_O 机场/_O 是/_O 哪个/_O
+LOC_BUILDING	北京/_B-Ns 圆明园/_E-Ns 由/_O 哪/_O 三/_O 园/_O 构成/_O ？/_O
+LOC_BUILDING	到/_O 北京/_S-Ns 旅游/_O 有/_O 哪些/_O 好/_O 的/_O 游乐场/_O
+LOC_BUILDING	上海/_S-Ns 有/_O 哪些/_O 五星级/_O 宾馆/_O
+LOC_BUILDING	北京/_B-Ns 故宫/_E-Ns 又/_O 称/_O 什么/_O
+LOC_BUILDING	北京/_S-Ns 最/_O 大/_O 的/_O 机场/_O 叫/_O 什么/_O
+LOC_BUILDING	北京/_S-Ns 最/_O 有名/_O 的/_O 宫殿/_O 是/_O 什么/_O
+LOC_BUILDING	北京/_S-Ns 最/_O 著名/_O 的/_O 旅馆/_O 叫/_O 什么/_O
+LOC_BUILDING	被/_O 称为/_O “/_O 万物/_O 之/_O 园/_O ”/_O 的/_O 是/_O 什么/_O 园/_O ？/_O
+LOC_BUILDING	被/_O 世人/_O 称为/_O “/_O 天下第一/_O 楼/_O ”/_O 是/_O 哪/_O 座/_O 楼/_O ？/_O
+LOC_BUILDING	兵马俑/_O 陈列/_O 在/_O 哪个/_O 博物馆/_O
+LOC_BUILDING	哈尔滨/_S-Ns 有/_O 个/_O 什么/_O 机场/_O
+LOC_BUILDING	秦始皇/_S-Nh 为/_O 阿房/_S-Nh 建造/_O 了/_O 哪/_O 座/_O 宫殿/_O
+LOC_BUILDING	全国/_O 最/_O 大/_O 的/_O 机场/_O 是/_O 哪个/_O
+LOC_BUILDING	世界/_O 上/_O 最/_O 大/_O 的/_O 广场/_O 是/_O 什么/_O 广场/_O ？/_O
+LOC_BUILDING	世界/_O 最/_O 大/_O 的/_O 金字塔/_O 是/_O 什么/_O 金字塔/_O ？/_O
+LOC_BUILDING	我国/_O 最/_O 大/_O 的/_O 室内/_O 滑雪/_O 游乐场/_O 是/_O 什么/_O
+LOC_BUILDING	英国/_S-Ns 的/_O 皇宫/_O 叫/_O 什么/_O
+LOC_BUILDING	著名/_O 影片/_O 《/_O 魂/_O 断/_O 蓝桥/_O 》/_O 的/_O 桥/_O 是/_O 哪/_O 座/_O 桥/_O ？/_O
+LOC_CITY	阿根廷/_S-Ns 的/_O 首都/_O 在/_O 哪/_O
+LOC_CITY	巴西/_S-Ns 的/_O 首都/_O 是/_O 哪/_O 座/_O 城市/_O ？/_O
+LOC_CITY	被/_O 称为/_O “/_O 国际/_O 会议/_O 之/_O 都/_O ”/_O 的/_O 城市/_O 是/_O 哪个/_O 城市/_O ？/_O
+LOC_CITY	冰城/_O 指/_O 的/_O 是/_O 哪个/_O 城市/_O
+LOC_CITY	赤道几内亚/_S-Ns 的/_O 首都/_O 是/_O 哪/_O 座/_O 城市/_O
+LOC_CITY	第十/_O 届/_O 奥运会/_O 在/_O 是/_O 哪个/_O 城市/_O 举办/_O ？/_O
+LOC_CITY	第一/_O 例/_O 发现/_O 在/_O 哪个/_O 城市/_O
+LOC_CITY	有/_O 东方/_O 小/_O 巴黎/_S-Ns 之/_O 称/_O 的/_O 城市/_O 是/_O 哪个/_O
+LOC_CITY	芬兰/_S-Ns 的/_O 首都/_O 在/_O 哪里/_O
+LOC_CITY	古/_O 希腊/_S-Ns 的/_O 首都/_O 在/_O 哪里/_O
+LOC_CITY	韩国/_S-Ns 的/_O 首都/_O 在/_O 哪/_O
+LOC_CITY	韩国/_S-Ns 首都/_O 是/_O 哪儿/_O
+LOC_CITY	黑龙江/_S-Ns 的/_O 省会/_O 在/_O 哪/_O
+LOC_CITY	花城/_O 是/_O 指/_O 哪个/_O 城市/_O
+LOC_CITY	镜泊湖/_S-Ns 离/_O 哪个/_O 城市/_O 最近/_O
+LOC_CITY	墨西哥/_S-Ns 的/_O 首都/_O 是/_O 哪/_O 座/_O 城市/_O
+LOC_CITY	哪个/_O 城市/_O 被/_O 称作/_O 草原/_O 钢城/_O ？/_O
+LOC_CITY	哪个/_O 城市/_O 的/_O 牛仔/_O 最/_O 有/_O 魅力/_O
+LOC_CITY	哪个/_O 城市/_O 是/_O 欧洲/_S-Ns 仅次于/_O 伦敦/_S-Ns 的/_O 第二/_O 大/_O 金融/_O 中心/_O ？/_O
+LOC_CITY	哪个/_O 城市/_O 是/_O 中国/_S-Ns 最/_O 大/_O 的/_O 城市/_O ？/_O
+LOC_CITY	哪个/_O 城市/_O 有/_O “/_O 北国/_O 春城/_O ”/_O 之/_O 称/_O ？/_O
+LOC_CITY	尼日利亚/_S-Ns 的/_O 首都/_O 叫/_O 什么/_O
+LOC_CITY	瑞士/_S-Ns 首都/_O 是/_O 哪个/_O 城市/_O ？/_O
+LOC_CITY	世界/_O 上/_O 最/_O 靠/_O 北/_O 的/_O 首都/_O 叫/_O 什么/_O 名字/_O ？/_O
+LOC_CITY	世界/_O 最/_O 大/_O 的/_O 国家/_O 的/_O 首都/_O 是/_O 哪里/_O
+LOC_CITY	斯里兰卡/_S-Ns 的/_O 首都/_O 是/_O 哪里/_O
+LOC_CITY	土耳其/_S-Ns 的/_O 首都/_O 在/_O 哪个/_O 城市/_O ？/_O
+LOC_CITY	土耳其/_S-Ns 的/_O 首都/_O 在/_O 哪里/_O ？/_O
+LOC_CITY	我国/_O 被/_O 称为/_O “/_O 不夜城/_O ”/_O 的/_O 城市/_O 是/_O 哪/_O 一/_O 城市/_O ？/_O
+LOC_CITY	我国/_O 被/_O 称为/_O “/_O 不夜城/_O ”/_O 的/_O 城市/_O 是/_O 哪/_O 一/_O 座/_O 城市/_O ？/_O
+LOC_CITY	武昌/_S-Ns 在/_O 哪个/_O 城市/_O
+LOC_CITY	羊肉/_O 泡馍/_O 是/_O 我国/_O 哪/_O 一/_O 城市/_O 的/_O 风味/_O 食品/_O ？/_O
+LOC_CITY	有/_O “/_O 东方/_O 瑞士/_S-Ns ”/_O 之/_O 称/_O 的/_O 城市/_O 是/_O 哪个/_O 城市/_O ？/_O
+LOC_CITY	中国/_S-Ns 最/_O 南/_O 的/_O 省会/_O 城市/_O 是/_O 哪个/_O
+LOC_CITY	著名/_O 的/_O 自由/_O 女神像/_O 坐落/_O 在/_O 美国/_S-Ns 哪个/_O 城市/_O ？/_O
+LOC_CITY	大/_O 金国/_O 都城/_O 在/_O 哪里/_O
+LOC_CITY	黑龙江/_S-Ns 的/_O 省会/_O 在/_O 哪儿/_O
+LOC_CITY	北京/_S-Ns 在/_O 建国/_O 前/_O 叫做/_O 什么/_O
+LOC_CITY	云南/_S-Ns 的/_O 昆明/_S-Ns 又/_O 叫/_O 什么/_O ？/_O
+LOC_CONTINENT	埃及/_S-Ns 属于/_O 哪个/_O 洲/_O ？/_O
+LOC_CONTINENT	艾滋病/_O 病源/_O 地/_O 在/_O 哪个/_O 大陆/_O
+LOC_CONTINENT	奥林匹克/_O 旗帜/_O 的/_O 五/_O 种/_O 颜色/_O 中/_O 天蓝色/_O 代表/_O 哪个/_O 洲/_O ？/_O
+LOC_CONTINENT	澳大利亚/_S-Ns 在/_O 哪个/_O 洲/_O
+LOC_CONTINENT	哈佛/_B-Ni 大学/_E-Ni 在/_O 哪个/_O 洲/_O
+LOC_CONTINENT	目前/_O 地球/_O 上/_O 已/_O 知/_O 的/_O 最/_O 大/_O 陨石坑/_O 位于/_O 哪个/_O 洲/_O ？/_O
+LOC_CONTINENT	哪/_O 一个/_O 洲/_O 最/_O 寒冷/_O
+LOC_CONTINENT	平均/_O 每人/_O 占有/_O 径流量/_O 最/_O 多/_O 的/_O 洲/_O 是/_O 哪个/_O 洲/_O ？/_O
+LOC_CONTINENT	平均/_O 温度/_O 最低/_O 的/_O 大陆/_O 是/_O 哪个/_O 洲/_O
+LOC_CONTINENT	七大洲/_S-Ns 中/_O 面积/_O 第二/_O 的/_O 哪个/_O 洲/_O ？/_O
+LOC_CONTINENT	世界/_O 上/_O 面积/_O 最/_O 小/_O 的/_O 大陆/_O 是/_O 哪个/_O 大陆/_O
+LOC_CONTINENT	世界/_O 上/_O 平均/_O 海拔/_O 最高/_O 的/_O 洲/_O 哪个/_O 洲/_O ？/_O
+LOC_CONTINENT	世界/_O 上/_O 人口/_O 最/_O 少/_O 的/_O 国家/_O 在/_O 哪/_O 一个/_O 洲/_O
+LOC_CONTINENT	世界/_O 上/_O 最/_O 大/_O 的/_O 冰川/_O 在/_O 哪个/_O 洲/_O ？/_O
+LOC_CONTINENT	世界/_O 上/_O 最高/_O 的/_O 一个/_O 洲/_O 是/_O 什么/_O 洲/_O ？/_O
+LOC_CONTINENT	世界/_O 上/_O 最/_O 曲折/_O 的/_O 海岸线/_O 分布/_O 在/_O 哪个/_O 洲/_O ？/_O
+LOC_CONTINENT	夏威夷/_S-Ns 在/_O 地理/_O 位置/_O 上/_O 属于/_O 哪个/_O 洲/_O ？/_O
+LOC_CONTINENT	中东/_S-Ns 属于/_O 哪个/_O 洲/_O
+LOC_CONTINENT	最/_O 原始/_O 的/_O 大陆/_O 是/_O 什么/_O
+LOC_CONTINENT	世界/_O 共/_O 分/_O 哪/_O 几/_O 大/_O 洲/_O
+LOC_COUNTRY	“/_O 芭蕾舞/_O ”/_O 是/_O 从/_O 哪/_O 国/_O 传进/_O 的/_O 外来语/_O ？/_O
+LOC_COUNTRY	19/_O 世纪/_O 时/_O ，/_O 哪个/_O 国家/_O 成为/_O 欧洲/_S-Ns 的/_O 美术/_O 中心/_O ？/_O
+LOC_COUNTRY	2000年/_O 哪个/_O 国家/_O 获得/_O 了/_O 世界杯/_O 足球赛/_O 的/_O 冠军/_O
+LOC_COUNTRY	2004年/_O 世界杯/_O 将/_O 在/_O 哪个/_O 国家/_O 举行/_O
+LOC_COUNTRY	“/_O 约翰牛/_O ”/_O 是/_O 哪个/_O 国家/_O 的/_O 绰号/_O ？/_O
+LOC_COUNTRY	《/_O 巴黎/_S-Ns 圣母院/_O 》/_O 的/_O 作者/_O 是/_O 哪/_O 国人/_O ？/_O
+LOC_COUNTRY	阿姆斯特丹/_S-Ns 是/_O 哪个/_O 国家/_O 的/_O 首都/_O
+LOC_COUNTRY	爱立信/_O 是/_O 哪个/_O 国家/_O 的/_O ？/_O
+LOC_COUNTRY	爱因斯坦/_S-Nh 出生/_O 在/_O 哪个/_O 国家/_O ？/_O
+LOC_COUNTRY	冰球/_O 运动/_O 起源/_O 于/_O 哪个/_O 国家/_O ？/_O
+LOC_COUNTRY	第八/_O 届/_O 奥运会/_O 的/_O 主办国/_O 是/_O 哪个/_O 国家/_O ？/_O
+LOC_COUNTRY	第二/_O 次/_O 世界大战/_O 中/_O 德国/_S-Ns 最先/_O 攻占/_O 的/_O 是/_O 哪个/_O 国家/_O ？/_O
+LOC_COUNTRY	第一/_O 次/_O 国际/_O “/_O 大运会/_O ”/_O 在/_O 哪个/_O 国家/_O 举行/_O ？/_O
+LOC_COUNTRY	第一/_O 次/_O 世界大战/_O 是/_O 哪/_O 国/_O 发起/_O 的/_O
+LOC_COUNTRY	电流/_O 的/_O 发明人/_O 安培/_S-Nh 是/_O 哪/_O 国/_O 人/_O
+LOC_COUNTRY	钓鱼岛/_S-Ns 属/_O 哪个/_O 国家所有/_O
+LOC_COUNTRY	二战/_O 中/_O 最/_O 法西斯/_O 的/_O 国家/_O 是/_O 哪/_O 一个/_O
+LOC_COUNTRY	非洲/_S-Ns 石油/_O 产量/_O 最/_O 多/_O 的/_O 国家/_O 是/_O 哪个/_O 国家/_O ？/_O
+LOC_COUNTRY	共同社/_S-Ni 是/_O 哪个/_O 国家/_O 的/_O 通讯社/_O ？/_O
+LOC_COUNTRY	国际/_B-Ni 奥委会/_E-Ni 主席/_O 萨马兰奇/_S-Nh 是/_O 哪个/_O 国家/_O 的/_O 人/_O ？/_O
+LOC_COUNTRY	国鸟/_O 是/_O 公鸡/_O 的/_O 国家/_O 是/_O 哪个/_O 国家/_O ？/_O
+LOC_COUNTRY	火药/_O 是/_O 哪/_O 国人/_O 发明/_O 的/_O
+LOC_COUNTRY	加拿大/_S-Ns 和/_O 什么/_O 国家/_O 毗邻/_O
+LOC_COUNTRY	饺子/_O 是/_O 哪个/_O 国家/_O 的/_O 特色/_O 食品/_O
+LOC_COUNTRY	考拉/_O 是/_O 哪个/_O 国家/_O 的/_O 动物/_O
+LOC_COUNTRY	科罗拉多/_S-Ns 大/_O 峡谷/_O 是/_O 哪个/_O 国家/_O 的/_O
+LOC_COUNTRY	科学家/_O 普利斯特里/_S-Nh 是/_O 哪/_O 国人/_O ？/_O
+LOC_COUNTRY	雷克亚未克/_S-Nh 是/_O 哪个/_O 国家/_O 首都/_O ？/_O
+LOC_COUNTRY	领土/_O 最/_O 狭长/_O 的/_O 国家/_O 是/_O 哪个/_O 国家/_O ？/_O
+LOC_COUNTRY	路透社/_S-Ni 是/_O 哪个/_O 国家/_O 的/_O 通讯社/_O ？/_O
+LOC_COUNTRY	美国/_S-Ns 空军/_O 准将/_O 米切尔/_S-Nh 出生/_O 于/_O 哪个/_O 国家/_O ？/_O
+LOC_COUNTRY	墨尔本/_S-Ns 是/_O 哪个/_O 国家/_O 的/_O 首都/_O
+LOC_COUNTRY	哪个/_O 国家/_O 的/_O 国土/_O 面积/_O 最/_O 大/_O
+LOC_COUNTRY	哪个/_O 国家/_O 的/_O 军事/_O 实力/_O 最/_O 强大/_O
+LOC_COUNTRY	哪个/_O 国家/_O 的/_O 垃圾/_O 产量/_O 居/_O 世界/_O 第一/_O ？/_O
+LOC_COUNTRY	哪个/_O 国家/_O 的/_O 面积/_O 最/_O 大/_O
+LOC_COUNTRY	哪个/_O 国家/_O 地/_O 跨/_O 亚/_O 欧/_S-Ns 两/_O 洲/_O ？/_O
+LOC_COUNTRY	哪个/_O 国家/_O 发射/_O 第一/_O 颗/_O 人造卫星/_O ？/_O
+LOC_COUNTRY	哪个/_O 国家/_O 举办/_O 了/_O 000年/_O 奥运会/_O
+LOC_COUNTRY	哪个/_O 国家/_O 领土/_O 面积/_O 最/_O 大/_O
+LOC_COUNTRY	哪个/_O 国家/_O 人口/_O 呈/_O 负/_O 增长/_O 趋势/_O
+LOC_COUNTRY	哪个/_O 国家/_O 是/_O 世界/_O 上/_O 地势/_O 最低/_O 的/_O 国家/_O ？/_O
+LOC_COUNTRY	哪个/_O 国家/_O 是/_O 工业革命/_O 的/_O 发祥地/_O ？/_O
+LOC_COUNTRY	哪个/_O 国家/_O 最/_O 小/_O
+LOC_COUNTRY	哪/_O 一个/_O 国家/_O 的/_O 独立/_O 打响/_O 了/_O 拉丁美洲/_S-Ns 独立/_O 战争/_O 第一/_O 炮/_O ？/_O
+LOC_COUNTRY	牛顿/_S-Nh 是/_O 哪/_O 国/_O 科学家/_O ？/_O
+LOC_COUNTRY	欧元/_O 是/_O 哪/_O 国/_O 的/_O 货币/_O 单位/_O
+LOC_COUNTRY	排球/_O 运动/_O 起源/_O 于/_O 哪个/_O 国家/_O ？/_O
+LOC_COUNTRY	乒乓球/_O 起源/_O 于/_O 哪个/_O 国家/_O
+LOC_COUNTRY	平安/_O 王朝/_O 是/_O 哪个/_O 国家/_O 的/_O ？/_O
+LOC_COUNTRY	铅笔/_O 是/_O 哪个/_O 国家/_O 发明/_O 的/_O ？/_O
+LOC_COUNTRY	千佛坛/_O 是/_O 哪个/_O 国家/_O 的/_O ？/_O
+LOC_COUNTRY	屈原/_S-Nh 是/_O 春秋/_O 时代/_O 哪/_O 国人/_O ？/_O
+LOC_COUNTRY	世界/_O 第三/_O 大/_O 的/_O 国家/_O 是/_O 哪/_O 一个/_O
+LOC_COUNTRY	世界/_O 面积/_O 最/_O 大/_O 的/_O 国家/_O 是/_O
+LOC_COUNTRY	世界/_O 人口/_O 密度/_O 最/_O 大/_O 的/_O 国家/_O 是/_O 哪个/_O 国家/_O ？/_O
+LOC_COUNTRY	世界/_O 上/_O 面积/_O 第三/_O 的/_O 国家/_O 是/_O 哪个/_O 国家/_O ？/_O
+LOC_COUNTRY	世界/_O 上/_O 哪个/_O 国家/_O 的/_O 人口/_O 最/_O 少/_O
+LOC_COUNTRY	世界/_O 上/_O 哪个/_O 国家/_O 迪斯尼/_S-Nh 乐园/_O
+LOC_COUNTRY	世界/_O 上/_O 哪个/_O 国家/_O 最/_O 早/_O 发明/_O 指南针/_O ？/_O
+LOC_COUNTRY	世界/_O 上/_O 最/_O 大/_O 的/_O 峡谷/_O 在/_O 哪个/_O 国家/_O
+LOC_COUNTRY	世界/_O 上/_O 最后/_O 进入/_O 元旦/_O 的/_O 国家/_O ？/_O
+LOC_COUNTRY	世界/_O 最/_O 大/_O 的/_O 博物馆/_O 在/_O 哪个/_O 国家/_O
+LOC_COUNTRY	首先/_O 提出/_O “/_O 夏时制/_O ”/_O 的/_O 是/_O 哪/_O 国人/_O ？/_O
+LOC_COUNTRY	万隆/_S-Ns 会议/_O 在/_O 哪/_O 国/_O 召开/_O ？/_O
+LOC_COUNTRY	亚洲/_S-Ns 第一/_O 个/_O 举办/_O 奥运会/_O 的/_O 国家/_O 是/_O 哪个/_O 国家/_O ？/_O
+LOC_COUNTRY	亚洲/_S-Ns 耕地/_O 面积/_O 最/_O 大/_O 的/_O 国家/_O 是/_O 哪个/_O 国家/_O ？/_O
+LOC_COUNTRY	约翰·施特劳斯/_S-Nh 是/_O 哪个/_O 国家/_O 人/_O ？/_O
+LOC_COUNTRY	钥匙/_O 是/_O 哪/_O 国人/_O 发明/_O 的/_O ？/_O
+LOC_COUNTRY	在/_O 2000年/_O 世界/_O 竞争力/_O 最新/_O 排名/_O 中/_O ，/_O 美国/_S-Ns 居/_O 第一/_O 位/_O ，/_O 排/_O 在/_O 第二/_O 位/_O 的/_O 是/_O 哪个/_O 国家/_O ？/_O
+LOC_COUNTRY	著名/_O 的/_O 天文学家/_O 哥白尼/_S-Nh 是/_O 哪/_O 国人/_O ？/_O
+LOC_COUNTRY	总/_O 人口数/_O 第六/_O 多/_O 的/_O 是/_O 哪个/_O 国家/_O
+LOC_COUNTRY	足球/_O 裁判/_O 米·沃特罗/_S-Nh 来自/_O 哪个/_O 国家/_O ？/_O
+LOC_COUNTRY	最/_O 早/_O 的/_O 纸币/_O 源于/_O 哪个/_O 国家/_O ？/_O
+LOC_COUNTRY	戛纳/_B-Ni 电影节/_E-Ni 在/_O 哪/_O 国/_O 举办/_O ？/_O
+LOC_COUNTRY	澳洲/_S-Ns 都/_O 包括/_O 哪些/_O 国家/_O
+LOC_COUNTRY	凡尔登/_S-Nh 战役/_O 是/_O 哪/_O 两/_O 国/_O 作战/_O ？/_O
+LOC_COUNTRY	列举/_O 出/_O 联合国/_B-Ni 安理会/_E-Ni 常任/_O 理事国/_O ？/_O
+LOC_COUNTRY	南美/_S-Ns 有/_O 哪些/_O 国家/_O
+LOC_COUNTRY	欧洲/_S-Ns 著名/_O 的/_O 百年/_O 战争/_O 发生/_O 在/_O 哪/_O 两/_O 个/_O 国家/_O ？/_O
+LOC_COUNTRY	瑞士/_S-Ns 是/_O 联合国/_S-Ni 的/_O 成员国/_O 吗/_O ？/_O
+LOC_COUNTRY	世界/_O 上/_O 哪些/_O 国家/_O 说/_O 英语/_O
+LOC_COUNTRY	四/_O 大/_O 文明/_O 古国/_O 分别/_O 是/_O 哪些/_O 国家/_O
+LOC_COUNTRY	兴凯湖/_S-Ns 是/_O 哪/_O 两/_O 个/_O 国家/_O 共有/_O ？/_O
+LOC_COUNTRY	伊拉克/_S-Ns 的/_O 邻国/_O 有/_O 哪些/_O
+LOC_ISLAND	欧洲/_S-Ns 最/_O 大/_O 的/_O 半岛/_O 在/_O 哪/_O ？/_O
+LOC_ISLAND	欧洲/_S-Ns 最/_O 大/_O 的/_O 岛屿/_O 是/_O 什么/_O 岛屿/_O ？/_O
+LOC_ISLAND	日本/_S-Ns 人/_O 觊觎/_O 已/_O 久/_O 的/_O 中国/_S-Ns 的/_O 一个/_O 岛屿/_O 是/_O 哪个/_O 岛/_O
+LOC_ISLAND	世界/_O 上/_O 最/_O 大/_O 的/_O 岛/_O 是/_O 叫/_O 什么/_O 名字/_O ？/_O
+LOC_ISLAND	位于/_O 中国/_S-Ns 最/_O 南面/_O 的/_O 岛屿/_O 是/_O 什么/_O 岛屿/_O
+LOC_ISLAND	我国/_O 第一/_O 大/_O 岛/_O 是/_O 什么/_O 岛/_O ？/_O
+LOC_ISLAND	中国/_S-Ns 的/_O 第三/_O 大/_O 岛屿/_O 是/_O 哪个/_O 岛/_O
+LOC_ISLAND	中/_S-Ns 日/_S-Ns 有/_O 争议/_O 的/_O 是/_O 什么/_O 岛屿/_O
+LOC_ISLAND	澳门/_B-Ns 地区/_E-Ns 包括/_O 哪/_O 几/_O 个/_O 岛屿/_O
+LOC_ISLAND	香港/_B-Ns 地区/_E-Ns 包括/_O 哪/_O 几/_O 个/_O 岛屿/_O
+LOC_LAKE	北京市/_S-Ns 最/_O 大/_O 的/_O 湖泊/_O 是/_O 哪个/_O 湖泊/_O ？/_O
+LOC_LAKE	牡丹江/_B-Ns 地区/_E-Ns 著名/_O 的/_O 旅游/_O 景点/_O 是/_O 什么/_O 湖/_O
+LOC_LAKE	哪个/_O 湖/_O 位于/_O 杭州/_S-Ns
+LOC_LAKE	哪个/_O 湖/_O 最/_O 美丽/_O
+LOC_LAKE	世界/_O 上/_O 最/_O 深/_O 的/_O 湖/_O 是/_O 什么/_O 湖/_O ？/_O
+LOC_LAKE	我国/_O 最/_O 大/_O 的/_O 淡水湖/_O 是/_O 什么/_O 湖/_O ？/_O
+LOC_LAKE	岳阳楼/_S-Ns 记里/_O 谈/_O 到/_O 哪个/_O 湖/_O
+LOC_LAKE	浙江/_S-Ns 的/_O 哪个/_O 湖/_O 已经/_O 干涸/_O
+LOC_MOUNTAIN	五岳/_O 都/_O 是/_O 哪些/_O 山/_O
+LOC_MOUNTAIN	哪/_O 座/_O 山/_O 是/_O 世界/_O 最高峰/_O
+LOC_MOUNTAIN	南岳/_B-Ns 衡山/_E-Ns 的/_O 最高峰/_O 是/_O 什么/_O 峰/_O ？/_O
+LOC_MOUNTAIN	日本/_S-Ns 最/_O 著名/_O 的/_O 火山/_O 是/_O 哪个/_O
+LOC_MOUNTAIN	日本/_S-Ns 最/_O 著名/_O 的/_O 火山/_O 是/_O 哪/_O 一/_O 座/_O
+LOC_MOUNTAIN	少林寺/_O 在/_O 什么/_O 山/_O
+LOC_MOUNTAIN	世界/_O 上/_O 最/_O 长/_O 的/_O 山脉/_O 是/_O 什么/_O 山/_O ？/_O
+LOC_MOUNTAIN	世界/_O 最/_O 有名/_O 的/_O 火山/_O 是/_O 什么/_O 火山/_O
+LOC_OCEAN	波斯湾/_S-Ns 连接/_O 哪/_O 两/_O 个/_O 洋/_O
+LOC_OCEAN	丹东/_S-Ns 附近/_O 是/_O 什么/_O 海/_O
+LOC_OCEAN	海南岛/_S-Ns 位于/_O 什么/_O 海/_O
+LOC_OCEAN	欧洲/_S-Ns 和/_O 美洲/_S-Ns 之间/_O 隔/_O 着/_O 哪个/_O 海洋/_O
+LOC_OCEAN	世界/_O 第二/_O 大洋/_O 是/_O 什么/_O
+LOC_OCEAN	世界/_O 上/_O 最/_O 北/_O 的/_O 洋/_O 是/_O 哪/_O 一个/_O
+LOC_OCEAN	中国/_S-Ns 的/_O 东面/_O 是/_O 什么/_O 洋/_O
+LOC_OCEAN	中途岛/_S-Ns 在/_O 哪个/_O 大洋/_O
+LOC_OCEAN	世界/_O 上/_O 石油/_O 最/_O 多/_O 的/_O 海湾/_O 是/_O 哪/_O 一个/_O
+LOC_OTHER	被/_O 称为/_O “/_O 世界/_O 第八/_O 奇观/_O ”/_O 的/_O 是/_O 什么/_O ？/_O
+LOC_OTHER	呼和浩特市/_S-Ns 是/_O 哪个/_O 地区/_O 的/_O 首府/_O 城市/_O
+LOC_OTHER	好莱坞/_S-Ns 位于/_O 美国/_S-Ns 什么/_O 州/_O ？/_O
+LOC_OTHER	哪个/_O 州/_O 的/_O 面积/_O 最/_O 大/_O
+LOC_OTHER	哪里/_O 经常/_O 发生/_O 战争/_O
+LOC_OTHER	世界/_O 上/_O 面积/_O 最/_O 大/_O 的/_O 州/_O 是/_O 哪个/_O 州/_O
+LOC_OTHER	中国/_S-Ns 位于/_O 世界/_O 的/_O 什么/_O 地区/_O
+LOC_OTHER	华夏/_O 民族/_O 是/_O 在/_O 哪/_O 诞生/_O 的/_O ？/_O
+LOC_OTHER	哪个/_O 州/_O 盛产/_O 石油/_O
+LOC_OTHER	中国/_S-Ns 哪个/_O 地区/_O 的/_O 经济/_O 发展/_O 最/_O 快/_O
+LOC_OTHER	张家港/_S-Ns 邻接/_O 的/_O 县市/_O 有/_O 哪些/_O
+LOC_OTHER	北京/_S-Ns 的/_O 哪个/_O 区/_O 面积/_O 最/_O 大/_O
+LOC_OTHER	北京/_S-Ns 在/_O 哪里/_O
+LOC_OTHER	比/_O 斯开湾/_S-Ns 在/_O 哪里/_O
+LOC_OTHER	波士顿/_S-Ns 在/_O 哪里/_O
+LOC_OTHER	苍蝇/_O 经常/_O 在/_O 哪里/_O 活动/_O
+LOC_OTHER	长白山/_S-Ns 在/_O 中国/_S-Ns 的/_O 什么/_O 地方/_O
+LOC_OTHER	长江/_S-Ns 流向/_O 哪里/_O
+LOC_OTHER	除/_O 夏威夷/_S-Ns 之外/_O ，/_O 哪个/_O 州/_O 也/_O 是/_O 美国/_S-Ns 本土/_O 以外/_O 的/_O 州/_O ？/_O
+LOC_OTHER	第十/_O 届/_O 上海/_S-Ns 华会/_O 在/_O 哪里/_O 举行/_O ？/_O
+LOC_OTHER	第一/_O 届/_O 世界杯/_O 足球赛/_O 是/_O 在/_O 哪里/_O 举办/_O 的/_O ？/_O
+LOC_OTHER	东北/_O 大/_O 平原/_O 由/_O 松嫩/_B-Ns 平原/_E-Ns 、/_O 三江/_B-Ns 平原/_E-Ns 与/_O 哪个/_O 平原/_O 组成/_O ？/_O
+LOC_OTHER	东方/_O 明珠/_O 电视塔/_O 在/_O 哪里/_O ？/_O
+LOC_OTHER	鄂伦春/_S-Ns 自治旗/_O 的/_O 文化/_O 中心/_O 是/_O 哪/_O
+LOC_OTHER	广岛/_S-Ns 在/_O 日本/_S-Ns 的/_O 什么/_O 地方/_O
+LOC_OTHER	硅谷/_S-Ns 位于/_O 美国/_S-Ns 的/_O 哪个/_O 地区/_O
+LOC_OTHER	桂林/_S-Ns 最/_O 美/_O 的/_O 风景区/_O 是/_O 哪儿/_O
+LOC_OTHER	哈尔滨/_B-Ni 工程/_I-Ni 大学/_E-Ni 在/_O 哈尔滨/_S-Ns 的/_O 哪个/_O 区/_O
+LOC_OTHER	哈工大/_O 位于/_O 哈尔滨/_S-Ns 哪/_O 一个/_O 区/_O
+LOC_OTHER	黑龙江省/_S-Ns 的/_O 哪个/_O 县/_O 已经/_O 划/_O 入/_O 哈尔滨市/_B-Ns
+LOC_OTHER	红军/_O 长征/_O 在/_O 哪里/_O 结束/_O ？/_O
+LOC_OTHER	虎林/_S-Ns 隶属/_O 于/_O 哪个/_O 县/_O
+LOC_OTHER	花旗/_B-Ni 银行/_E-Ni 在/_O 何处/_O
+LOC_OTHER	华山/_S-Ns 在/_O 哪里/_O
+LOC_OTHER	浑河/_S-Ns 在/_O 哪个/_O 地方/_O
+LOC_OTHER	加格达奇/_S-Nh 在/_O 亚洲/_S-Ns 哪个/_O 地方/_O
+LOC_OTHER	加利福尼亚州/_S-Ns 在/_O 美国/_S-Ns 的/_O 哪/_O 一/_O 地区/_O
+LOC_OTHER	剑桥/_B-Ni 大学/_E-Ni 在/_O 哪里/_O
+LOC_OTHER	江/_O 泽明/_S-Nh 是/_O 哪里人/_O ？/_O
+LOC_OTHER	金庸/_S-Nh 的/_O 籍贯/_O 在/_O 哪里/_O ？/_O
+LOC_OTHER	近些年/_O 哪个/_O 地区/_O 发生/_O 战争/_O 次数/_O 最/_O 多/_O
+LOC_OTHER	旧金山/_S-Ns 位于/_O 美国/_S-Ns 的/_O 哪个/_O 地区/_O
+LOC_OTHER	开原市/_S-Ns 在/_O 哪儿/_O
+LOC_OTHER	历史/_O 上/_O 有/_O 热河/_S-Ns 之/_O 称/_O 的/_O 地方/_O 是/_O 哪里/_O ？/_O
+LOC_OTHER	漠河/_S-Ns 位于/_O 什么/_O 地方/_O
+LOC_OTHER	穆托姆博/_S-Nh 来自/_O 哪里/_O
+LOC_OTHER	拿破仑/_S-Nh 在/_O 哪里/_O 病逝/_O ？/_O
+LOC_OTHER	哪儿/_O 产/_O 荔枝/_O
+LOC_OTHER	哪个/_O 县/_O 人口/_O 最/_O 多/_O
+LOC_OTHER	尼日尔河/_S-Ns 位于/_O 哪里/_O ？/_O
+LOC_OTHER	聂耳/_S-Nh 是/_O 哪里人/_O ？/_O
+LOC_OTHER	泉城/_S-Ns 是/_O 哪/_O
+LOC_OTHER	上海/_S-Ns 的/_O 希尔顿/_O 大酒店/_O 在/_O 哪里/_O
+LOC_OTHER	上海/_S-Ns 位于/_O 什么/_O 地区/_O
+LOC_OTHER	上海/_S-Ns 在/_O 中国/_S-Ns 的/_O 什么/_O 地方/_O
+LOC_OTHER	深圳/_S-Ns 位于/_O 什么/_O 地方/_O
+LOC_OTHER	神农架/_S-Ns 坐落/_O 在/_O 哪儿/_O
+LOC_OTHER	沈阳市/_B-Ni 市政府/_E-Ni 在/_O 沈阳/_S-Ns 的/_O 哪个/_O 区/_O
+LOC_OTHER	什么/_O 地方/_O 是/_O 可可/_O 的/_O 主要/_O 产地/_O
+LOC_OTHER	什么/_O 地方/_O 战乱/_O 不断/_O
+LOC_OTHER	世界/_O 第二/_O 大/_O 沙漠/_O 是/_O 什么/_O
+LOC_OTHER	世界/_O 面积/_O 第一/_O 大/_O 沙漠/_O 是/_O 什么/_O
+LOC_OTHER	世界/_O 上/_O 第一/_O 座/_O 水磨/_O 安装/_O 在/_O 哪里/_O ？/_O
+LOC_OTHER	世界/_O 上/_O 华人/_O 、/_O 华侨/_O 最/_O 集中/_O 的/_O 地区/_O 是/_O 什么/_O 地区/_O ？/_O
+LOC_OTHER	世界/_O 上/_O 哪个/_O 地区/_O 原始/_O 森林/_O 保护/_O 的/_O 最/_O 完整/_O
+LOC_OTHER	世界/_O 上/_O 石油/_O 储量/_O 最/_O 大/_O 的/_O 地区/_O 在/_O 哪里/_O
+LOC_OTHER	世界/_O 上/_O 石油/_O 存储/_O 最/_O 多/_O 的/_O 是/_O 哪个/_O 地区/_O
+LOC_OTHER	世界/_O 上/_O 最/_O 大/_O 的/_O 沙漠/_O 是/_O 什么/_O
+LOC_OTHER	世界/_O 上/_O 最/_O 大/_O 的/_O 峡谷/_O 是/_O 哪个/_O
+LOC_OTHER	世界/_O 上/_O 最/_O 大/_O 的/_O 原始/_O 森林/_O 在/_O 哪里/_O
+LOC_OTHER	世界/_O 上/_O 最/_O 大/_O 的/_O 坐佛/_O 在/_O 哪里/_O ？/_O
+LOC_OTHER	世界/_O 上/_O 最/_O 深/_O 的/_O 海湾/_O 是/_O 什么/_O
+LOC_OTHER	世界/_O 最/_O 深/_O 的/_O 洼地/_O 在/_O 哪里/_O ？/_O
+LOC_OTHER	司马南/_S-Nh 的/_O 故乡/_O 在/_O 哪/_O
+LOC_OTHER	松嫩/_O 平原/_O 在/_O 我国/_O 的/_O 哪个/_O 地区/_O
+LOC_OTHER	苏比克湾/_S-Ns 在/_O 什么/_O 地方/_O
+LOC_OTHER	泰国/_S-Ns 的/_O 首都/_O 在/_O 什么/_O 地方/_O
+LOC_OTHER	太阳/_O 金字塔/_O 坐落/_O 在/_O 哪里/_O ？/_O
+LOC_OTHER	太阳系/_O 在/_O 银河系/_O 中/_O 的/_O 位置/_O 是/_O 哪/_O
+LOC_OTHER	天安门/_S-Ns 在/_O 北京/_S-Ns 的/_O 哪个/_O 区/_O
+LOC_OTHER	我国/_O 四/_O 大/_O 藏书阁/_O 之一/_O 的/_O 文津阁/_S-Ns 坐落/_O 在/_O 哪里/_O ？/_O
+LOC_OTHER	雅魯/_S-Ns 藏布/_O 大/_O 峽谷/_O 在/_O 哪/_O
+LOC_OTHER	伊拉克/_S-Ns 在/_O 什么/_O 地方/_O
+LOC_OTHER	印度/_S-Ns 在/_O 亚洲/_S-Ns 的/_O 哪个/_O 地方/_O
+LOC_OTHER	英国/_S-Ns 与/_O 欧洲/_S-Ns 之间/_O 的/_O 海峡/_O 叫/_O 什么/_O
+LOC_OTHER	英吉利/_S-Ns 海峡/_O 具体/_O 位置/_O 在/_O 哪儿/_O
+LOC_OTHER	由/_O 宋庆龄/_S-Nh 创办/_O 的/_O 中国/_S-Ns 福利/_O 会/_O 是/_O 在/_O 哪里/_O 成立/_O 的/_O ？/_O
+LOC_OTHER	幼发拉底河/_S-Ns 起源/_O 什么/_O 地方/_O
+LOC_OTHER	月亮/_O 金字塔/_O 坐落/_O 在/_O 哪里/_O ？/_O
+LOC_OTHER	张衡/_S-Nh 环形/_O 山/_O 在/_O 哪里/_O
+LOC_OTHER	张家界/_S-Ns 在/_O 哪里/_O
+LOC_OTHER	珍宝岛/_S-Ns 在/_O 哪儿/_O
+LOC_OTHER	中关村/_S-Ns 位于/_O 北京/_S-Ns 的/_O 哪个/_O 区/_O
+LOC_OTHER	中国/_S-Ns 海岸线/_O 的/_O 北/_O 起/_O 端点/_O 在/_O 哪/_O ？/_O
+LOC_OTHER	中国/_S-Ns 最/_O 大/_O 的/_O 沙漠/_O 是/_O 哪/_O 一个/_O
+LOC_OTHER	中国/_S-Ns 最/_O 大/_O 的/_O 沙漠/_O 是/_O 什么/_O
+LOC_OTHER	中国/_S-Ns 最/_O 南部/_O 的/_O 海峡/_O 是/_O 什么/_O
+LOC_OTHER	中国/_S-Ns 最/_O 贫困/_O 的/_O 县/_O 是/_O 什么/_O
+LOC_OTHER	中国/_S-Ns 最/_O 热/_O 的/_O 地方/_O 在/_O 哪里/_O ？/_O
+LOC_OTHER	中国/_S-Ns 最/_O 著名/_O 的/_O 峡谷/_O 叫做/_O 什么/_O
+LOC_OTHER	中南海/_S-Ns 在/_O 北京/_S-Ns 的/_O 什么/_O 区/_O
+LOC_OTHER	中山大学/_S-Ni 在/_O 哪里/_O
+LOC_OTHER	珠江/_B-Ns 地区/_E-Ns 饮用水/_O 主要/_O 来自/_O 哪里/_O
+LOC_OTHER	最/_O 长/_O 的/_O 海峡/_O 是/_O 什么/_O 海峡/_O
+LOC_OTHER	嫦娥/_S-Nh 住/_O 在/_O 哪里/_O
+LOC_OTHER	150001/_O 是/_O 哪里/_O 的/_O 邮编/_O
+LOC_OTHER	必/_O 斯开湾/_S-Ns 是/_O 什么/_O 地方/_O 的/_O
+LOC_OTHER	北非/_S-Ns 最/_O 著名/_O 的/_O 沙漠/_O 叫/_O 什么/_O 沙漠/_O
+LOC_OTHER	北京都/_S-Ns 有/_O 什么/_O 主要/_O 的/_O 景点/_O
+LOC_OTHER	被/_O 称为/_O “/_O 世界屋脊/_O ”/_O 的/_O 是/_O 什么/_O ？/_O
+LOC_OTHER	长江/_S-Ns 以南/_O 在/_O 中国/_S-Ns 称为/_O 什么/_O
+LOC_OTHER	飞机/_O 一般/_O 降落/_O 在/_O 什么/_O 地方/_O
+LOC_OTHER	台风/_O 过/_O 后/_O ，/_O 会/_O 平静/_O 一/_O 段/_O 时间/_O ，/_O 不久/_O 将/_O 会/_O 从/_O 哪个/_O 方向/_O 再度/_O 横扫/_O ？/_O
+LOC_OTHER	伊拉克/_S-Ns 在/_O 叙利亚/_S-Ns 的/_O 什么/_O 方位/_O
+LOC_OTHER	中国/_S-Ns 东北/_O 的/_O 森林/_O 叫/_O 什么/_O
+LOC_OTHER	中国/_S-Ns 革命/_O 历史/_O 博物馆/_O 在/_O 北京/_S-Ns 的/_O 什么/_O 位置/_O
+LOC_OTHER	中国/_S-Ns 最/_O 大/_O 的/_O 原始/_O 森林/_O 是/_O 哪/_O 一个/_O
+LOC_OTHER	最/_O 大/_O 的/_O 原始/_O 森林/_O 是/_O 什么/_O
+LOC_PROVINCE	辽宁/_S-Ns 又/_O 称/_O 为什么/_O ？/_O
+LOC_PROVINCE	长江/_S-Ns 流经/_O 哪些/_O 省份/_O
+LOC_PROVINCE	从/_O 昆明/_S-Ns 去/_O 北京/_S-Ns 要/_O 经过/_O 哪/_O 几/_O 个/_O 省/_O
+LOC_PROVINCE	东三省/_O 包括/_O 哪些/_O 省/_O
+LOC_PROVINCE	西部/_O 大/_O 开发/_O 都/_O 包括/_O 哪/_O 几/_O 个/_O 省份/_O
+LOC_PROVINCE	长白山/_S-Ns 位于/_O 哪个/_O 省份/_O
+LOC_PROVINCE	海城市/_S-Ns 在/_O 哪个/_O 省/_O
+LOC_PROVINCE	华山/_S-Ns 位于/_O 哪个/_O 省份/_O
+LOC_PROVINCE	黄冈市/_S-Ns 在/_O 哪个/_O 省/_O
+LOC_PROVINCE	黄山/_S-Ns 在/_O 哪个/_O 省/_O
+LOC_PROVINCE	九华山/_S-Ns 在/_O 哪个/_O 省/_O 境内/_O ？/_O
+LOC_PROVINCE	青岛/_S-Ns 属于/_O 哪个/_O 省/_O ？/_O
+LOC_PROVINCE	王昭君/_S-Nh 的/_O 家乡/_O 在/_O 哪个/_O 省/_O ？/_O
+LOC_PROVINCE	我国/_O 的/_O 哪个/_O 省/_O 是/_O 大熊猫/_O 的/_O 产地/_O ？/_O
+LOC_PROVINCE	豫/_O 是/_O 中国/_S-Ns 哪个/_O 省/_O 的/_O 简称/_O
+LOC_PROVINCE	云冈/_B-Ns 石窟/_E-Ns 位于/_O 我国/_O 哪个/_O 省/_O ？/_O
+LOC_PROVINCE	张家界/_S-Ns 风景区/_O 位于/_O 我国/_O 的/_O 哪/_O 一个/_O 省份/_O ？/_O
+LOC_PROVINCE	中国/_S-Ns 的/_O 哪个/_O 省/_O 人口/_O 最/_O 多/_O
+LOC_PROVINCE	中国/_S-Ns 哪个/_O 省/_O 的/_O 海拔/_O 最高/_O
+LOC_PROVINCE	中国/_S-Ns 最/_O 靠/_O 南/_S-Ns 的/_O 省/_O 是/_O 什么/_O
+LOC_PROVINCE	舟山/_S-Ns 群岛/_O 归/_O 哪个/_O 省/_O
+LOC_PROVINCE	著名/_O 的/_O 九寨沟/_S-Ns 风景/_O 名胜区/_O 位于/_O 哪个/_O 省份/_O ？/_O
+LOC_PROVINCE	蕲春县/_S-Ns 在/_O 哪个/_O 省/_O
+LOC_RIVER	巴拿马/_S-Ns 境内/_O 有/_O 什么/_O 运河/_O
+LOC_RIVER	非洲/_S-Ns 的/_O 第一/_O 大/_O 河/_O 是/_O 什么/_O 河/_O ？/_O
+LOC_RIVER	黑龙江/_S-Ns 的/_O 分支/_O 包括/_O 哪些/_O 河流/_O
+LOC_RIVER	卢沟桥/_S-Ns 在/_O 哪/_O 条/_O 河/_O 上面/_O ？/_O
+LOC_RIVER	南美/_S-Ns 和/_O 北美/_S-Ns 之间/_O 的/_O 运河/_O 叫/_O 什么/_O
+LOC_RIVER	世界/_O 上/_O 流量/_O 最/_O 大/_O 的/_O 河流/_O 是/_O 什么/_O
+LOC_RIVER	世界/_O 上/_O 流量/_O 最/_O 大/_O 的/_O 运河/_O 是/_O 什么/_O
+LOC_RIVER	太原/_S-Ns 市内/_O 有/_O 什么/_O 河/_O
+LOC_RIVER	赵州桥/_S-Ns 在/_O 哪/_O 条/_O 河/_O 上/_O
+LOC_RIVER	中国/_S-Ns 的/_O 什么/_O 河/_O 最/_O 长/_O
+LOC_RIVER	中国/_S-Ns 和/_O 朝鲜/_S-Ns 两/_O 国/_O 的/_O 界河/_O 是/_O 什么/_O 河/_O ？/_O
+LOC_RIVER	中国/_S-Ns 最/_O 长/_O 的/_O 河流/_O 是/_O 什么/_O 河/_O
+LOC_RIVER	长江/_S-Ns 有/_O 哪些/_O 分支/_O
+LOC_UNIVERSE	九/_O 大/_O 行星/_O 是/_O 哪些/_O
+LOC_UNIVERSE	太阳系/_O 包括/_O 哪些/_O 行星/_O
+LOC_UNIVERSE	“/_O 牛郎星/_O ”/_O 位于/_O 哪个/_O 星座/_O ？/_O
+LOC_UNIVERSE	白矮星/_O 属于/_O 哪个/_O 星系/_O
+LOC_UNIVERSE	北斗星/_O 属于/_O 什么/_O 星座/_O
+LOC_UNIVERSE	北极星/_O 属于/_O 哪个/_O 星座/_O
+LOC_UNIVERSE	被/_O 称为/_O “/_O 老人/_O 国/_O ”/_O 的/_O 星系/_O 是/_O 哪/_O 一/_O 星系/_O ？/_O
+LOC_UNIVERSE	地球/_O 的/_O 卫星/_O 是/_O 什么/_O
+LOC_UNIVERSE	对/_O 人类/_O 影响/_O 最/_O 大/_O 的/_O 恒星/_O 是/_O 什么/_O
+LOC_UNIVERSE	和/_O 地球/_O 距离/_O 第二/_O 近/_O 的/_O 恒星/_O 是/_O 什么/_O
+LOC_UNIVERSE	金星/_O 又/_O 叫/_O 什么/_O 星/_O ？/_O
+LOC_UNIVERSE	距离/_O 太阳/_O 最近/_O 的/_O 恒星/_O 是/_O 哪/_O 一/_O 颗/_O
+LOC_UNIVERSE	牛郎星/_O 属于/_O 哪个/_O 星座/_O
+LOC_UNIVERSE	农历/_O 四月/_O 八日/_O 属于/_O 什么/_O 星座/_O
+LOC_UNIVERSE	人类/_O 第一/_O 个/_O 到达/_O 的/_O 星球/_O 是/_O 什么/_O
+LOC_UNIVERSE	人类/_O 能/_O 看到/_O 的/_O 最/_O 远/_O 的/_O 行星/_O 是/_O 哪/_O 颗/_O
+LOC_UNIVERSE	什么样/_O 的/_O 恒星/_O 会/_O 变成/_O 红巨星/_O
+LOC_UNIVERSE	太阳系/_O 中/_O 最/_O 大/_O 的/_O 行星/_O 是/_O 什么/_O 星/_O ？/_O
+LOC_UNIVERSE	在/_O 九/_O 大/_O 行星/_O 中/_O ，/_O 被/_O 称为/_O 最/_O 小/_O 最/_O 冷/_O 的/_O 行星/_O 是/_O 哪/_O 一/_O 颗/_O ？/_O
+LOC_UNIVERSE	织女星/_O 位于/_O 哪个/_O 星座/_O ？/_O
+LOC_UNIVERSE	周杰伦/_S-Nh 是/_O 什么/_O 星座/_O ？/_O
+LOC_UNIVERSE	最后/_O 一个/_O 被/_O 发现/_O 的/_O 行星/_O 是/_O 哪/_O 一个/_O
+NUM_AREA	澳门/_S-Ns 的/_O 面积/_O 有/_O 多/_O 大/_O ？/_O
+NUM_AREA	大兴安岭/_S-Ns 原始/_O 森林/_O 面积/_O 目前/_O 还/_O 剩/_O 多少/_O
+NUM_AREA	东北/_B-Ni 林业/_I-Ni 大学/_E-Ni 的/_O 面积/_O 是/_O 多少/_O
+NUM_AREA	哈尔滨/_B-Ni 工业/_I-Ni 大学/_E-Ni 方圆/_O 多/_O 大/_O
+NUM_AREA	哈尔滨/_B-Ni 工业/_I-Ni 大学/_E-Ni 占地/_O 面积/_O 是/_O 多少/_O
+NUM_AREA	黑龙江省/_S-Ns 的/_O 耕地/_O 面积/_O 是/_O 多少/_O
+NUM_AREA	黑龙江省/_S-Ns 人均/_O 耕地/_O 面积/_O 是/_O 多少/_O
+NUM_AREA	加拿大/_S-Ns 的/_O 国土/_O 面积/_O 是/_O 多/_O 大/_O
+NUM_AREA	镜泊湖/_S-Ns 面积/_O 多/_O 大/_O
+NUM_AREA	世界/_O 上/_O 最/_O 小/_O 的/_O 国家/_O 梵蒂冈/_S-Ns 的/_O 领土/_O 面积/_O 为/_O 多少/_O ？/_O
+NUM_AREA	沙漠/_O 塔克拉玛干/_S-Ns 沙漠/_O 的/_O 面积/_O 多/_O 大/_O
+NUM_AREA	台湾/_S-Ns 的/_O 面积/_O 多/_O 大/_O
+NUM_AREA	太平洋/_S-Ns 的/_O 面积/_O 是/_O 多少/_O
+NUM_AREA	中国/_S-Ns 的/_O 国土/_O 面积/_O 有/_O 多/_O 大/_O ？/_O
+NUM_AREA	中国/_S-Ns 的/_O 森林/_O 面积/_O 共有/_O 多少/_O
+NUM_AREA	中国/_S-Ns 沙漠/_O 面积/_O 多/_O 大/_O
+NUM_CODE	北京大学/_S-Ni 的/_O 邮编/_O 是/_O 多少/_O ？/_O
+NUM_CODE	大连/_B-Ni 理工大学/_E-Ni 的/_O 邮编/_O 是/_O 多少/_O
+NUM_CODE	东北林/_O 大/_O 的/_O 邮编/_O 是/_O 多少/_O
+NUM_CODE	高雄市/_S-Ns 的/_O 邮政编码/_O 是/_O 多少/_O
+NUM_CODE	哈尔滨/_S-Ns 的/_O 邮编/_O 是/_O 多少/_O
+NUM_CODE	哈工大/_O 教务处/_O 的/_O 电话/_O 是/_O 多少/_O
+NUM_CODE	黑龙江省/_B-Ns 莫河市/_E-Ns 的/_O 邮政编码/_O 是/_O 多少/_O
+NUM_CODE	火警/_O 的/_O 号码/_O 是/_O 多少/_O
+NUM_CODE	火警/_O 电话/_O 是/_O 多少/_O
+NUM_CODE	火警/_O 急救/_O 电话/_O 是/_O 多少/_O
+NUM_CODE	急救/_O 热线/_O 电话/_O 号码/_O 是/_O 多少/_O ？/_O
+NUM_CODE	如果/_O 你/_O 想/_O 查询/_O 邮政编码/_O ，/_O 应该/_O 拨/_O 哪个/_O 电话/_O ？/_O
+NUM_CODE	世界/_O 足球/_O 之/_O 王/_O 贝利/_S-Nh 的/_O 球衣号/_O 为/_O 几/_O 号/_O ？/_O
+NUM_CODE	微软/_B-Ni 中国/_I-Ni 公司/_E-Ni 的/_O 客户/_O 服务/_O 电话/_O 号码/_O 是/_O 多少/_O
+NUM_CODE	西安/_B-Ni 交通/_I-Ni 大学/_E-Ni 的/_O 邮政编码/_O 是/_O 多少/_O
+NUM_CODE	烟台/_S-Ns 的/_O 邮编/_O 是/_O 多少/_O
+NUM_COUNT	长江/_S-Ns 流经/_O 几/_O 个/_O 省/_O 自治区/_O 直辖市/_O ？/_O
+NUM_COUNT	1969年/_O 到/_O 1972年/_O 阿波罗/_O 登/_O 月/_O 成功/_O 几/_O 次/_O ？/_O
+NUM_COUNT	2000年/_O 奥运会/_O 中国/_S-Ns 得/_O 了/_O 多少/_O 枚/_O 金牌/_O
+NUM_COUNT	“/_O 千/_O 湖/_O 之/_O 国/_O ”/_O 芬兰/_S-Ns 大约/_O 有/_O 多少/_O 个/_O 湖泊/_O ？/_O
+NUM_COUNT	巴西/_S-Ns 的/_O 国旗/_O 有/_O 几/_O 种/_O 颜色/_O
+NUM_COUNT	巴彦县/_S-Ns 有/_O 多少/_O 个/_O 乡镇/_O
+NUM_COUNT	北京市/_S-Ns 人口/_O 有/_O 多少/_O
+NUM_COUNT	成人/_O 牙齿/_O 共/_O 多少/_O 颗/_O ？/_O
+NUM_COUNT	大于/_O 多少/_O 个/_O 碳原子/_O 的/_O 烃常温/_O 下/_O 就/_O 是/_O 固体/_O 的/_O
+NUM_COUNT	地球/_O 有/_O 几/_O 个/_O 卫星/_O
+NUM_COUNT	第二十四/_O 届/_O 奥运会/_O 中国/_S-Ns 获得/_O 多少/_O 枚/_O 金牌/_O ？/_O
+NUM_COUNT	第十八/_O 届/_O 冬奥会/_O 中国/_S-Ns 获得/_O 了/_O 几/_O 枚/_O 银牌/_O ？/_O
+NUM_COUNT	第四/_O 届/_O 奥运会/_O 东道主/_O 英国/_S-Ns 总共/_O 得/_O 了/_O 多少/_O 枚/_O 奖牌/_O ？/_O
+NUM_COUNT	第一/_O 届/_O 奥运会/_O 有/_O 几/_O 个/_O 大项/_O ？/_O
+NUM_COUNT	多少/_O 电子/_O 电荷/_O 为/_O 一库伦/_O
+NUM_COUNT	法国/_S-Ns 人口/_O 大概/_O 有/_O 多少/_O 数量/_O
+NUM_COUNT	国际象棋/_O 共有/_O 多少/_O 颗/_O 棋子/_O ？/_O
+NUM_COUNT	哈尔滨市/_S-Ns 有/_O 多少/_O 人/_O
+NUM_COUNT	哈尔滨/_S-Ns 有/_O 多少/_O 人口/_O
+NUM_COUNT	哈工大/_O 有/_O 几/_O 个/_O 学院/_O 院士/_O
+NUM_COUNT	杭州/_S-Ns 有/_O 多少/_O 居民/_O
+NUM_COUNT	河南省/_S-Ns 的/_O 人口/_O 是/_O 多少/_O
+NUM_COUNT	花旗/_B-Ni 银行/_E-Ni 在/_O 中国/_S-Ns 有/_O 几/_O 家/_O 分行/_O
+NUM_COUNT	华盛顿/_S-Ns 担任/_O 了/_O 几/_O 届/_O 总统/_O ？/_O
+NUM_COUNT	鸡/_O 有/_O 几/_O 只/_O 脚/_O ？/_O
+NUM_COUNT	甲/_O A/_O 有/_O 多少/_O 支/_O 球队/_O
+NUM_COUNT	剑桥/_B-Ni 大学/_E-Ni 有/_O 几/_O 个/_O 学院/_O
+NUM_COUNT	迈克尔·乔丹/_S-Nh 夺/_O 过/_O NBA/_O 多少/_O 次/_O 总/_O 冠军/_O ？/_O
+NUM_COUNT	目前/_O 的/_O 小学/_O 教育/_O 共/_O 开设/_O 几/_O 门/_O 必修课/_O
+NUM_COUNT	牛津/_B-Ni 大学/_E-Ni 几/_O 个/_O 学院/_O
+NUM_COUNT	欧洲/_S-Ns 的/_O 人口/_O 是/_O 多少/_O
+NUM_COUNT	乔丹/_S-Nh 在/_O 一/_O 场/_O 比赛/_O 中/_O 最/_O 多/_O 抢/_O 多少/_O 个/_O 篮板球/_O
+NUM_COUNT	人/_O 一般/_O 有/_O 多少/_O 牙/_O
+NUM_COUNT	人/_O 有/_O 多少/_O 根/_O 头发/_O
+NUM_COUNT	人/_O 有/_O 多少/_O 颗/_O 恒牙/_O ？/_O
+NUM_COUNT	日本/_S-Ns 多少/_O 人口/_O
+NUM_COUNT	日本/_S-Ns 目前/_O 多少/_O 人/_O
+NUM_COUNT	世界/_O 人口/_O 最/_O 少/_O 的/_O 国家/_O 的/_O 人口/_O 是/_O 多少/_O
+NUM_COUNT	世界/_O 上/_O 共有/_O 多少/_O 个/_O 国家/_O
+NUM_COUNT	孙继海/_S-Nh 在/_O 英超/_O 共/_O 踢/_O 进/_O 了/_O 多少/_O 球/_O
+NUM_COUNT	万里长城/_S-Ns 横跨/_O 我国/_O 多少/_O 省/_O ？/_O
+NUM_COUNT	我国/_O 共有/_O 多少/_O 种/_O 鸟/_O ？/_O
+NUM_COUNT	我国/_O 有/_O 多少/_O 个/_O 民族/_O ？/_O
+NUM_COUNT	现在/_O 美国/_S-Ns 国旗/_O 星条旗/_O 上/_O 有/_O 多少/_O 颗/_O 星/_O ？/_O
+NUM_COUNT	一个/_O 人/_O 有/_O 多少/_O 块/_O 骨头/_O
+NUM_COUNT	一/_O 年/_O 有/_O 几/_O 个/_O 季度/_O
+NUM_COUNT	伊拉克/_S-Ns 有/_O 多少/_O 人口/_O
+NUM_COUNT	正常/_O 人体/_O 体细胞/_O 有/_O 多少/_O 条/_O 染色体/_O ？/_O
+NUM_COUNT	中国/_S-Ns 人口/_O 总数/_O 是/_O 多少/_O
+NUM_COUNT	中国/_S-Ns 人口/_O 最/_O 多/_O 的/_O 城市/_O 多少/_O 人/_O
+NUM_COUNT	中国/_S-Ns 一共/_O 有/_O 多少/_O 个/_O 军事/_O 博物馆/_O
+NUM_COUNT	中国/_S-Ns 邮政编码/_O 多少/_O 位/_O
+NUM_COUNT	中国/_S-Ns 有/_O 多少/_O 个/_O 省/_O
+NUM_COUNT	中国/_S-Ns 有/_O 多少/_O 农民/_O
+NUM_COUNT	中国/_S-Ns 有/_O 几/_O 个/_O 特区/_O
+NUM_COUNT	著名/_O 的/_O 比萨/_S-Ns 斜塔/_O 共有/_O 多少/_O 级/_O 台阶/_O ？/_O
+NUM_COUNT	一/_O 立方米/_O 水中/_O 有/_O 多少/_O 水分子/_O
+NUM_COUNT	白云/_B-Ns 机场/_E-Ns 平均/_O 日/_O 客运量/_O 是/_O 多少/_O
+NUM_COUNT	北京市/_S-Ns 共/_O 分/_O 几/_O 个/_O 城区/_O
+NUM_COUNT	哈工大/_B-Ni 图书馆/_E-Ni 的/_O 藏书量/_O 是/_O 多少/_O
+NUM_COUNT	美国/_S-Ns 杰出/_O 的/_O 黑人/_O 短跑/_O 名将/_O 杰西·欧文斯/_S-Nh 在/_O 柏林/_O 奥运会/_O 上/_O 独/_O 得/_O 几/_O 面/_O 金牌/_O ？/_O
+NUM_COUNT	乔丹/_S-Nh 本人/_O 几/_O 次/_O 被/_O 评为/_O 总决赛/_O 最/_O 有/_O 价值/_O 球员/_O ？/_O
+NUM_COUNT	人/_O 的/_O 脉博/_O 正常/_O 是/_O 多少/_O
+NUM_COUNT	一/_O 张/_O 普通/_O 光盘/_O 能够/_O 存储/_O 多少/_O 字节/_O 的/_O 数据/_O
+NUM_COUNT	一个/_O 蜂群/_O 有/_O 多少/_O 只/_O 蜜蜂/_O 组成/_O
+NUM_DISTANCE	白马座/_O 距离/_O 地球/_O 有/_O 多/_O 远/_O
+NUM_DISTANCE	北京/_S-Ns 到/_O 哈尔滨/_S-Ns 有/_O 多/_O 远/_O
+NUM_DISTANCE	北京/_S-Ns 和/_O 广州/_S-Ns 之间/_O 的/_O 距离/_O 是/_O 多少/_O
+NUM_DISTANCE	标准/_O 的/_O 篮球场/_O 有/_O 多/_O 长/_O ？/_O
+NUM_DISTANCE	长江/_S-Ns 有/_O 多/_O 长/_O
+NUM_DISTANCE	大气层/_O 厚度/_O 约/_O 为/_O 多少/_O ？/_O
+NUM_DISTANCE	邓小平/_S-Nh 有/_O 多/_O 高/_O
+NUM_DISTANCE	非洲/_S-Ns 第一/_O 高峰/_O 乞力马扎罗山/_S-Ns 的/_O 海拔/_O 高度/_O 是/_O 多少/_O ？/_O
+NUM_DISTANCE	哈尔滨/_S-Ns 和/_O 北京/_S-Ns 的/_O 距离/_O 是/_O 多少/_O
+NUM_DISTANCE	哈尔滨/_S-Ns 和/_O 大连/_S-Ns 的/_O 距离/_O 有/_O 多少/_O 公里/_O
+NUM_DISTANCE	青藏/_B-Ns 高原/_E-Ns 平均/_O 海拔/_O 多少/_O 米/_O ？/_O
+NUM_DISTANCE	青海湖/_S-Ns 的/_O 海拔/_O 高度/_O 是/_O 多少/_O
+NUM_DISTANCE	琼州/_S-Ns 海峡/_O 的/_O 最/_O 窄/_O 处/_O 有/_O 多/_O 宽/_O
+NUM_DISTANCE	世界/_O 上/_O 最高/_O 的/_O 人/_O 有/_O 多/_O 高/_O
+NUM_DISTANCE	死海/_S-Ns 的/_O 最低/_O 海拔/_O 为/_O 多少/_O 米/_O ？/_O
+NUM_DISTANCE	苏伊士/_S-Ns 运河/_O 有/_O 多/_O 长/_O
+NUM_DISTANCE	太阳/_O 和/_O 地球/_O 的/_O 距离/_O 是/_O 多少/_O ？/_O
+NUM_DISTANCE	太阳/_O 和/_O 地球/_O 相距/_O 多/_O 远/_O
+NUM_DISTANCE	唐古拉山/_S-Ns 的/_O 海拔/_O 是/_O 多少/_O
+NUM_DISTANCE	跳高/_O 世界/_O 冠军/_O 的/_O 记录/_O 是/_O 多少/_O
+NUM_DISTANCE	吐鲁番/_S-Ns 盆地/_O 的/_O 海拨/_O 是/_O 多少/_O 米/_O ？/_O
+NUM_DISTANCE	英吉利/_B-Ns 海峡/_E-Ns 最/_O 深处/_O 的/_O 海拔/_O 是/_O 多少/_O
+NUM_DISTANCE	月亮/_O 的/_O 直径/_O 是/_O 多少/_O
+NUM_DISTANCE	中国/_S-Ns 人/_O 的/_O 平均/_O 身高/_O 是/_O 多少/_O
+NUM_DISTANCE	足球/_O 比赛/_O 场地/_O 的/_O 角旗/_O 高度/_O 为/_O 多少/_O 米/_O ？/_O
+NUM_FREQUENCY	蓝牙/_O 的/_O 频率/_O 是/_O 多少/_O ？/_O
+NUM_MONEY	唐山/_S-Ns 大/_O 地震/_O 的/_O 损失/_O 估计/_O 有/_O 多少/_O 美元/_O
+NUM_MONEY	中国/_S-Ns 人民币/_O 最/_O 小/_O 面值/_O 多少/_O
+NUM_MONEY	我国/_O 每年/_O 发放/_O 国债/_O 多少/_O
+NUM_MONEY	公司/_O 每年/_O 向/_O 中国/_S-Ns 上交/_O 多少/_O 税/_O
+NUM_MONEY	目前/_O 购买/_O 一/_O 台/_O 笔记本/_O 电脑/_O 需要/_O 多少/_O 钱/_O
+NUM_MONEY	一克拉/_O 钻石/_O 值/_O 多少/_O 钱/_O
+NUM_MONEY	一/_O 台/_O 笔记本/_O 大概/_O 多少/_O 钱/_O
+NUM_MONEY	有限/_O 责任/_O 公司/_O 发行/_O 公司/_O 债券/_O ，/_O 其/_O 净资产/_O 额/_O 最低/_O 为/_O 人民币/_O 多少/_O ？/_O
+NUM_MONEY	中国/_S-Ns 每年/_O 的/_O 教育/_O 经费/_O 总额/_O 是/_O 多少/_O
+NUM_MONEY	中国/_S-Ns 一/_O 年/_O 国民/_O 生产总值/_O 是/_O 多少/_O
+NUM_OTHER	普通/_O 白炽灯/_O 的/_O 发光光/_O 强/_O 是/_O 多/_O 大/_O
+NUM_OTHER	普通/_O 灌装/_O 啤酒/_O 一般/_O 是/_O 多少/_O 毫升/_O
+NUM_OTHER	泰森/_S-Nh 的/_O 一/_O 记/_O 直/_O 勾拳/_O 有/_O 多少/_O 牛/_O
+NUM_OTHER	一/_O 升/_O 等于/_O 多少/_O 毫升/_O
+NUM_OTHER	中国/_S-Ns 民用电/_O 的/_O 电压/_O 一般/_O 是/_O 多少/_O
+NUM_OTHER	太阳/_O 的/_O 紫外线/_O 辐射量/_O 是/_O 多少/_O
+NUM_OTHER	E/_O 的/_O 容量/_O 是/_O 多少/_O
+NUM_OTHER	笔记本/_O 的/_O 功率/_O 有/_O 多/_O 大/_O
+NUM_OTHER	彩电/_O 允许/_O 的/_O 最/_O 大/_O 电流/_O 是/_O 多少/_O
+NUM_OTHER	丹江口/_S-Ns 水库/_O 总/_O 蓄水量/_O 为/_O 多少/_O
+NUM_OTHER	电阻/_O 丝/_O 熔断/_O 电流/_O 是/_O 多少/_O
+NUM_OTHER	对/_O 人体/_O 来说/_O 安全/_O 电压/_O 是/_O 多少/_O 伏/_O ？/_O
+NUM_OTHER	多少/_O 伏特/_O 的/_O 电压/_O 为/_O 安全/_O 电压/_O
+NUM_OTHER	黄金/_O 分割点/_O 是/_O 多少/_O ？/_O
+NUM_OTHER	目前/_O 主流/_O 硬盘/_O 的/_O 容量/_O 是/_O 多/_O 大/_O
+NUM_OTHER	人/_O 的/_O 一/_O 天/_O 热量/_O 需要/_O 多少/_O
+NUM_OTHER	人类/_O 每天/_O 平均/_O 消耗/_O 多少/_O 能量/_O
+NUM_OTHER	人体/_O 能够/_O 承受/_O 的/_O 最/_O 大/_O 电压/_O 是/_O 多/_O 大/_O
+NUM_OTHER	1/_O 升/_O 的/_O 牛奶/_O 含有/_O 多少/_O 卡/_O 的/_O 能量/_O
+NUM_OTHER	跳/_O 绳1/_O 分钟/_O 能/_O 消耗/_O 多少/_O 能量/_O
+NUM_OTHER	我国/_O 每年/_O 用电量/_O 多少/_O
+NUM_OTHER	一个/_O 成年/_O 男人/_O 身上/_O 的/_O 电阻/_O 大约/_O 是/_O 多少/_O
+NUM_OTHER	一个/_O 鸡腿/_O 含有/_O 多少/_O 热量/_O
+NUM_OTHER	一/_O 块/_O 巧克力/_O 含有/_O 的/_O 热量/_O 是/_O 多少/_O
+NUM_OTHER	雨水/_O 的/_O PH/_O 值/_O 低于/_O 多少/_O 时/_O 称为/_O 酸雨/_O ？/_O
+NUM_OTHER	照明电/_O 的/_O 正常/_O 电压/_O 是/_O 多少/_O
+NUM_OTHER	正常/_O 情况/_O 下/_O 人体/_O 内/_O 血糖/_O 含量/_O 是/_O 多少/_O
+NUM_OTHER	18K/_O 金/_O 含金量/_O 是/_O 多少/_O ？/_O
+NUM_OTHER	今年/_O 世界/_O 降水/_O 是/_O 多少/_O
+NUM_PERCENT	MP3/_O 在/_O 不/_O 降低/_O 音质/_O 的/_O 前提/_O 之下/_O ，/_O 是/_O 以/_O 多少/_O 比例/_O 压缩/_O CD/_O 中/_O 的/_O 音乐/_O ？/_O
+NUM_PERCENT	贷款/_O 所/_O 需要/_O 交/_O 的/_O 利息/_O 是/_O 多少/_O
+NUM_PERCENT	2000年/_O 奥运会/_O 中国/_B-Ni 女排/_E-Ni 与/_O 美国队/_S-Ni 的/_O 比分/_O 是/_O 多少/_O
+NUM_PERCENT	水/_O 占/_O 人体/_O 重量/_O 的/_O 百分之/_O 多少/_O
+NUM_PERCENT	我国/_O 人口/_O 占/_O 世界/_O 总人口/_O 的/_O 比重/_O 是/_O 多少/_O
+NUM_PERCENT	氧气/_O 占/_O 空气/_O 体积/_O 的/_O 百分之/_O 多少/_O ？/_O
+NUM_PERCENT	中国/_S-Ns 储蓄/_O 的/_O 利率/_O 是/_O 多少/_O
+NUM_PERCENT	中国/_S-Ns 的/_O 森林/_O 覆盖率/_O 是/_O 多少/_O
+NUM_PERCENT	中国/_S-Ns 目前/_O 新生儿/_O 的/_O 死亡率/_O 是/_O 多少/_O
+NUM_PERIOD	乘坐/_O 民航/_O 班机/_O 多少/_O 岁/_O 以上/_O 不/_O 能/_O 购买/_O 儿童/_O 票/_O ？/_O
+NUM_PERIOD	多/_O 大/_O 年纪/_O 的/_O 猫/_O 算是/_O 寿星/_O
+NUM_PERIOD	太阳/_O 的/_O 年龄/_O 约/_O 有/_O 多/_O 大/_O ？/_O
+NUM_PERIOD	至今/_O 为止/_O ，/_O 地球/_O 的/_O 年龄/_O 约/_O 是/_O 多少/_O ？/_O
+NUM_PERIOD	钻禧/_O 是/_O 指/_O 结婚/_O 多少/_O 周年/_O 纪念/_O ？/_O
+NUM_PERIOD	非典/_O 的/_O 谋伏期/_O 是/_O 多少/_O 天/_O
+NUM_PERIOD	眉毛/_O 的/_O 生长/_O 周期/_O 有/_O 多久/_O ？/_O
+NUM_PERIOD	闰年/_O 几/_O 年/_O 会/_O 出现/_O 一/_O 次/_O
+NUM_PERIOD	太阳/_O 黑子/_O 爆发/_O 多少/_O 年/_O 一/_O 次/_O
+NUM_PERIOD	托福/_O 考试/_O 的/_O 成绩/_O 能/_O 保留/_O 几/_O 年/_O ？/_O
+NUM_PERIOD	一个/_O 有/_O 星期/_O 多少/_O 天/_O
+NUM_PERIOD	一/_O 年/_O 有/_O 多少/_O 天/_O
+NUM_PERIOD	月亮/_O 自/_O 转/_O 一/_O 周/_O 大约/_O 是/_O 地球/_O 上/_O 的/_O 多少/_O 天/_O ？/_O
+NUM_PERIOD	这/_O 次/_O 梅雨/_O 季节/_O 持续/_O 多少/_O 天/_O
+NUM_PERIOD	成年人/_O 每日/_O 的/_O 正常/_O 睡眠/_O 时间/_O 应/_O 是/_O 多少/_O 小时/_O ？/_O
+NUM_PERIOD	唐朝/_O 的/_O 存在/_O 时间/_O
+NUM_PERIOD	1794年/_O ，/_O 拿破仑/_S-Nh 被/_O 热月/_O 党/_O 人/_O 监禁/_O 了/_O 多少/_O 天/_O ？/_O
+NUM_PERIOD	地球/_O 多/_O 长/_O 时间/_O 绕/_O 太阳/_O 一/_O 圈/_O
+NUM_PERIOD	地球/_O 绕/_O 太阳/_O 公转/_O 一/_O 周/_O 要/_O 多/_O 长/_O 时间/_O
+NUM_PERIOD	非/_O 典型/_O 肺炎/_O 的/_O 谋伏期/_O 是/_O 多/_O 长/_O 时间/_O
+NUM_PERIOD	狗/_O 能/_O 活/_O 多/_O 长/_O 时间/_O
+NUM_PERIOD	哈雷彗星/_O 绕/_O 太阳/_O 运行/_O 的/_O 周期/_O 约/_O 为/_O 多少/_O 年/_O ？/_O
+NUM_PERIOD	海龟/_O 平均/_O 能/_O 活多/_O 长/_O 时间/_O
+NUM_PERIOD	少年儿童/_O 每日/_O 的/_O 正常/_O 睡眠/_O 时间/_O 应/_O 是/_O 多少/_O 小时/_O ？/_O
+NUM_PERIOD	塑料袋/_O 在/_O 海/_O 中/_O 需要/_O 多少/_O 年/_O 才/_O 能/_O 分解/_O ？/_O
+NUM_PERIOD	我国/_O 公安/_O 部门/_O 颁发/_O 的/_O 出国/_O 留学/_O 护照/_O 有效期/_O 为/_O 几/_O 年/_O ？/_O
+NUM_PERIOD	我国/_O 实行/_O 的/_O 是/_O 几年制/_O 义务教育/_O ？/_O
+NUM_PERIOD	第三/_O 届/_O 奥运会/_O 一共/_O 持续/_O 了/_O 多久/_O ？/_O
+NUM_PERIOD	太阳能/_O 存在/_O 多/_O 长/_O 时间/_O
+NUM_RANGE	中度/_O 酒/_O 的/_O 酒精/_O 含量/_O 在/_O 多少/_O 范围/_O 之内/_O ？/_O
+NUM_RANK	被/_O 称为/_O "/_O 旅馆/_O 奥运会/_O "/_O 的/_O 是/_O 第几/_O 届/_O 冬奥会/_O ？/_O
+NUM_RANK	戴相龙/_S-Nh 是/_O 央行/_O 第几/_O 任/_O 行长/_O
+NUM_RANK	哈工大/_O 计算机系/_O 在/_O 中国/_S-Ns 高校/_O 中/_O 排名/_O 第几/_O
+NUM_RANK	海南岛/_S-Ns 是/_O 我国/_O 的/_O 第几/_O 大/_O 岛/_O ？/_O
+NUM_RANK	美国/_S-Ns 杰出/_O 的/_O 黑人/_O 短跑/_O 名将/_O 杰西·欧文斯/_S-Nh 在/_O 哪/_O 届/_O 奥运会/_O 上/_O 独/_O 拿/_O 4/_O 枚/_O 金牌/_O ？/_O
+NUM_SPEED	北极/_S-Ns 的/_O 重力/_O 加/_O 速度/_O 是/_O 多少/_O
+NUM_SPEED	地球/_O 的/_O 加速度/_O 多/_O 大/_O
+NUM_SPEED	火车/_O 在/_O 启动/_O 时/_O 的/_O 标准加/_O 速度/_O 是/_O 多少/_O
+NUM_SPEED	火星/_O 上/_O 的/_O 重力/_O 加/_O 速度/_O 是/_O 多少/_O
+NUM_SPEED	水星/_O 的/_O 重力/_O 加/_O 速度/_O 是/_O 多少/_O
+NUM_SPEED	我们/_O 在/_O 物理/_O 上/_O 规定/_O 是/_O 重力/_O 加/_O 速度/_O 是/_O 多少/_O
+NUM_SPEED	自由/_O 落体/_O 的/_O 加速度/_O 是/_O 多少/_O
+NUM_SPEED	第一/_O 宇宙/_O 速度/_O 是/_O 多少/_O
+NUM_SPEED	光/_O 的/_O 速度/_O 是/_O 多少/_O ？/_O
+NUM_SPEED	光速/_O 是/_O 多少/_O
+NUM_SPEED	光速/_O 有/_O 多/_O 大/_O
+NUM_SPEED	光速/_O 约/_O 为/_O 多少/_O ？/_O
+NUM_SPEED	目前/_O 的/_O 火车/_O 的/_O 最/_O 大/_O 速度/_O 是/_O 多少/_O
+NUM_SPEED	男子/_O 百/_O 米/_O 冠军/_O 的/_O 速度/_O 是/_O 多少/_O
+NUM_SPEED	人类/_O 所/_O 能/_O 达到/_O 的/_O 最/_O 快/_O 的/_O 速度/_O 是/_O 多少/_O
+NUM_SPEED	战斗机/_O 的/_O 最/_O 快/_O 时速/_O 是/_O 多少/_O
+NUM_TEMPERATURE	地球/_O 内部/_O 的/_O 地/_O 核/_O 温度/_O 高于/_O 多少/_O 度/_O ？/_O
+NUM_TEMPERATURE	海底/_O 最低/_O 温度/_O 可能/_O 达到/_O 多少/_O
+NUM_TEMPERATURE	今天/_O 气温/_O 有/_O 多少/_O 度/_O
+NUM_TEMPERATURE	人/_O 的/_O 正常/_O 体温/_O 是/_O 多少/_O
+NUM_TEMPERATURE	太阳/_O 表面/_O 温度/_O 大约/_O 多少/_O ？/_O
+NUM_TEMPERATURE	太阳/_O 的/_O 表面/_O 温度/_O 一般/_O 达到/_O 多少/_O 摄氏度/_O ？/_O
+NUM_TEMPERATURE	氧气/_O 在/_O 多少/_O 温度/_O 下/_O 呈/_O 液态/_O
+NUM_TEMPERATURE	伊拉克/_S-Ns 年/_O 平均/_O 气温/_O 是/_O 多少/_O
+NUM_TEMPERATURE	在/_O 华氏/_O 温标/_O 中/_O ，/_O 冰/_O 的/_O 熔点/_O 是/_O 多少/_O ？/_O
+NUM_VOLUME	一/_O 加仑/_O 是/_O 多少/_O 立方米/_O
+NUM_VOLUME	标准/_O 集装箱/_O 的/_O 体积/_O 是/_O 多少/_O
+NUM_VOLUME	地球/_O 的/_O 体积/_O 有/_O 多/_O 大/_O ？/_O
+NUM_VOLUME	一/_O 立方米/_O 等于/_O 多少/_O 立方厘米/_O
+NUM_WEIGHT	第一/_O 次/_O 探索/_O 月球/_O 的/_O 阿波罗号/_O 总/_O 重量/_O 为/_O 多少/_O ？/_O
+NUM_WEIGHT	飞机/_O 上/_O 允许/_O 每个/_O 人/_O 随身/_O 携带/_O 的/_O 物品/_O 的/_O 重量/_O 是/_O 多少/_O
+NUM_WEIGHT	轰炸机/_O 的/_O 最/_O 大/_O 起飞/_O 重量/_O 是/_O 多少/_O
+NUM_WEIGHT	人/_O 的/_O 标准/_O 体重/_O 是/_O 多少/_O
+NUM_WEIGHT	手机/_O 一般/_O 多少/_O 重量/_O
+NUM_WEIGHT	泰森/_S-Nh 重/_O 拳/_O 的/_O 重量/_O 是/_O 多/_O 大/_O
+NUM_WEIGHT	泰坦尼克号/_O 的/_O 吃水量/_O 有/_O 多少/_O 吨/_O
+NUM_WEIGHT	新生儿/_O 的/_O 平均/_O 重量/_O 是/_O 多少/_O
+NUM_WEIGHT	一/_O 头/_O 成年/_O 非洲/_S-Ns 象/_O 有/_O 多重/_O
+OBJ_ACADEMIC	爱因斯坦都/_S-Nh 提出/_O 了/_O 哪些/_O 理论/_O
+OBJ_ACADEMIC	北大/_O 最/_O 权威/_O 的/_O 专业/_O 是/_O 什么/_O
+OBJ_ACADEMIC	在/_O 大学/_O 里/_O 哪/_O 一个/_O 专业/_O 最/_O 热门/_O
+OBJ_ADDRESS	在/_O INTERNET/_O 中/_O ，/_O 商业/_O 公司/_O 域名/_O 的/_O 后缀/_O 是/_O 什么/_O ？/_O
+OBJ_ANIMAL	沙光鱼/_O 的/_O 学名/_O 叫/_O 啥/_O ？/_O
+OBJ_ANIMAL	澳大利亚/_S-Ns 最/_O 著名/_O 的/_O 动物/_O 是/_O 什么/_O
+OBJ_ANIMAL	霸王龙/_O 是/_O 哪/_O 一/_O 类/_O 的/_O 动物/_O
+OBJ_ANIMAL	被/_O 用/_O 来/_O 送/_O 信/_O 的/_O 会/_O 飞/_O 的/_O 动物/_O 是/_O 什么/_O
+OBJ_ANIMAL	和/_O 人类/_O 的/_O 血缘/_O 关系/_O 最近/_O 的/_O 动物/_O 是/_O 什么/_O
+OBJ_ANIMAL	金鱼/_O 的/_O 祖先/_O 是/_O 什么/_O ？/_O
+OBJ_ANIMAL	哪/_O 一/_O 种/_O 动物/_O 最/_O 重/_O
+OBJ_ANIMAL	哪/_O 种/_O 鸟/_O 是/_O 印度/_S-Ns 的/_O 国鸟/_O ？/_O
+OBJ_ANIMAL	跑/_O 得/_O 最/_O 快/_O 的/_O 动物/_O 是/_O 什么/_O
+OBJ_ANIMAL	人类/_O 发现/_O 最/_O 早/_O 的/_O 动物/_O 是/_O 什么/_O
+OBJ_ANIMAL	什么/_O 动物/_O 的/_O 嘴/_O 最/_O 大/_O
+OBJ_ANIMAL	什么/_O 动物/_O 有/_O 腹袋/_O
+OBJ_ANIMAL	什么/_O 动物/_O 最/_O 小/_O
+OBJ_ANIMAL	什么/_O 是/_O 跑/_O 得/_O 最/_O 快/_O 的/_O 动物/_O
+OBJ_ANIMAL	什么/_O 鱼/_O 游/_O 得/_O 最/_O 快/_O
+OBJ_ANIMAL	世界/_O 上/_O 现存/_O 体形/_O 最/_O 大/_O 的/_O 动物/_O 是/_O 什么/_O
+OBJ_ANIMAL	体积/_O 最/_O 大/_O 的/_O 动物/_O 是/_O 什么/_O
+OBJ_ANIMAL	熊猫/_O 学名/_O 叫/_O 什么/_O
+OBJ_ANIMAL	印度/_S-Ns 的/_O 国鸟/_O 是/_O 什么/_O 鸟/_O ？/_O
+OBJ_ANIMAL	在/_O 我国/_O ，/_O 被/_O 称为/_O “/_O 六/_O 不/_O 像/_O ”/_O 的/_O 动物/_O 是/_O 什么/_O 动物/_O ？/_O
+OBJ_ANIMAL	中国/_S-Ns 的/_O 国宝/_O 是/_O 什么/_O 动物/_O
+OBJ_ANIMAL	最/_O 聪明/_O 的/_O 动物/_O 是/_O 什么/_O
+OBJ_ANIMAL	一级/_O 保护/_O 动物/_O 有/_O 哪些/_O
+OBJ_ANIMAL	考拉/_O 是/_O 什么/_O 种属/_O 的/_O 动物/_O
+OBJ_ANIMAL	人/_O 属于/_O 动物/_O 中/_O 哪/_O 一/_O 科/_O
+OBJ_ANIMAL	狮子/_O 属于/_O 什么/_O 科/_O ？/_O
+OBJ_ART	体育/_O 舞蹈/_O 又/_O 被/_O 称为/_O 什么/_O ？/_O
+OBJ_ART	球王/_O 贝利/_S-Nh 曾/_O 参加/_O 过/_O 哪/_O 一/_O 部/_O 电影/_O 的/_O 拍摄/_O ？/_O
+OBJ_ART	中国/_S-Ns 的/_O 国歌/_O 是/_O 什么/_O ？/_O
+OBJ_ART	中国/_S-Ns 第一/_O 部/_O 彩色/_O 故事片/_O 叫/_O 什么/_O 名字/_O ？/_O
+OBJ_BODY	人/_O 小/_O 腿/_O 含/_O 哪些/_O 骨头/_O
+OBJ_BODY	避雷针/_O 安装/_O 在/_O 大楼/_O 的/_O 哪个/_O 部位/_O
+OBJ_BODY	打/_O 篮球/_O 会/_O 锻炼/_O 人体/_O 的/_O 哪个/_O 部分/_O
+OBJ_BODY	内耳/_O 又/_O 叫/_O 作/_O 什么/_O ？/_O
+OBJ_BODY	人体/_O 的/_O 中枢/_O 是/_O 什么/_O
+OBJ_BODY	人体/_O 里/_O 最/_O 坚硬/_O 的/_O 器官/_O 是/_O 哪个/_O
+OBJ_BODY	人体/_O 最/_O 坚硬/_O 的/_O 部位/_O 是/_O 什么/_O
+OBJ_BODY	人/_O 写字/_O 通常/_O 使用/_O 哪/_O 只/_O 手/_O
+OBJ_BODY	人/_O 用/_O 什么/_O 走路/_O
+OBJ_BODY	握手/_O 的/_O 时候/_O 一般/_O 是/_O 哪/_O 只/_O 手/_O
+OBJ_BODY	肱二头肌/_O 在/_O 身体/_O 的/_O 哪个/_O 部位/_O
+OBJ_BODY	鲨鱼/_O 用/_O 什么/_O 呼吸/_O ？/_O
+OBJ_BODY	人体/_O 生长/_O 最/_O 快/_O 的/_O 手臂/_O 以下/_O 的/_O 部分/_O 是/_O 什么/_O
+OBJ_CATEGORY	“/_O 火把节/_O ”/_O 是/_O 哪个/_O 民族/_O 的/_O 传统/_O 节日/_O ？/_O
+OBJ_CATEGORY	哪/_O 一/_O 民族/_O 把/_O 奶制品/_O 称为/_O “/_O 白食/_O ”/_O ？/_O
+OBJ_CATEGORY	泼水节/_O 是/_O 我国/_O 哪/_O 一/_O 民族/_O 一/_O 年/_O 中/_O 最/_O 盛大/_O 的/_O 节日/_O ？/_O
+OBJ_CATEGORY	我国/_O 著名/_O 体操/_O 选手/_O 李宁/_S-Nh 是/_O 什么/_O 民族/_O 的/_O ？/_O
+OBJ_CATEGORY	献/_O 哈达/_O 是/_O 哪个/_O 民族/_O 的/_O 礼节/_O ？/_O
+OBJ_COLOR	大海/_O 是/_O 什么/_O 颜色/_O
+OBJ_COLOR	国旗/_O 的/_O 主要/_O 颜色/_O 是/_O 什么/_O
+OBJ_COLOR	美国/_S-Ns 邮递员/_O 的/_O 制服/_O 是/_O 什么/_O 颜色/_O 的/_O ？/_O
+OBJ_COLOR	牡丹花/_O 是/_O 什么/_O 颜色/_O 的/_O
+OBJ_COLOR	天/_O 是/_O 什么/_O 颜色/_O 的/_O ？/_O
+OBJ_COLOR	雨/_O 后/_O 的/_O 天空/_O 是/_O 什么/_O 颜色/_O
+OBJ_COLOR	中国/_S-Ns 代表/_O 帝王之色/_O 的/_O 是/_O 什么/_O 颜色/_O
+OBJ_CURRENCY	韩国/_S-Ns 的/_O 流通/_O 货币/_O 是/_O 什么/_O
+OBJ_CURRENCY	荷兰/_S-Ns 使用/_O 什么/_O 货币/_O
+OBJ_CURRENCY	日本/_S-Ns 流通/_O 的/_O 货币/_O 是/_O 什么/_O
+OBJ_CURRENCY	台湾/_S-Ns 的/_O 流通/_O 货币/_O 是/_O 什么/_O
+OBJ_CURRENCY	新西兰/_S-Ns 的/_O 流通/_O 货币/_O 是/_O 什么/_O
+OBJ_CURRENCY	伊拉克/_S-Ns 的/_O 流通/_O 货币/_O 是/_O 什么/_O
+OBJ_CURRENCY	意大利/_S-Ns 的/_O 货币/_O 称作/_O 什么/_O
+OBJ_DISEASE	肺炎/_O 都/_O 包括/_O 哪些/_O 种类/_O
+OBJ_DISEASE	HIV/_O 会/_O 导致/_O 什么/_O 病症/_O ？/_O
+OBJ_DISEASE	世界/_O 上/_O 什么/_O 病/_O 的/_O 死亡率/_O 最高/_O
+OBJ_DISEASE	世界/_O 上/_O 死亡率/_O 最高/_O 的/_O 疾病/_O 是/_O 什么/_O
+OBJ_EVENT	目前/_O 开/_O 了/_O 什么/_O 会议/_O
+OBJ_EVENT	2004年/_O 的/_O 什么/_O 会议/_O
+OBJ_EVENT	邓小平/_S-Nh 是/_O 在/_O 什么/_O 会议/_O 上/_O 提出/_O 人民/_O 政协/_O 的/_O 政治/_O 基础/_O 是/_O 坚持/_O 四/_O 项/_O 基本/_O 原则/_O
+OBJ_EVENT	哪/_O 次/_O 会议/_O 为/_O 准/_O
+OBJ_EVENT	确立/_O 以/_O 五星红旗/_O 为/_O 国旗/_O 是/_O 哪/_O 次/_O 会议/_O
+OBJ_EVENT	今年/_O 澳门/_S-Ns 举办/_O 什么/_O 运动会/_O
+OBJ_EVENT	上海/_S-Ns 在/_O 近代/_O 发生/_O 了/_O 一/_O 次/_O 什么/_O 战争/_O
+OBJ_EVENT	哪/_O 次/_O 战争/_O 是/_O 高/_O 技术/_O 战争/_O 成熟/_O 的/_O 标志/_O
+OBJ_EVENT	哪/_O 次/_O 战争/_O 象征/_O 着/_O 三/_O 国/_O 的/_O 最后/_O 之/_O 战/_O
+OBJ_EVENT	哪/_O 一个/_O 战争/_O 是/_O 最/_O 令/_O 人/_O 期待/_O 的/_O
+OBJ_EVENT	汉/_O 匈/_O 之间/_O 主要/_O 有/_O 哪/_O 几/_O 场/_O 战争/_O
+OBJ_EVENT	新/_O 中国/_S-Ns 哪/_O 场/_O 战争/_O 最/_O 经典/_O
+OBJ_EVENT	伱/_O 最/_O 喜欢/_O 火影/_O 里/_O 的/_O 哪/_O 场/_O 战争/_O
+OBJ_EVENT	目前/_O 世界/_O 上/_O 有/_O 仪器/_O 记录/_O 的/_O 最/_O 大/_O 地震/_O 是/_O 哪/_O 一/_O 次/_O
+OBJ_FOOD	大头菜/_O 又/_O 称/_O 什么/_O
+OBJ_FOOD	俄罗斯/_S-Ns 人/_O 冬天/_O 的/_O 主食/_O 是/_O 什么/_O
+OBJ_FOOD	什么/_O 饮料/_O 有/_O 提神/_O 的/_O 作用/_O
+OBJ_FOOD	世界/_O 上/_O 消费/_O 最/_O 多/_O 的/_O 是/_O 哪/_O 一/_O 种/_O 饮料/_O
+OBJ_FOOD	悉尼/_S-Ns 奥运会/_O 中国/_S-Ns 代表团/_O 的/_O 指定/_O 饮料/_O 是/_O 什么/_O
+OBJ_FOOD	夏天/_O 肯/_O 得/_O 基卖/_O 的/_O 最/_O 好/_O 的/_O 饮料/_O 是/_O 什么/_O
+OBJ_FOOD	中国/_S-Ns 人/_O 过年/_O 最/_O 喜欢/_O 吃/_O 什么/_O
+OBJ_FOOD	白薯/_O 又/_O 叫/_O 什么/_O
+OBJ_FOOD	土豆/_O 又/_O 叫做/_O 什么/_O
+OBJ_FOOD	西红柿/_O 的/_O 别名/_O 是/_O 什么/_O
+OBJ_FOOD	缺少/_O 哪/_O 种/_O 维生素/_O 后/_O ，/_O 儿童/_O 易/_O 患/_O 佝偻病/_O ，/_O 成人/_O 易/_O 得/_O 软骨病/_O ？/_O
+OBJ_INSTRUMENT	人类/_O 第一/_O 次/_O 登/_O 上/_O 月球/_O 乘坐/_O 的/_O 宇宙飞船/_O 叫/_O 什么/_O 名字/_O ？/_O
+OBJ_INSTRUMENT	达芬奇/_S-Nh 最/_O 擅长/_O 的/_O 乐器/_O 是/_O 什么/_O
+OBJ_INSTRUMENT	什么/_O 工具/_O 可以/_O 把/_O 钉子/_O 钉/_O 到/_O 墙/_O 里/_O
+OBJ_INSTRUMENT	有/_O 乐器/_O 之/_O 王/_O 之/_O 称/_O 的/_O 乐器/_O 是/_O 什么/_O
+OBJ_INSTRUMENT	标准/_O 的/_O 管弦乐队/_O 由/_O 什么/_O 乐器/_O 组成/_O
+OBJ_INSTRUMENT	第一/_O 艘/_O 成功/_O 飞过/_O 火星/_O 的/_O 探测/_O 船/_O 叫/_O 什么/_O 名字/_O ？/_O
+OBJ_INSTRUMENT	中国/_S-Ns 人/_O 吃饭/_O 一般/_O 要/_O 用/_O 什么/_O
+OBJ_INSTRUMENT	最/_O 快/_O 的/_O 交通/_O 工具/_O 是/_O 什么/_O
+OBJ_LANGUAGE	朱镕基/_S-Nh 给/_O 焦点/_O 访谈/_O 的/_O 题词/_O 是/_O 什么/_O
+OBJ_LANGUAGE	“/_O 蒙太奇/_O ”/_O 一/_O 词/_O 源于/_O 哪/_O 国/_O 语言/_O ？/_O
+OBJ_LANGUAGE	“/_O 席梦思/_O ”/_O 三/_O 个/_O 字/_O 源于/_O 什么/_O 语言/_O ？/_O
+OBJ_LANGUAGE	澳大利亚/_S-Ns 讲/_O 什么/_O 语/_O
+OBJ_LANGUAGE	比利时/_S-Ns 的/_O 官方/_O 语言/_O 是/_O 什么/_O
+OBJ_LANGUAGE	古巴/_S-Ns 的/_O 官方/_O 语言/_O 是/_O 什么/_O 语/_O ？/_O
+OBJ_LANGUAGE	荷兰/_S-Ns 人/_O 说/_O 什么/_O 语言/_O
+OBJ_LANGUAGE	加拿大/_S-Ns 的/_O 官方/_O 语言/_O 是/_O 什么/_O 语/_O
+OBJ_LANGUAGE	世界/_O 上/_O 什么/_O 语言/_O 被/_O 最/_O 多/_O 人/_O 使用/_O
+OBJ_LANGUAGE	世界/_O 上/_O 使用/_O 人数/_O 最/_O 多/_O 的/_O 语言/_O 是/_O 什么/_O 语言/_O ？/_O
+OBJ_LANGUAGE	说/_O 哪/_O 种/_O 语言/_O 的/_O 人/_O 最/_O 多/_O
+OBJ_LANGUAGE	新加坡/_S-Ns 的/_O 官方/_O 语言/_O 是/_O 什么/_O
+OBJ_LANGUAGE	新西兰/_S-Ns 人/_O 讲/_O 什么/_O 语/_O
+OBJ_LANGUAGE	意大利/_S-Ns 民间/_O 说/_O 什么/_O 语言/_O
+OBJ_LANGUAGE	印度/_S-Ns 的/_O 官方/_O 语言/_O 是/_O 什么/_O 语/_O
+OBJ_LANGUAGE	印度/_S-Ns 的/_O 母语/_O 是/_O 什么/_O
+OBJ_LANGUAGE	智利/_S-Ns 的/_O 官方/_O 语言/_O 是/_O 什么/_O
+OBJ_LITERATURE	福克纳/_S-Nh 写/_O 过/_O 什么/_O 小说/_O
+OBJ_LITERATURE	戊戌变法/_O 运动/_O 期间/_O ，/_O 维新派/_O 创办/_O 的/_O 第一/_O 份/_O 报纸/_O 是/_O 什么/_O 报/_O ？/_O
+OBJ_LITERATURE	列举/_O 出/_O 两/_O 部/_O 吴敬梓/_S-Nh 的/_O 著作/_O ？/_O
+OBJ_LITERATURE	列举/_O 出/_O 茅盾/_S-Nh 的/_O “/_O 农村/_O 三部曲/_O ”/_O ？/_O
+OBJ_LITERATURE	《/_O 一千零一/_O 夜/_O 》/_O 又/_O 被/_O 称为/_O 什么/_O ？/_O
+OBJ_MATERIAL	得莫利/_O 炖/_O 鱼/_O 都/_O 有/_O 什么/_O 原料/_O
+OBJ_MATERIAL	花岗岩/_O 属于/_O 哪/_O 一/_O 类/_O 岩石/_O ？/_O
+OBJ_MATERIAL	冲锋枪/_O 是/_O 用/_O 什么/_O 做/_O 的/_O
+OBJ_MATERIAL	防水/_O 雨衣/_O 是/_O 用/_O 什么/_O 材料/_O 制成/_O 的/_O
+OBJ_MATERIAL	人类/_O 最/_O 早/_O 认识/_O 并/_O 使用/_O 的/_O 金属/_O 是/_O 什么/_O
+OBJ_MATERIAL	熔点/_O 最低/_O 的/_O 金属/_O 是/_O 什么/_O
+OBJ_MATERIAL	用/_O 什么/_O 原料/_O 制作/_O 馒头/_O
+OBJ_OTHER	徐悲鸿/_S-Nh 以/_O 画/_O 什么/_O 闻名/_O 世界/_O ？/_O
+OBJ_OTHER	电脑/_O 由/_O 什么/_O 组装/_O 成/_O 的/_O
+OBJ_OTHER	列举/_O 出/_O 中国/_S-Ns 的/_O 四/_O 大/_O 发明/_O ？/_O
+OBJ_OTHER	原子核/_O 是/_O 由/_O 什么/_O 组成/_O ？/_O
+OBJ_OTHER	A/_O 是/_O 什么/_O 的/_O 单位/_O
+OBJ_OTHER	“/_O 华表/_O ”/_O 又/_O 叫作/_O 什么/_O ？/_O
+OBJ_OTHER	高斯/_S-Nh 是/_O 什么/_O 的/_O 物理/_O 单位/_O
+OBJ_OTHER	光年/_O 是/_O 什么/_O 单位/_O ？/_O
+OBJ_OTHER	好望角/_O 盛行/_O 什么/_O 风/_O ？/_O
+OBJ_OTHER	甲骨文/_O 是/_O 写/_O 在/_O 什么/_O 上面/_O 的/_O ？/_O
+OBJ_OTHER	诺贝尔/_S-Nh 发明/_O 了/_O 什么/_O ？/_O
+OBJ_OTHER	欧姆/_S-Nh 是/_O 什么/_O 的/_O 单位/_O
+OBJ_OTHER	帕斯卡/_S-Nh 是/_O 什么/_O 的/_O 单位/_O
+OBJ_OTHER	世界/_O 上/_O 落差/_O 最/_O 大/_O 的/_O 瀑布/_O 是/_O 什么/_O 瀑布/_O ？/_O
+OBJ_OTHER	水/_O 凝/_O 固/_O 后/_O 叫/_O 什么/_O
+OBJ_OTHER	微软/_B-Ni 公司/_E-Ni 的/_O 主要/_O 产品/_O 是/_O 什么/_O
+OBJ_OTHER	信阳/_S-Ns 的/_O 特产/_O 是/_O 什么/_O
+OBJ_OTHER	炸/_O 鸡腿/_O 的/_O 配方/_O 是/_O 什么/_O
+OBJ_OTHER	哪/_O 种/_O 液体/_O 易/_O 被/_O 人/_O 的/_O 皮肤/_O 吸收/_O
+OBJ_OTHER	人/_O 的/_O 生命/_O 最/_O 需要/_O 的/_O 气体/_O 是/_O 什么/_O
+OBJ_OTHER	酸雨/_O 里/_O 含有/_O 什么/_O 有毒/_O 气体/_O
+OBJ_OTHER	最/_O 轻/_O 的/_O 气体/_O 是/_O 什么/_O
+OBJ_PLAN	圣诞节/_O 你/_O 有/_O 什么/_O 计划/_O
+OBJ_PLANT	百合/_O 的/_O 别名/_O 是/_O 什么/_O
+OBJ_PLANT	核桃树/_O 的/_O 学名/_O 是/_O 什么/_O
+OBJ_PLANT	北方/_O 最/_O 多/_O 的/_O 树/_O 叫/_O 什么/_O 树/_O
+OBJ_PLANT	非洲/_S-Ns 热带雨林/_O 最/_O 常见/_O 的/_O 树/_O 是/_O 什么/_O
+OBJ_PLANT	开封/_S-Ns 的/_O 市花/_O 是/_O 什么/_O
+OBJ_PLANT	什么/_O 花/_O 象征/_O 爱情/_O
+OBJ_PLANT	什么/_O 树/_O 的/_O 叶子/_O 象针/_O 一样/_O
+OBJ_PLANT	什么/_O 树/_O 四季/_O 常青/_O
+OBJ_RELIGION	维吾尔族/_O 人/_O 信奉/_O 什么/_O 教/_O ？/_O
+OBJ_SERVICE	哪/_O 次/_O 车/_O 经过/_O 哈尔滨/_S-Ns 和/_O 北京/_S-Ns
+OBJ_SPORTS	李小龙/_S-Nh 最/_O 早/_O 是/_O 学/_O 哪/_O 一/_O 种/_O 武术/_O ？/_O
+OBJ_SPORTS	乔丹/_S-Nh 从事/_O 的/_O 是/_O 什么/_O 体育运动/_O
+OBJ_SPORTS	现代/_O 奥运会/_O 的/_O 产生/_O 的/_O 第一/_O 个/_O 冠军/_O 的/_O 项目/_O 是/_O 什么/_O 项目/_O ？/_O
+OBJ_SPORTS	在/_O 中国/_S-Ns 参加/_O 人数/_O 最/_O 多/_O 的/_O 运动/_O 是/_O 什么/_O
+OBJ_SUBSTANCE	大理石/_O 是/_O 由/_O 哪些/_O 成分/_O 构成/_O 的/_O
+OBJ_SUBSTANCE	巧克力/_O 的/_O 成分/_O 有/_O 哪些/_O
+OBJ_SUBSTANCE	氧气/_O 由/_O 什么/_O 成分/_O 组成/_O
+OBJ_SUBSTANCE	干冰/_O 的/_O 成分/_O 是/_O 什么/_O ？/_O
+OBJ_SUBSTANCE	坏血病/_O 是/_O 因/_O 缺/_O 什么/_O 而/_O 造成/_O 的/_O ？/_O
+OBJ_SUBSTANCE	金属/_O 中/_O 最/_O 坚硬/_O 的/_O 物质/_O 是/_O 什么/_O
+OBJ_SUBSTANCE	热气球/_O 里/_O 需要/_O 充入/_O 何种/_O 物质/_O
+OBJ_SUBSTANCE	如果/_O 发现/_O 指甲/_O 容易/_O 断裂/_O ，/_O 说明/_O 你/_O 体内/_O 缺少/_O 什么/_O 元素/_O ？/_O
+OBJ_SUBSTANCE	沙林/_O 毒气/_O 的/_O 主要/_O 成分/_O 是/_O 什么/_O
+OBJ_SUBSTANCE	塑料/_O 的/_O 主要/_O 成分/_O 是/_O 什么/_O
+OBJ_SUBSTANCE	所谓/_O 的/_O 液体/_O 炸药/_O 一般/_O 是/_O 什么/_O 成分/_O
+OBJ_SYMBOL	世界/_B-Ni 自然/_I-Ni 基金/_I-Ni 组织/_E-Ni 的/_O 标志/_O 是/_O 什么/_O ？/_O
+OBJ_TERM	辐射/_O 的/_O 计量/_O 单位/_O 都/_O 有/_O 什么/_O
+OBJ_TERM	测量/_O 降水量/_O 用/_O 什么/_O 作为/_O 单位/_O ？/_O
+OBJ_TERM	磁通量/_O 的/_O 单位/_O 是/_O 什么/_O
+OBJ_TERM	电阻/_O 的/_O 单位/_O 是/_O 什么/_O
+OBJ_TERM	发电量/_O 用/_O 什么/_O 单位/_O 计数/_O
+OBJ_TERM	辐射/_O 的/_O 计量/_O 单位/_O 是/_O 什么/_O
+OBJ_TERM	衡量/_O 光强弱/_O 的/_O 单位/_O 是/_O 什么/_O
+OBJ_TITLE	中华人民共和国/_S-Ns 成立/_O 时/_O ，/_O 周恩来/_S-Nh 任/_O 什么/_O 职务/_O ？/_O
+OBJ_VOCATION	计算机/_O 可以/_O 做/_O 什么/_O 工作/_O
+OBJ_VOCATION	居里夫人/_S-Nh 的/_O 职业/_O 是/_O 什么/_O
+OBJ_VOCATION	被/_O 称作/_O 白衣天使/_O 的/_O 职业/_O 是/_O 什么/_O
+OBJ_VOCATION	当前/_O 什么/_O 职业/_O 最/_O 爱/_O 学生/_O 的/_O 欢迎/_O
+OBJ_VOCATION	给/_O 病人/_O 治病/_O 的/_O 人/_O 属于/_O 什么/_O 职业/_O
+TIME_DAY	爱因斯坦/_S-Nh 的/_O 忌日/_O 是/_O 哪/_O 一/_O 天/_O
+TIME_DAY	端午节/_O 是/_O 哪/_O 天/_O
+TIME_DAY	端午节/_O 在/_O 哪/_O 一/_O 天/_O
+TIME_DAY	法国/_S-Ns 国庆节/_O 是/_O 哪/_O 天/_O
+TIME_DAY	复活节/_O 是/_O 哪/_O 天/_O
+TIME_DAY	父亲节/_O 是/_O 每年/_O 的/_O 哪/_O 一/_O 天/_O
+TIME_DAY	母亲节/_O 是/_O 哪/_O 天/_O
+TIME_DAY	慕尼黑队/_S-Ni 的/_O 成立/_O 时间/_O 是/_O 哪/_O 一/_O 天/_O
+TIME_DAY	哪/_O 天/_O 是/_O 儿童节/_O
+TIME_DAY	哪/_O 天/_O 是/_O 情人节/_O
+TIME_DAY	七夕节/_O 是/_O 在/_O 农历/_O 的/_O 哪/_O 一/_O 天/_O ？/_O
+TIME_DAY	情人节/_O 是/_O 哪/_O 天/_O
+TIME_DAY	世界/_O 环境日/_O 为/_O 每年/_O 的/_O 哪/_O 一/_O 天/_O ？/_O
+TIME_DAY	世界/_O 水日/_O 是/_O 哪/_O 一/_O 天/_O ？/_O
+TIME_DAY	世界/_O 癫痫日/_O 是/_O 哪/_O 一/_O 天/_O ？/_O
+TIME_DAY	太阳/_O 在/_O 哪/_O 一/_O 天/_O 离/_O 地球/_O 最/_O 远/_O ？/_O
+TIME_DAY	愚人节/_O 是/_O 每年/_O 的/_O 几/_O 号/_O
+TIME_DAY	中/_S-Ns 日/_S-Ns 甲午战争/_O ，/_O 中/_S-Ns 日/_S-Ns 双方/_O 正式/_O 宣战/_O 是/_O 在/_O 哪/_O 一/_O 天/_O ？/_O
+TIME_ERA	电视/_O 发明/_O 于/_O 本世纪/_O 的/_O 多少/_O 年代/_O ？/_O
+TIME_ERA	《/_O 史记/_O 》/_O 的/_O 作者/_O 司马迁/_S-Nh 是/_O 哪个/_O 朝代/_O 的/_O 人/_O ？/_O
+TIME_ERA	曹操/_S-Nh 是/_O 哪个/_O 朝代/_O 的/_O
+TIME_ERA	第一/_O 次/_O 工业/_O 革命/_O 发生/_O 在/_O 哪个/_O 世纪/_O
+TIME_ERA	电子/_O 计算机/_O 诞生/_O 在/_O 哪个/_O 年代/_O
+TIME_ERA	华夏/_O 文明/_O 始/_O 于/_O 哪个/_O 年代/_O
+TIME_ERA	科举制/_O 始/_O 于/_O 哪个/_O 朝代/_O ？/_O
+TIME_ERA	克里奥佩特拉/_S-Nh 是/_O 哪个/_O 王朝/_O 的/_O 君主/_O ？/_O
+TIME_ERA	哪个/_O 世纪/_O 被/_O 称为/_O 欧洲/_S-Ns 黑暗/_O 的/_O 中世纪/_O
+TIME_ERA	诗仙/_O 李白/_S-Nh 是/_O 哪个/_O 朝代/_O 的/_O
+TIME_ERA	太平天国/_O 发生/_O 在/_O 什么/_O 年代/_O
+TIME_ERA	位于/_O 北京/_B-Ns 昌平县/_E-Ns 的/_O 十三陵/_S-Ns 是/_O 哪/_O 朝/_O 皇帝/_O 的/_O 陵墓/_O ？/_O
+TIME_ERA	文化大革命/_O 发生/_O 在/_O 什么/_O 年代/_O
+TIME_ERA	文艺复兴/_O 时期/_O 在/_O 什么/_O 年代/_O
+TIME_ERA	我国/_O 的/_O 科举/_O 制度/_O 始/_O 于/_O 哪个/_O 朝代/_O ？/_O
+TIME_ERA	有声/_O 电影/_O 诞生/_O 在/_O 本世纪/_O 的/_O 什么/_O 年代/_O ？/_O
+TIME_ERA	岳飞/_S-Nh 是/_O 哪个/_O 朝代/_O 的/_O 人/_O
+TIME_ERA	云冈/_B-Ns 石窟/_E-Ns 创建/_O 于/_O 哪个/_O 时期/_O ？/_O
+TIME_ERA	在/_O 哪个/_O 朝代/_O 女人/_O 裹/_O 小/_O 脚/_O
+TIME_ERA	在/_O 什么/_O 年代/_O 中国/_S-Ns 男人/_O 是/_O 扎辫子/_O 的/_O
+TIME_ERA	中国/_S-Ns 哪个/_O 朝代/_O 疆/_O 土/_O 辽阔/_O
+TIME_ERA	朱元璋/_S-Nh 是/_O 哪个/_O 朝代/_O 的/_O
+TIME_ERA	朱元璋/_S-Nh 是/_O 哪个/_O 朝代/_O 的/_O 皇帝/_O
+TIME_ERA	《/_O 孙子/_O 兵法/_O 》/_O 成/_O 书/_O 于/_O 哪/_O 一/_O 时期/_O
+TIME_ERA	哪个/_O 朝代/_O 中国/_S-Ns 的/_O 水墨/_O 写意/_O 得以/_O 迅速/_O 发展/_O
+TIME_HOLIDAY	在/_O 中国/_S-Ns ,/_O 5月份/_O 的/_O 第二/_O 个/_O 星期日/_O 是/_O 什么/_O 节/_O ？/_O
+TIME_MONTH	被/_O 称为/_O 菊月/_O 的/_O 月份/_O 是/_O 几/_O 月/_O ？/_O
+TIME_MONTH	湖北/_S-Ns 的/_O 梅雨/_O 季节/_O 在/_O 哪个/_O 月份/_O
+TIME_MONTH	周恩来/_S-Nh 是/_O 哪个/_O 月份/_O 去世/_O 的/_O
+TIME_OTHER	第十六/_O 届/_O 党代会/_O 开会/_O 的/_O 具体/_O 时间/_O 是/_O 多少/_O
+TIME_OTHER	朱元璋/_S-Nh 的/_O 年号/_O 是/_O 什么/_O
+TIME_OTHER	白宫/_O 是/_O 何时/_O 修建/_O 的/_O
+TIME_OTHER	波士顿/_S-Ns 倾茶/_O 事件/_O 发生/_O 在/_O 什么/_O 时候/_O
+TIME_OTHER	第二/_O 次/_O 世界大战/_O 日本/_S-Ns 无条件/_O 投降/_O 是/_O 在/_O 什么/_O 时间/_O ？/_O
+TIME_OTHER	第五/_O 届/_O 奥运会/_O 是/_O 在/_O 什么/_O 时候/_O 闭幕/_O 的/_O ？/_O
+TIME_OTHER	第一/_O 次/_O 鸦片战争/_O 发生/_O 在/_O 什么/_O 时间/_O ？/_O
+TIME_OTHER	第一/_O 届/_O 现代/_O 奥林匹克/_O 运动会/_O 什么/_O 时候/_O 开始/_O 的/_O
+TIME_OTHER	第一/_O 颗/_O 原子弹/_O 是/_O 什么/_O 时候/_O 爆炸/_O 的/_O
+TIME_OTHER	第一/_O 位/_O “/_O 非碘/_O ”/_O 病例/_O 是/_O 什么/_O 时间/_O 出现/_O 的/_O
+TIME_OTHER	电影/_O 是/_O 什么/_O 时间/_O 进入/_O 中国/_S-Ns 的/_O ？/_O
+TIME_OTHER	东条英机/_S-Nh 是/_O 什么/_O 时候/_O 被/_O 执行/_O 绞刑/_O 的/_O ？/_O
+TIME_OTHER	反/_O 法西斯/_O 同盟/_O 是/_O 什么/_O 时候/_O 成立/_O 的/_O ？/_O
+TIME_OTHER	国际/_B-Ni 奥委会/_E-Ni 是/_O 什么/_O 时候/_O 成立/_O 的/_O ？/_O
+TIME_OTHER	哈工大/_O 是/_O 什么/_O 时候/_O 建校/_O 的/_O
+TIME_OTHER	计算机/_O 是/_O 什么/_O 时候/_O 诞生/_O 的/_O
+TIME_OTHER	联合国/_S-Ni 教育/_O 、/_O 科学/_O 及/_O 文化/_O 组织/_O 是/_O 什么/_O 时间/_O 成立/_O ？/_O
+TIME_OTHER	联合国/_S-Ni 是/_O 什么/_O 时候/_O 成立/_O ？/_O
+TIME_OTHER	迈克尔·乔丹/_S-Nh 是/_O 什么/_O 时间/_O 出生/_O 的/_O ？/_O
+TIME_OTHER	秦始皇/_S-Nh 统一/_O 中国/_S-Ns 是/_O 在/_O 什么/_O 时候/_O
+TIME_OTHER	清朝/_O 什么/_O 时候/_O 灭亡/_O 的/_O
+TIME_OTHER	请问/_O 苏联/_S-Ns 是/_O 在/_O 什么/_O 时候/_O 解体/_O 的/_O ？/_O
+TIME_OTHER	人类/_O 什么/_O 时候/_O 登/_O 上/_O 月球/_O
+TIME_OTHER	人类/_O 首/_O 次/_O 登月/_O 是/_O 在/_O 什么/_O 时间/_O ？/_O
+TIME_OTHER	人们/_O 什么/_O 时候/_O 发现/_O 原子核/_O 反应/_O ？/_O
+TIME_OTHER	什么/_O 时候/_O 出生/_O 的/_O 人/_O 属于/_O 山羊座/_O
+TIME_OTHER	什么/_O 时候/_O 发现/_O 首/_O 例/_O 非/_O 典型性/_O 肺炎/_O
+TIME_OTHER	什么/_O 时候/_O 喝/_O 汤/_O 容易/_O 发胖/_O
+TIME_OTHER	世界/_O 七大/_O 奇迹/_O 之一/_O 的/_O 摩索拉斯/_S-Ns 陵墓/_O 是/_O 什么/_O 时候/_O 建造/_O 的/_O ？/_O
+TIME_OTHER	首/_O 例/_O 艾滋病/_O 是/_O 什么/_O 时候/_O 发现/_O 的/_O
+TIME_OTHER	文化大革命/_O 是/_O 什么/_O 时候/_O 发生/_O 的/_O
+TIME_OTHER	我国/_O 的/_O 第一/_O 颗/_O 人造卫星/_O 是/_O 什么/_O 时候/_O 发射/_O 的/_O ？/_O
+TIME_OTHER	我国/_O 是/_O 什么/_O 时候/_O 采用/_O 公历/_O 的/_O ？/_O
+TIME_OTHER	香港/_S-Ns 是/_O 什么/_O 时候/_O 回归/_O 的/_O
+TIME_OTHER	一/_O 次/_O 大战/_O 结束/_O 是/_O 什么/_O 时候/_O ？/_O
+TIME_OTHER	有声/_O 电影/_O 何时/_O 问世/_O ？/_O
+TIME_OTHER	中国/_S-Ns 第一/_O 枚/_O 原子弹/_O 是/_O 在/_O 什么/_O 时候/_O 试/_O 爆/_O 成功/_O 的/_O ？/_O
+TIME_OTHER	中国/_S-Ns 历史/_O 上/_O 第一/_O 次/_O 农民/_O 起义/_O 发生/_O 在/_O 什么/_O 时候/_O
+TIME_OTHER	中国/_S-Ns 是/_O 什么/_O 时候/_O 建国/_O 的/_O
+TIME_OTHER	中华人民共和国/_S-Ns 什么/_O 时候/_O 成立/_O 的/_O
+TIME_OTHER	朱镕基/_S-Nh 是/_O 什么/_O 时候/_O 任/_O 央行/_O 行长/_O 的/_O
+TIME_RANGE	第一/_O 次/_O 海湾/_O 战争/_O 的/_O 起止/_O 时间/_O 分别/_O 是/_O 什么/_O
+TIME_RANGE	中国/_B-Ni 共产党/_E-Ni 第一/_O 次/_O 代表大会/_O 是/_O 在/_O 哪/_O 段/_O 时间/_O 召开/_O 的/_O
+TIME_RANGE	二/_O 次/_O 世界大战/_O 从/_O 哪/_O 年/_O 开始/_O 到/_O 哪/_O 一/_O 年/_O 结束/_O 的/_O
+TIME_RANGE	中/_S-Ns 日/_S-Ns 甲午战争/_O 是/_O 哪/_O 年/_O 开始/_O 到/_O 哪/_O 年/_O 结束/_O 的/_O
+TIME_SEASON	春季/_O 过后/_O 是/_O 什么/_O 季节/_O
+TIME_SEASON	花/_O 开/_O 在/_O 什么/_O 季节/_O
+TIME_SEASON	哪个/_O 季节/_O 北京/_S-Ns 的/_O 沙尘暴/_O 最/_O 多/_O
+TIME_SEASON	什么/_O 季节/_O 是/_O 收获/_O 的/_O 季节/_O
+TIME_SOLARTERM	“/_O 打春/_O ”/_O 是/_O 我国/_O 二十四/_O 节气/_O 中/_O 的/_O 哪个/_O 节气/_O
+TIME_SOLARTERM	哪个/_O 节气/_O 是/_O 反映/_O 农作物/_O 的/_O 成熟/_O 和/_O 收成/_O 情况/_O
+TIME_SOLARTERM	7月/_O 20/_O 号/_O 是/_O 什么/_O 节气/_O
+TIME_SOLARTERM	二十四/_O 节气/_O 是/_O 什么/_O
+TIME_WEEK	耶稣/_S-Nh 受难日/_O 是/_O 星期几/_O
+TIME_WEEK	法定/_O 的/_O 休息日/_O 是/_O 星期几/_O
+TIME_WEEK	国家/_O 法定/_O 的/_O 休息日/_O 是/_O 星期几/_O
+TIME_WEEK	人们/_O 在/_O 星期/_O 几/_O 做/_O 礼拜/_O
+TIME_YEAR	世界/_O 第一/_O 台/_O 红宝石/_O 激光器/_O 哪/_O 年/_O 问世/_O ？/_O
+TIME_YEAR	ARPAnet/_O 诞生/_O 于/_O 哪/_O 一/_O 年/_O ？/_O
+TIME_YEAR	DNA/_O 的/_O 双螺旋/_O 结构/_O 在/_O 哪/_O 年/_O 提出/_O ？/_O
+TIME_YEAR	“/_O 珍珠港/_S-Ns 事件/_O ”/_O 发生/_O 在/_O 哪/_O 一/_O 年/_O ？/_O
+TIME_YEAR	爱因斯坦/_S-Nh 去世/_O 于/_O 哪/_O 年/_O
+TIME_YEAR	奥运会/_O 首/_O 次/_O 在/_O 亚洲/_S-Ns 举办/_O 是/_O 哪/_O 一/_O 年/_O ？/_O
+TIME_YEAR	巴拿马/_B-Ni 运河/_E-Ni 在/_O 哪/_O 一/_O 年/_O 开始/_O 建造/_O ？/_O
+TIME_YEAR	北美/_S-Ns 大陆/_O 第一/_O 批/_O 移民/_O 登陆/_O 的/_O 时间/_O 是/_O 哪/_O 一/_O 年/_O
+TIME_YEAR	曹操/_S-Nh 生于/_O 哪/_O 一/_O 年/_O
+TIME_YEAR	成吉思汗/_S-Nh 病逝/_O 于/_O 哪/_O 一/_O 年/_O ？/_O
+TIME_YEAR	达芬奇/_S-Nh 是/_O 哪/_O 一/_O 年/_O 出生/_O 的/_O ？/_O
+TIME_YEAR	第三/_O 国际/_O 建立/_O 于/_O 哪/_O 一/_O 年/_O ？/_O
+TIME_YEAR	第一/_O 次/_O 奥林匹克/_O 运动会/_O 是/_O 哪/_O 一/_O 年/_O 举行/_O 的/_O
+TIME_YEAR	第一/_O 届/_O 欧洲/_S-Ns 足球/_O 锦标赛/_O 是/_O 在/_O 哪/_O 一/_O 年/_O 举办/_O 的/_O ？/_O
+TIME_YEAR	第一/_O 届/_O 世界杯/_O 足球赛/_O 在/_O 哪/_O 一/_O 年/_O 举行/_O ？/_O
+TIME_YEAR	第一/_O 台/_O 计算机/_O 是/_O 哪/_O 年/_O 问世/_O 的/_O
+TIME_YEAR	第一/_O 台/_O 计算机/_O 是/_O 哪/_O 年/_O 问世/_O 的/_O
+TIME_YEAR	建筑/_O 行业/_O 中/_O 的/_O 鲁班奖/_O 是/_O 于/_O 哪/_O 一/_O 年/_O 创建/_O 的/_O ？/_O
+TIME_YEAR	卡通/_O 人物/_O 米老鼠/_O 诞生/_O 是/_O 在/_O 哪/_O 一/_O 年/_O ？/_O
+TIME_YEAR	抗日战争/_O 时期/_O 著名/_O 的/_O 百团大战/_O 是/_O 发生/_O 在/_O 哪/_O 一/_O 年/_O ？/_O
+TIME_YEAR	科举/_O 制度/_O 是/_O 在/_O 哪/_O 一/_O 年/_O 被/_O 废除/_O ？/_O
+TIME_YEAR	隆美尔/_S-Nh 死/_O 于/_O 哪/_O 一/_O 年/_O ？/_O
+TIME_YEAR	罗荣桓/_S-Nh 是/_O 哪/_O 一/_O 年/_O 加入/_O 共青团/_O 的/_O ？/_O
+TIME_YEAR	麦当劳/_O 是/_O 哪/_O 一/_O 年/_O 的/_O 进入/_O 中国/_S-Ns 的/_O ？/_O
+TIME_YEAR	美国/_S-Ns 发表/_O 《/_O 独立/_O 宣言/_O 》/_O 是/_O 在/_O 哪/_O 一/_O 年/_O ？/_O
+TIME_YEAR	摩托罗拉/_B-Ni 公司/_E-Ni 成立/_O 于/_O 哪/_O 一/_O 年/_O ？/_O
+TIME_YEAR	拿破仑/_S-Nh 百日/_O 王朝/_O 哪/_O 一/_O 年/_O 建立/_O ？/_O
+TIME_YEAR	拿破仑/_S-Nh 死/_O 于/_O 哪/_O 一/_O 年/_O ？/_O
+TIME_YEAR	拿破仑/_S-Nh 在/_O 哪/_O 一/_O 年/_O 颁布/_O 了/_O 《/_O 拿破仑/_S-Nh 法典/_O 》/_O ？/_O
+TIME_YEAR	哪/_O 一/_O 年/_O Internet/_O 网/_O 延伸/_O 至/_O 中国/_S-Ns ？/_O
+TIME_YEAR	哪/_O 一/_O 年/_O 迈克·舒马赫/_S-Nh 在/_O 英国/_S-Ns 银石/_O 赛道/_O 发生/_O 严重/_O 车祸/_O ？/_O
+TIME_YEAR	诺基亚/_B-Ni 公司/_E-Ni 成立/_O 于/_O 哪/_O 一/_O 年/_O ？/_O
+TIME_YEAR	人类/_O 第一/_O 次/_O 登/_O 上/_O 月球/_O 是/_O 哪/_O 一/_O 年/_O
+TIME_YEAR	人类/_O 第一/_O 次/_O 发现/_O 来自/_O 宇宙/_O 的/_O 无线电波/_O 是/_O 在/_O 哪/_O 一/_O 年/_O ？/_O
+TIME_YEAR	人类/_O 有史以来/_O 第一/_O 次/_O 登月/_O 是/_O 在/_O 哪/_O 年/_O ？/_O
+TIME_YEAR	萨马兰奇/_S-Nh 哪/_O 一/_O 年/_O 开始/_O 当选/_O 国际/_B-Ni 奥委会/_E-Ni 主席/_O ？/_O
+TIME_YEAR	世界/_O 第一/_O 架/_O 航天飞机/_O 试航/_O 成功/_O 是/_O 在/_O 哪/_O 一/_O 年/_O ？/_O
+TIME_YEAR	世界/_O 上/_O 第一/_O 部/_O 双向/_O 对讲机/_O 产生/_O 于/_O 哪/_O 一/_O 年/_O ？/_O
+TIME_YEAR	世界/_O 上/_O 第一/_O 例/_O 试管婴儿/_O 哪/_O 一/_O 年/_O 出生/_O ？/_O
+TIME_YEAR	我国/_O 的/_O 著作权法/_O 是/_O 从/_O 哪/_O 年/_O 开始/_O 实施/_O 的/_O ？/_O
+TIME_YEAR	我国/_O 和平/_O 解放/_O 西藏/_S-Ns 是/_O 在/_O 哪/_O 一/_O 年/_O ？/_O
+TIME_YEAR	我军/_O 是/_O 从/_O 哪/_O 一/_O 年/_O 开始/_O 实行/_O 义务/_O 兵役制/_O 的/_O ？/_O
+TIME_YEAR	谢军/_S-Nh 在/_O 哪/_O 一/_O 年/_O 战胜/_O 了/_O 前/_O 苏联/_S-Ns 选手/_O 第一/_O 次/_O 获得/_O 国际象棋/_O 世界/_O 冠军/_O ？/_O
+TIME_YEAR	新/_O 中国/_S-Ns 第一/_O 部/_O 律师法/_O 于/_O 哪/_O 一/_O 年/_O 开始/_O 施行/_O ？/_O
+TIME_YEAR	在/_O 哪/_O 一/_O 年/_O ，/_O 叶剑英/_S-Nh 被/_O 授予/_O 元帅/_O 军衔/_O ？/_O
+TIME_YEAR	张学良/_S-Nh 获得/_O 自由/_O 是/_O 在/_O 哪/_O 一/_O 年/_O ？/_O
+TIME_YEAR	中国/_S-Ns 第一/_O 颗/_O 氢弹/_O 是/_O 在/_O 哪/_O 一/_O 年/_O 研制/_O 成功/_O 的/_O ？/_O
+TIME_YEAR	中国/_S-Ns 第一/_O 颗/_O 原子弹/_O 是/_O 在/_O 哪/_O 一/_O 年/_O 研制/_O 成功/_O 的/_O ？/_O
+TIME_YEAR	中华人民共和国/_S-Ns 哪/_O 一/_O 年/_O 成立/_O ？/_O
+UNKNOWN_	直升/_O 飞机/_O 是/_O 靠/_O 什么/_O 转弯/_O 的/_O ？/_O
+UNKNOWN_	薄公英/_S-Nh 靠/_O 什么/_O 传播/_O 种子/_O ？/_O
+UNKNOWN_	树木/_O 主要/_O 靠/_O 什么/_O 减弱/_O 噪声/_O ？/_O
