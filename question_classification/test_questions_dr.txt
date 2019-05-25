@@ -1,0 +1,1315 @@
+DES_ABBR	API 全称 是 什么
+DES_ABBR	DNA 全称 是 什么
+DES_ABBR	FF 是 什么 简称
+DES_ABBR	HTTP 中文 全称 是 什么
+DES_ABBR	MPEG 是 什么 缩写
+DES_ABBR	PC 全称 是 什么
+DES_ABBR	UPS 全称 是 什么
+DES_ABBR	WAP 是 指
+DES_ABBR	阿拉伯 联合 酋长国 简称 是 什么
+DES_ABBR	安徽省 简称 是 什么
+DES_ABBR	东北 林业 大学 简称 是 什么
+DES_ABBR	非典 全称 是 什么
+DES_ABBR	国际 体操 联合会 健美操 委员会 英文 简称 是 什么
+DES_ABBR	通用 求救 信号 SOS 是 什么 缩写 形式
+DES_ABBR	国民收入 英文 简写 是 什么
+DES_ABBR	哈尔滨 工业 大学 英文 简称 是 什么
+DES_ABBR	局域网 英文 缩写 是 什么
+DES_ABBR	上海 简称 什么
+DES_ABBR	世界 贸易 组织 简称 是 什么
+DES_ABBR	世界 卫生 组织 简称 是 什么
+DES_ABBR	世界 卫生 组织 英文 缩写 是 什么
+DES_ABBR	苏联 全称 是 什么
+DES_ABBR	新 中国 第一 部 临时 宪法 简称 是 什么
+DES_ABBR	亚洲 全称 是 什么
+DES_ABBR	音乐 电视 英语 缩写 是 什么
+DES_DEFINITION	PT 股 是 什么 股
+DES_DEFINITION	大陆架 是 什么
+DES_DEFINITION	佛家 明心见性 是 指
+DES_DEFINITION	何谓 爆炸
+DES_DEFINITION	江泽民 三 个 代表 是 什么
+DES_DEFINITION	精神 是 什么
+DES_DEFINITION	守恒 定律 是 什么
+DES_DEFINITION	弄瓦之喜 是 指
+DES_DEFINITION	人造 纤维 是 什么
+DES_DEFINITION	什么 是 磁偏角
+DES_DEFINITION	什么 是 死活山
+DES_DEFINITION	银河系 是 什么
+DES_DEFINITION	重金属 是 什么
+DES_DEFINITION	自然 语言 是 什么
+DES_DEFINITION	什么 是 URL
+DES_EXPRESSION	翻译 是 什么
+DES_EXPRESSION	爱 用 怎么 说
+DES_EXPRESSION	番茄 这个 词 英语 怎么 翻译
+DES_EXPRESSION	氧气用 英语 怎么 说
+DES_EXPRESSION	命名 是 什么
+DES_JUDGE	太阳 哪 一个 更 重要
+DES_JUDGE	中国 是 世界 上 最 多 国家 吗
+DES_MANNER	艾滋病 是 如何 传染
+DES_MANNER	白花谷 是 怎样 形成
+DES_MANNER	狗 是 怎么 散热
+DES_MANNER	河 是 如何 划定
+DES_MANNER	马 是 怎样 睡觉
+DES_MANNER	人大脑 左右 半球 是 如何 互相 沟通
+DES_MANNER	如何 缓解 压力
+DES_MANNER	如何 加强 绿化 工作 的 进展
+DES_MANNER	如何 饮食 能够 延长 人类 寿命
+DES_MANNER	沙漠 是 怎样 形成
+DES_MANNER	星座 是 如何 命名
+DES_MANNER	一定量 气体 当 如何 变化
+DES_MANNER	怎么样 才 能 飞翔
+DES_MANNER	怎样 才 能 保持 健康
+DES_MANNER	怎样 才 能 预防
+DES_MANNER	怎样 将 钉 进
+DES_MANNER	怎样 能够 减肥
+DES_MANNER	怎样 预防 非典
+DES_MANNER	怎样 预防 呼吸道 传染病
+DES_MANNER	非 典型 肺炎 通过 进行 传播
+DES_MEANING	WNBA 代表 什么
+DES_MEANING	Moonlighting 是 什么 意思
+DES_MEANING	DNA 是 什么 意思
+DES_MEANING	IT 是 什么 意思
+DES_MEANING	黑色 星期五 是 什么 意思
+DES_MEANING	汽车 铭牌 上 SGL 标识 表示 什么 意思
+DES_MEANING	送给 恋人 3 朵 花 表示
+DES_MEANING	蒸汽机 发明 意味着 什么
+DES_OTHER	心脏 是 用
+DES_OTHER	哺乳动物 定义 是 什么
+DES_OTHER	搜索引擎 是 用
+DES_OTHER	游乐场 是 做
+DES_OTHER	中国 农工党 忠旨 是 什么
+DES_OTHER	技术 核心 是 什么
+DES_OTHER	操作系统 中 进程 概念 是 什么
+DES_OTHER	艾滋病 有 什么 关系
+DES_OTHER	奥林匹克 运动会 口号 是 什么
+DES_OTHER	北冰洋 有 什么 特点
+DES_OTHER	避雷针 有 什么 用
+DES_OTHER	病毒 有 什么 不同
+DES_OTHER	操作系统 中 进程 有 什么 本质 区别
+DES_OTHER	大米 是 用
+DES_OTHER	发光 原理 是 什么
+DES_OTHER	电子表 有 什么 区别
+DES_OTHER	东北菜 有 什么 不同
+DES_OTHER	东宫 与 有 什么 不同
+DES_OTHER	对比 有 什么 区别
+DES_OTHER	对立统一 原理 讲述 了 什么 道理
+DES_OTHER	额定 功率 最 有 什么 区别
+DES_OTHER	分类 有 什么 不同
+DES_OTHER	近视 眼镜 有 什么 作用
+DES_OTHER	梁启超 是 什么 关系
+DES_OTHER	南极 有 何 不同
+DES_OTHER	帕金森病 症状 是 什么
+DES_OTHER	千 斤 鼎 工作 原理 是 什么
+DES_OTHER	氢弹 爆炸 原理 是 什么
+DES_OTHER	山谷 有 什么 区别
+DES_OTHER	舌苔 有 什么 用
+DES_OTHER	石油 用途 是 什么
+DES_OTHER	什么样 食品 属 绿色 食品
+DES_OTHER	太阳 活动 强弱 主要 标志 是 什么
+DES_OTHER	危地马拉 经济 支柱 是 什么
+DES_OTHER	唯物主义 本质 区别 是 什么
+DES_OTHER	温家宝 第一 次 关于 讲话 内容 是 什么
+DES_OTHER	象牙 有 什么 功能
+DES_OTHER	眼睛 是 干什么
+DES_OTHER	云南 白药 有 什么 功能
+DES_OTHER	张家界 有 什么 特色
+DES_OTHER	哲学史 是 研究
+DES_OTHER	打开 建交 最 早 外交 活动 是 什么
+DES_OTHER	鼻毛 作用 有 哪些
+DES_OTHER	国际 红十字会 旗帜 是 什么 形状
+DES_OTHER	蜜蜂 对 有 何 益处
+DES_OTHER	作为 最 最 蜜蜂 具有 什么样 形态 构造
+DES_REASON	澳大利亚 以 什么 著名
+DES_REASON	白炽灯 用 为什么 会 发 黑
+DES_REASON	百慕大 三角洲 为什么 会 著名
+DES_REASON	没有 原因 是 什么
+DES_REASON	地球 上 四季 变迁 是 由 引起
+DES_REASON	敦煌 因 而 出名
+DES_REASON	甘肃 酒泉 因 何 得 名
+DES_REASON	广州 因 而 有 羊城 名
+DES_REASON	哈尔滨 以 著称
+DES_REASON	花儿 为什么 这样 红
+DES_REASON	华山 为什么 著名
+DES_REASON	李小龙 死因 是 什么
+DES_REASON	林肯 是 怎么 死
+DES_REASON	汽水 为什么 能 解暑
+DES_REASON	人 为什么 活 着
+DES_REASON	人 在 游泳 不 会 沉 到 是
+DES_REASON	少林寺 为什么 有名
+DES_REASON	台湾 为什么 要 独立
+DES_REASON	天 为什么 是 蓝 啊
+DES_REASON	图灵 以 闻名于世
+DES_REASON	为什么 会 打雷
+DES_REASON	为什么 会 大规模 传染 疾病
+DES_REASON	为什么 唐朝 时 中国 是 当时 最 鼎盛 国度
+DES_REASON	为什么 用 发 黑
+DES_REASON	西双版纳 以 什么 文明 于
+DES_REASON	夏威夷 为什么 闻名于世
+DES_REASON	星期天 为什么 又 叫 礼拜天
+DES_REASON	张国荣 为什么 会 自杀
+DES_REASON	张家界 以 而 著名
+DES_REASON	中国 丝绸之路 因 而 得 名
+DES_REASON	中国 民间 为什么 要 吃 腊八 粥
+DES_REASON	中国 为什么 落后
+HUM_DESCRIPTION	布什 是 个 什么样 人
+HUM_DESCRIPTION	布什 是 谁
+HUM_DESCRIPTION	陈独秀 是 何许人
+HUM_DESCRIPTION	谁 是 康熙大帝
+HUM_DESCRIPTION	周恩来 是 什么 人
+HUM_ORGANIZATION	IMF 是 哪个 国际 组织 简称
+HUM_ORGANIZATION	UNESCO 是 什么 国际 组织 简称
+HUM_ORGANIZATION	美国 陆军 特种部队 别名 叫 什么
+HUM_ORGANIZATION	2000年 世界杯 获得 是 哪 一 支 足球队
+HUM_ORGANIZATION	中国 企业 进入 世界 五百 强 的 都 哪些
+HUM_ORGANIZATION	1885年 哪 位 德国 汽车 制造商 制造 出 第一 辆 摩托车
+HUM_ORGANIZATION	1999年 NBA 总 冠军 是 哪 支 球队
+HUM_ORGANIZATION	2000年 美国 棒球 冠军 是 哪 支 球队
+HUM_ORGANIZATION	2004 届 世界 足球 先生 效力 于
+HUM_ORGANIZATION	Flash 是 哪个 公司 产品
+HUM_ORGANIZATION	NASA 是 哪个 国际 组织
+HUM_ORGANIZATION	Quake 系列 游戏 开发 公司 是 哪个 公司
+HUM_ORGANIZATION	WPS 是 由 开发
+HUM_ORGANIZATION	安徽 合肥 最 好 大学 是 哪 一 所
+HUM_ORGANIZATION	处理 是 哪个 政府 机构
+HUM_ORGANIZATION	代表 美国 被 称作
+HUM_ORGANIZATION	德国 执政党 是 哪个
+HUM_ORGANIZATION	德国 历史 最 悠久 工科 大学 是 哪 所
+HUM_ORGANIZATION	第一 届 世界杯 足球赛 冠军 是 哪 只 球队
+HUM_ORGANIZATION	管理 国家 机构 是 哪个
+HUM_ORGANIZATION	黑龙江 甲级 足球 俱乐部 叫 什么
+HUM_ORGANIZATION	计划生育 归 什么 部门 管理
+HUM_ORGANIZATION	江泽民 毕业 于
+HUM_ORGANIZATION	美国 C-130 运输机 是 哪个 公司 产品
+HUM_ORGANIZATION	哪个 机构 执行 中国 货币 政策
+HUM_ORGANIZATION	什么 部门 负责 对外贸易 监控
+HUM_ORGANIZATION	世界杯 足球赛 首 届 冠军 是 哪个 队
+HUM_ORGANIZATION	世界 上 最 有名 动画 电影 公司 是 什么
+HUM_ORGANIZATION	世界 最 大 银行 是 什么 银行
+HUM_ORGANIZATION	我国 哪 一 银行 执行 中央 银行 职能
+HUM_ORGANIZATION	现任 毕业
+HUM_ORGANIZATION	香港 立法 机构 是 什么
+HUM_ORGANIZATION	杨致远 是 毕业
+HUM_ORGANIZATION	最 悠久 大学 是 哪 所
+HUM_ORGANIZATION	有 是 什么 部门
+HUM_ORGANIZATION	在 制定 是 哪个 银行
+HUM_ORGANIZATION	朱熔基 总理 曾 任 清华大学 哪个 学院 院长
+HUM_PERSON	1990年 中国 共产党 总书记 是 谁
+HUM_PERSON	狼牙山 五 壮士 五 个 人 是 谁
+HUM_PERSON	请问 是
+HUM_PERSON	是 发现
+HUM_PERSON	发现 非典型性 肺炎 病毒
+HUM_PERSON	发现 哈雷彗星
+HUM_PERSON	发现 南极洲
+HUM_PERSON	发现 万有引力 定理
+HUM_PERSON	谁 发现 了 非 典型 肺炎 病原体 k
+HUM_PERSON	谁 发现 了 南极 大陆
+HUM_PERSON	谁 发现 了 新大陆
+HUM_PERSON	谁 发现 是
+HUM_PERSON	谁 最先 发现 天王星
+HUM_PERSON	在 签字 中 双方 代表 分别 是 谁
+HUM_PERSON	中共 十六大 中央 政治局 成员 是 哪 几 位
+HUM_PERSON	中国 开国 十 大 元帅 是 哪些 人
+HUM_PERSON	中国 著名 诗人 有 哪些
+HUM_PERSON	中华人民共和国 历任 都 是 谁
+HUM_PERSON	诸子 百 家 是 哪些
+HUM_PERSON	1869年 3月 哪 位 科学家 正式 公布 了 元素 周期 律
+HUM_PERSON	1897年 谁 发现 了 电子
+HUM_PERSON	1945年 发明 了 叫
+HUM_PERSON	1990年 世界杯 最佳 射手 是 谁 呀
+HUM_PERSON	2000年 世界 足球 先生 是 谁
+HUM_PERSON	LINUX 是 由 发明
+HUM_PERSON	白雪 公主 作者 是 谁
+HUM_PERSON	浮士德 交响曲 是 由 创作
+HUM_PERSON	钢铁 是 怎样 炼 作者 是 谁
+HUM_PERSON	哈利·波特 一 书 作者 是 谁
+HUM_PERSON	化学 哲学 新 体系 是 哪 位 科学家 著作
+HUM_PERSON	黄河 大合唱 作曲者 是 谁
+HUM_PERSON	简爱 是 写
+HUM_PERSON	洛神 赋 图 是 谁 作品
+HUM_PERSON	儒林外史 作者 是 谁
+HUM_PERSON	宿命 是 谁 作品
+HUM_PERSON	乡愁 是 谁 诗作
+HUM_PERSON	义勇军 进行曲 曲作者 是 谁
+HUM_PERSON	阿炳 原名 叫 什么
+HUM_PERSON	埃及 人 面狮 像 鼻子 是 被
+HUM_PERSON	被 称为 是 谁
+HUM_PERSON	被 称为 国王 是 谁
+HUM_PERSON	第一 次 世界大战 时 美国 总统 是 谁
+HUM_PERSON	第一 个 打破 中国 人 是 谁
+HUM_PERSON	发明 科学家 是 谁
+HUM_PERSON	发明 人 是 谁
+HUM_PERSON	法国 凡尔赛宫 是 由 设计
+HUM_PERSON	哥伦布 航海 计划 得到 谁 支持 才 变成
+HUM_PERSON	哈工大 现任 校长 是 谁
+HUM_PERSON	抗美援朝 中国 人民 志愿军 司令员 是 谁
+HUM_PERSON	马其顿 方阵 是 由 发明
+HUM_PERSON	馒头 是 发明
+HUM_PERSON	名画 马拉 死 是 谁 作品
+HUM_PERSON	名画 最后 晚餐 是 谁 作品
+HUM_PERSON	名著 西游记 作者 是 谁
+HUM_PERSON	哪 位 科学家 被 称为 计算机 父
+HUM_PERSON	哪 位 科学家 最先 指出 会 引起
+HUM_PERSON	彭德怀 将军 原名 是 什么
+HUM_PERSON	诗仙 是 谁
+HUM_PERSON	世界 机器人 足球 创始人 是 谁
+HUM_PERSON	世界 名画 和平鸽 创作者 是 谁
+HUM_PERSON	世界 上 第一 个 成功 移植 医生 是 谁
+HUM_PERSON	世界 上 第一 个 诺贝尔 物理奖 获得者 是 谁
+HUM_PERSON	世界 上 第一 例 试管婴儿 叫 什么 名字
+HUM_PERSON	世界 上 第一 只 鼠标 是 发明
+HUM_PERSON	世界 上 首 次 测算 是 谁
+HUM_PERSON	是 出卖
+HUM_PERSON	是 发明 地震仪
+HUM_PERSON	是 发明 印刷术
+HUM_PERSON	是 发明
+HUM_PERSON	是 发明
+HUM_PERSON	是 发现 冥王星
+HUM_PERSON	是 与 争夺
+HUM_PERSON	是 在 首先 提到
+HUM_PERSON	首先 讨论 一 位 剑桥 人 叫 什么 名字
+HUM_PERSON	发明 火车
+HUM_PERSON	谁 发明 了 车轮
+HUM_PERSON	谁 发明 了 电话
+HUM_PERSON	谁 发明 了 火药
+HUM_PERSON	谁 发明 了 造纸术
+HUM_PERSON	谁 发明 了 蒸汽机
+HUM_PERSON	谁 发现 了 是
+HUM_PERSON	谁 获得 1987年 诺贝尔 文学奖
+HUM_PERSON	谁 领导 中国 人民 创立
+HUM_PERSON	谁 是 经过
+HUM_PERSON	谁 是 第一 个 美国 总统
+HUM_PERSON	谁 是 电磁 感应 发现者
+HUM_PERSON	谁 是 微软 首席 执行官
+HUM_PERSON	谁 是 中国 第一 任 外交部长
+HUM_PERSON	谁 死 后 布 了 七十二 疑
+HUM_PERSON	谁 提出 了 凯恩斯 定理
+HUM_PERSON	谁 提出 了 最 大 熵 理论
+HUM_PERSON	谁 写 了 著名 诗篇 将
+HUM_PERSON	谁 在 获得 第一 枚 金牌
+HUM_PERSON	谁 在 饰演 男 主角
+HUM_PERSON	谁 制造 出 第一 台 计算机
+HUM_PERSON	谁 制造 了 第一 台 电脑
+HUM_PERSON	宋朝 开国 皇帝 是 谁
+HUM_PERSON	泰坦尼克号 舰长 是 谁
+HUM_PERSON	太平天国 中 西王 是 谁
+HUM_PERSON	太阳 中心 说是 提出
+HUM_PERSON	唐朝 第一 个 皇帝 是 谁
+HUM_PERSON	微软 亚洲 研究院 院长 是 谁
+HUM_PERSON	文学 名著 基督 山 伯爵 是 谁 作品
+HUM_PERSON	我国 古代 历法 十二 气历 是 提出
+HUM_PERSON	我国 军史 上 第一 位 女 将军 是 谁
+HUM_PERSON	卧龙 先生 是 谁
+HUM_PERSON	现代 奥林匹克 运动 创始人 是 谁
+HUM_PERSON	现代 奥运会 创始人 是 谁
+HUM_PERSON	现任 美国 国务卿 是 谁
+HUM_PERSON	新 当选 中共中央 总书记 是 谁
+HUM_PERSON	新 上任 中国 卫生部 部长 是 谁
+HUM_PERSON	星际 航行 理论 开创者 是 哪 位 科学家
+HUM_PERSON	伊拉克 总统 是 谁
+HUM_PERSON	伊斯兰教 中 唯一 神 是 谁
+HUM_PERSON	遗传 分子 DNA 双 螺旋 结构 模型 由 提出
+HUM_PERSON	由于 下台 美国 总统 是 谁
+HUM_PERSON	岳不群 妻子 叫 什么 名字
+HUM_PERSON	招商 银行 总经理 是 谁
+HUM_PERSON	指南针 是 发明
+HUM_PERSON	纸 是 发明
+HUM_PERSON	中国 参加 最 多 运动员 是 谁
+HUM_PERSON	中国 共产党 创始人 李大钊 是 被 杀害
+HUM_PERSON	中国 古代 名医 华佗 为 所 杀
+HUM_PERSON	中国 古代 哪 一 位 曾 被 称为 药王
+HUM_PERSON	中国 空军 第一 任 总司令 是 谁
+HUM_PERSON	中国 历史 上 第一 个 皇帝 是 谁
+HUM_PERSON	中国 历史 上 清朝 历代 皇帝 都 是 谁
+HUM_PERSON	中国 现任 国家 主席 是 谁
+HUM_PERSON	中华人民共和国 外交部长 是 谁
+HUM_PERSON	中华人民共和国 是 提出
+HUM_PERSON	自由 落体 定律 由 发现
+HUM_PERSON	最先 吃 人 是 谁
+HUM_PERSON	最 早 发现 x 射线 是
+HUM_PERSON	最 早 提出 是 谁
+HUM_PERSON	作家 老舍 原名 叫 什么
+HUM_PERSON	上 一 届 美国 总统 是 哪 位
+LOC_ADDRESS	北京 世界 公元 地址 是
+LOC_ADDRESS	大连 陆军 学院 地址 是 什么
+LOC_ADDRESS	哈尔滨 工业 大学 地址 是 什么
+LOC_ADDRESS	海尔 集团 总部 地址 在 哪里
+LOC_ADDRESS	上海 东方 明珠 详细 地址 是 什么
+LOC_ADDRESS	深圳 中兴 通讯 公司 总部 确切 地址 是 什么
+LOC_ADDRESS	中南海 地址 是 多少
+LOC_ADDRESS	国际 奥委会 最初 成立 时 总部 设置 在
+LOC_ADDRESS	加内特 个人 主页 是 什么
+LOC_ADDRESS	马尔 他 大学 网址 是 什么
+LOC_ADDRESS	中国 卫生部 网址 是 什么
+LOC_ADDRESS	足球 明星 罗纳尔多 邮箱 地址 是 什么
+LOC_BUILDING	哈尔滨 有 哪 几 家 五星级 宾馆
+LOC_BUILDING	我国 第一 座 自行 设计 自行 核电站 是 哪 一个
+LOC_BUILDING	哈尔滨 最 大 游乐场 是 哪个 游乐场
+LOC_BUILDING	北京 凯莱 大酒店 在 哪里
+LOC_BUILDING	台北 最 大 机场 是 哪个
+LOC_BUILDING	北京 圆明园 由 构成
+LOC_BUILDING	到 旅游 有 哪些 好 游乐场
+LOC_BUILDING	上海 有 哪些 五星级 宾馆
+LOC_BUILDING	北京 故宫 又 称 什么
+LOC_BUILDING	北京 最 大 机场 叫 什么
+LOC_BUILDING	北京 最 有名 宫殿 是 什么
+LOC_BUILDING	北京 最 著名 旅馆 叫 什么
+LOC_BUILDING	被 称为 是 什么 园
+LOC_BUILDING	被 称为 是 哪 座 楼
+LOC_BUILDING	兵马俑 陈列 在
+LOC_BUILDING	哈尔滨 有 个 什么 机场
+LOC_BUILDING	秦始皇 为 建造 了 哪 座 宫殿
+LOC_BUILDING	全国 最 大 机场 是 哪个
+LOC_BUILDING	世界 上 最 大 广场 是 什么 广场
+LOC_BUILDING	世界 最 大 金字塔 是 什么 金字塔
+LOC_BUILDING	我国 最 大 室内 滑雪 游乐场 是 什么
+LOC_BUILDING	英国 皇宫 叫 什么
+LOC_BUILDING	著名 影片 断 桥 是 哪 座 桥
+LOC_CITY	阿根廷 首都 在 哪
+LOC_CITY	巴西 首都 是 哪 座 城市
+LOC_CITY	被 称为 城市 是 哪个 城市
+LOC_CITY	指 是 哪个 城市
+LOC_CITY	赤道几内亚 首都 是 哪 座 城市
+LOC_CITY	第十 届 奥运会 在 是 举办
+LOC_CITY	第一 例 发现 在
+LOC_CITY	有 东方 小 巴黎 称 城市 是
+LOC_CITY	芬兰 首都 在 哪里
+LOC_CITY	古 希腊 首都 在 哪里
+LOC_CITY	韩国 首都 在 哪
+LOC_CITY	韩国 首都 是 哪儿
+LOC_CITY	黑龙江 省会 在 哪
+LOC_CITY	花城 是 指
+LOC_CITY	镜泊湖 离 哪个 城市 最近
+LOC_CITY	墨西哥 首都 是 哪 座 城市
+LOC_CITY	哪个 城市 被 称作 草原 钢城
+LOC_CITY	哪个 城市 牛仔 最 有 魅力
+LOC_CITY	哪个 城市 是 仅次于 第二 大 金融 中心
+LOC_CITY	哪个 城市 是 中国 最 大 城市
+LOC_CITY	哪个 城市 有 北国 春城 称
+LOC_CITY	尼日利亚 首都 叫 什么
+LOC_CITY	瑞士 首都 是 哪个 城市
+LOC_CITY	世界 上 最 靠 叫 什么 名字
+LOC_CITY	世界 最 大 国家 首都 是 哪里
+LOC_CITY	斯里兰卡 首都 是 哪里
+LOC_CITY	土耳其 首都 在 哪个 城市
+LOC_CITY	土耳其 首都 在 哪里
+LOC_CITY	我国 被 称为 城市 是 哪 一 城市
+LOC_CITY	我国 被 称为 城市 是 哪 一 座 城市
+LOC_CITY	武昌 在 哪个 城市
+LOC_CITY	羊肉 泡馍 是 我国 哪 一 城市 风味 食品
+LOC_CITY	有 称 城市 是
+LOC_CITY	中国 最 南 省会 城市 是 哪个
+LOC_CITY	著名 自由 女神像 坐落 在
+LOC_CITY	大 金国 都城 在 哪里
+LOC_CITY	黑龙江 省会 在 哪儿
+LOC_CITY	北京 在 叫做 什么
+LOC_CITY	云南 昆明 又 叫 什么
+LOC_CONTINENT	埃及 属于 哪个 洲
+LOC_CONTINENT	艾滋病 病源 地 在
+LOC_CONTINENT	奥林匹克 旗帜 五 种 颜色 中 天蓝色 代表 哪个 洲
+LOC_CONTINENT	澳大利亚 在 哪个 洲
+LOC_CONTINENT	哈佛 大学 在 哪个 洲
+LOC_CONTINENT	目前 地球 上 已 知 最 大 陨石坑 位于 哪个 洲
+LOC_CONTINENT	哪 一个 洲 最 寒冷
+LOC_CONTINENT	平均 占有 最 是 哪个 洲
+LOC_CONTINENT	最低 大陆 是 哪个 洲
+LOC_CONTINENT	七大洲 中 面积 第二 哪个 洲
+LOC_CONTINENT	最 小 大陆 是 哪个 大陆
+LOC_CONTINENT	世界 上 平均 最高 洲 哪个 洲
+LOC_CONTINENT	世界 上 最 少 国家 在 哪 一个 洲
+LOC_CONTINENT	世界 上 最 大 冰川 在 哪个 洲
+LOC_CONTINENT	世界 上 最高 一个 洲 是 什么 洲
+LOC_CONTINENT	世界 上 最 曲折 海岸线 分布 在
+LOC_CONTINENT	夏威夷 在 属于 哪个 洲
+LOC_CONTINENT	中东 属于 哪个 洲
+LOC_CONTINENT	最 原始 大陆 是 什么
+LOC_CONTINENT	世界 共 分 哪 几 大 洲
+LOC_COUNTRY	芭蕾舞 是 从
+LOC_COUNTRY	19 世纪 时 哪个 国家 成为 欧洲 美术 中心
+LOC_COUNTRY	2000年 哪个 国家 获得 了 世界杯 足球赛 冠军
+LOC_COUNTRY	2004年 世界杯 将 在 举行
+LOC_COUNTRY	约翰牛 是 哪个 国家 绰号
+LOC_COUNTRY	巴黎 圣母院 作者 是 哪 国人
+LOC_COUNTRY	阿姆斯特丹 是 哪个 国家 首都
+LOC_COUNTRY	爱立信 是 哪个 国家
+LOC_COUNTRY	爱因斯坦 出生 在
+LOC_COUNTRY	冰球 运动 起源 于
+LOC_COUNTRY	第八 届 奥运会 主办国 是 哪个 国家
+LOC_COUNTRY	第二 次 世界大战 中 最先 攻占 是 哪个 国家
+LOC_COUNTRY	第一 次 国际 大运会 在 举行
+LOC_COUNTRY	第一 次 世界大战 是 发起
+LOC_COUNTRY	电流 发明人 安培 是 哪 国 人
+LOC_COUNTRY	钓鱼岛 属 哪个 国家所有
+LOC_COUNTRY	二战 中 最 法西斯 国家 是 哪 一个
+LOC_COUNTRY	最 多 国家 是 哪个 国家
+LOC_COUNTRY	共同社 是 哪个 国家 通讯社
+LOC_COUNTRY	国际 奥委会 主席 萨马兰奇 是 哪个 国家 人
+LOC_COUNTRY	是 国家 是 哪个 国家
+LOC_COUNTRY	火药 是 发明
+LOC_COUNTRY	加拿大 毗邻
+LOC_COUNTRY	饺子 是 哪个 国家 特色 食品
+LOC_COUNTRY	考拉 是 哪个 国家 动物
+LOC_COUNTRY	科罗拉多 大 峡谷 是 哪个 国家
+LOC_COUNTRY	科学家 普利斯特里 是 哪 国人
+LOC_COUNTRY	雷克亚未克 是 哪个 国家 首都
+LOC_COUNTRY	领土 最 狭长 国家 是 哪个 国家
+LOC_COUNTRY	路透社 是 哪个 国家 通讯社
+LOC_COUNTRY	美国 空军 准将 米切尔 出生 于
+LOC_COUNTRY	墨尔本 是 哪个 国家 首都
+LOC_COUNTRY	哪个 国家 国土 面积 最 大
+LOC_COUNTRY	哪个 国家 军事 实力 最 强大
+LOC_COUNTRY	哪个 国家 垃圾 产量 居 世界 第一
+LOC_COUNTRY	哪个 国家 面积 最 大
+LOC_COUNTRY	哪个 国家 跨 亚 欧 两 洲
+LOC_COUNTRY	哪个 国家 发射 第一 颗 人造卫星
+LOC_COUNTRY	哪个 国家 举办 了 000年 奥运会
+LOC_COUNTRY	哪个 国家 领土 面积 最 大
+LOC_COUNTRY	哪个 国家 人口 呈 负 增长 趋势
+LOC_COUNTRY	哪个 国家 是 世界 上 最低 国家
+LOC_COUNTRY	哪个 国家 是 工业革命 发祥地
+LOC_COUNTRY	哪个 国家 最 小
+LOC_COUNTRY	哪 一个 国家 独立 打响 了 拉丁美洲 独立 战争 第一 炮
+LOC_COUNTRY	牛顿 是 哪 国 科学家
+LOC_COUNTRY	欧元 是 哪 国 货币 单位
+LOC_COUNTRY	排球 运动 起源 于
+LOC_COUNTRY	乒乓球 起源 于
+LOC_COUNTRY	平安 王朝 是 哪个 国家
+LOC_COUNTRY	铅笔 是 发明
+LOC_COUNTRY	千佛坛 是 哪个 国家
+LOC_COUNTRY	屈原 是 春秋 时代 哪 国人
+LOC_COUNTRY	世界 第三 大 国家 是 哪 一个
+LOC_COUNTRY	最 大 国家 是
+LOC_COUNTRY	最 大 国家 是 哪个 国家
+LOC_COUNTRY	第三 国家 是 哪个 国家
+LOC_COUNTRY	世界 上 哪个 国家 人口 最 少
+LOC_COUNTRY	世界 上 哪个 国家 迪斯尼 乐园
+LOC_COUNTRY	世界 上 哪个 国家 最 早 发明 指南针
+LOC_COUNTRY	世界 上 最 大 峡谷 在 哪个 国家
+LOC_COUNTRY	世界 上 最后 进入 元旦 国家
+LOC_COUNTRY	世界 最 大 博物馆 在 哪个 国家
+LOC_COUNTRY	首先 提出 是 哪 国人
+LOC_COUNTRY	万隆 会议 在 召开
+LOC_COUNTRY	亚洲 第一 个 举办 国家 是 哪个 国家
+LOC_COUNTRY	最 大 国家 是 哪个 国家
+LOC_COUNTRY	约翰·施特劳斯 是 哪个 国家 人
+LOC_COUNTRY	钥匙 是 发明
+LOC_COUNTRY	在 美国 居 第一 位 是
+LOC_COUNTRY	著名 天文学家 哥白尼 是 哪 国人
+LOC_COUNTRY	第六 是 哪个 国家
+LOC_COUNTRY	足球 裁判 米·沃特罗 来自 哪个 国家
+LOC_COUNTRY	最 早 纸币 源于 哪个 国家
+LOC_COUNTRY	戛纳 电影节 在 举办
+LOC_COUNTRY	澳洲 都 包括 哪些 国家
+LOC_COUNTRY	凡尔登 战役 是 作战
+LOC_COUNTRY	列举 出 联合国 安理会 常任 理事国
+LOC_COUNTRY	南美 有 哪些 国家
+LOC_COUNTRY	欧洲 著名 百年 战争 发生 在
+LOC_COUNTRY	瑞士 是 联合国 成员国 吗
+LOC_COUNTRY	世界 上 哪些 国家 说 英语
+LOC_COUNTRY	四 大 文明 古国 分别 是 哪些 国家
+LOC_COUNTRY	兴凯湖 是 共有
+LOC_COUNTRY	伊拉克 邻国 有 哪些
+LOC_ISLAND	欧洲 最 大 半岛 在 哪
+LOC_ISLAND	欧洲 最 大 岛屿 是 什么 岛屿
+LOC_ISLAND	觊觎 已 中国 一个 岛屿 是 哪个 岛
+LOC_ISLAND	世界 上 最 大 岛 是 叫
+LOC_ISLAND	位于 是 什么 岛屿
+LOC_ISLAND	我国 第一 大 岛 是 什么 岛
+LOC_ISLAND	中国 第三 大 岛屿 是 哪个 岛
+LOC_ISLAND	有 是 什么 岛屿
+LOC_ISLAND	澳门 地区 包括 哪 几 个 岛屿
+LOC_ISLAND	香港 地区 包括 哪 几 个 岛屿
+LOC_LAKE	北京市 最 大 湖泊 是 哪个 湖泊
+LOC_LAKE	牡丹江 地区 著名 旅游 景点 是 什么 湖
+LOC_LAKE	哪个 湖 位于 杭州
+LOC_LAKE	哪个 湖 最 美丽
+LOC_LAKE	世界 上 最 深 湖 是 什么 湖
+LOC_LAKE	我国 最 大 淡水湖 是 什么 湖
+LOC_LAKE	岳阳楼 记里 谈 到 哪个 湖
+LOC_LAKE	浙江 哪个 湖 已经 干涸
+LOC_MOUNTAIN	五岳 都 是 哪些 山
+LOC_MOUNTAIN	哪 座 山 是 世界 最高峰
+LOC_MOUNTAIN	南岳 衡山 最高峰 是 什么 峰
+LOC_MOUNTAIN	日本 最 著名 火山 是 哪个
+LOC_MOUNTAIN	日本 最 著名 火山 是 哪 一 座
+LOC_MOUNTAIN	少林寺 在 什么 山
+LOC_MOUNTAIN	世界 上 最 长 山脉 是 什么 山
+LOC_MOUNTAIN	世界 最 有名 火山 是 什么 火山
+LOC_OCEAN	波斯湾 连接 哪 两 个 洋
+LOC_OCEAN	丹东 附近 是 什么 海
+LOC_OCEAN	海南岛 位于 什么 海
+LOC_OCEAN	欧洲 之间 隔 着 哪个 海洋
+LOC_OCEAN	世界 第二 大洋 是 什么
+LOC_OCEAN	世界 上 最 北 洋 是 哪 一个
+LOC_OCEAN	中国 东面 是 什么 洋
+LOC_OCEAN	中途岛 在 哪个 大洋
+LOC_OCEAN	世界 上 最 多 海湾 是 哪 一个
+LOC_OTHER	被 称为 是 什么
+LOC_OTHER	呼和浩特市 是 哪个 地区 首府 城市
+LOC_OTHER	好莱坞 位于 美国 什么 州
+LOC_OTHER	哪个 州 面积 最 大
+LOC_OTHER	哪里 经常 发生 战争
+LOC_OTHER	最 大 州 是 哪个 州
+LOC_OTHER	位于 什么 地区
+LOC_OTHER	华夏 民族 是 在 诞生
+LOC_OTHER	哪个 州 盛产 石油
+LOC_OTHER	中国 哪个 地区 经济 发展 最 快
+LOC_OTHER	张家港 邻接 县市 有 哪些
+LOC_OTHER	北京 哪个 区 面积 最 大
+LOC_OTHER	北京 在 哪里
+LOC_OTHER	比 在 哪里
+LOC_OTHER	波士顿 在 哪里
+LOC_OTHER	苍蝇 经常 在 活动
+LOC_OTHER	长白山 在 什么 地方
+LOC_OTHER	长江 流向 哪里
+LOC_OTHER	除 哪个 州 也 是 美国 本土 以外 州
+LOC_OTHER	第十 届 上海 华会 在 举行
+LOC_OTHER	第一 届 世界杯 足球赛 是 在 举办
+LOC_OTHER	东北 大 平原 由 组成
+LOC_OTHER	东方 明珠 电视塔 在 哪里
+LOC_OTHER	鄂伦春 自治旗 文化 中心 是 哪
+LOC_OTHER	广岛 在 什么 地方
+LOC_OTHER	硅谷 位于 美国 的 哪个 地区
+LOC_OTHER	桂林 最 美 风景区 是 哪儿
+LOC_OTHER	哈尔滨 工程 大学 在 哪个 区
+LOC_OTHER	哈工大 位于 哈尔滨 哪 一个 区
+LOC_OTHER	黑龙江省 哪个 县 已经 划 入
+LOC_OTHER	红军 长征 在 结束
+LOC_OTHER	虎林 隶属 于
+LOC_OTHER	花旗 银行 在 何处
+LOC_OTHER	华山 在 哪里
+LOC_OTHER	浑河 在 哪个 地方
+LOC_OTHER	加格达奇 在 亚洲 哪个 地方
+LOC_OTHER	加利福尼亚州 在 哪 一 地区
+LOC_OTHER	剑桥 大学 在 哪里
+LOC_OTHER	江 泽明 是 哪里人
+LOC_OTHER	金庸 籍贯 在 哪里
+LOC_OTHER	近些年 哪个 地区 发生 最 多
+LOC_OTHER	位于 哪个 地区
+LOC_OTHER	开原市 在 哪儿
+LOC_OTHER	历史 上 有 称 地方 是 哪里
+LOC_OTHER	漠河 位于 什么 地方
+LOC_OTHER	穆托姆博 来自 哪里
+LOC_OTHER	拿破仑 在 病逝
+LOC_OTHER	哪儿 产 荔枝
+LOC_OTHER	哪个 县 人口 最 多
+LOC_OTHER	尼日尔河 位于 哪里
+LOC_OTHER	聂耳 是 哪里人
+LOC_OTHER	泉城 是 哪
+LOC_OTHER	上海 希尔顿 大酒店 在 哪里
+LOC_OTHER	上海 位于 什么 地区
+LOC_OTHER	上海 在 什么 地方
+LOC_OTHER	深圳 位于 什么 地方
+LOC_OTHER	神农架 坐落 在
+LOC_OTHER	沈阳市 市政府 在 沈阳 哪个 区
+LOC_OTHER	什么 地方 是 可可 主要 产地
+LOC_OTHER	什么 地方 战乱 不断
+LOC_OTHER	世界 第二 大 沙漠 是 什么
+LOC_OTHER	世界 面积 第一 大 沙漠 是 什么
+LOC_OTHER	世界 上 第一 座 水磨 安装 在
+LOC_OTHER	世界 上 最 集中 地区 是 什么 地区
+LOC_OTHER	世界 上 哪个 地区 原始 森林 保护 的 最 完整
+LOC_OTHER	世界 上 最 大 地区 在 哪里
+LOC_OTHER	世界 上 存储 最 是 哪个 地区
+LOC_OTHER	世界 上 最 大 沙漠 是 什么
+LOC_OTHER	世界 上 最 大 峡谷 是 哪个
+LOC_OTHER	世界 上 最 大 原始 森林 在 哪里
+LOC_OTHER	世界 上 最 大 坐佛 在 哪里
+LOC_OTHER	世界 上 最 深 海湾 是 什么
+LOC_OTHER	世界 最 深 洼地 在 哪里
+LOC_OTHER	司马南 故乡 在 哪
+LOC_OTHER	松嫩 平原 在 我国 哪个 地区
+LOC_OTHER	苏比克湾 在 什么 地方
+LOC_OTHER	泰国 首都 在 什么 地方
+LOC_OTHER	太阳 金字塔 坐落 在
+LOC_OTHER	太阳系 在 位置 是 哪
+LOC_OTHER	天安门 在 北京 哪个 区
+LOC_OTHER	我国 四 大 藏书阁 之一 文津阁 坐落 在
+LOC_OTHER	雅魯 藏布 大 峽谷 在 哪
+LOC_OTHER	伊拉克 在 什么 地方
+LOC_OTHER	印度 在 哪个 地方
+LOC_OTHER	英国 之间 海峡 叫 什么
+LOC_OTHER	英吉利 海峡 具体 位置 在 哪儿
+LOC_OTHER	由 创办 中国 福利 会 是 在 成立
+LOC_OTHER	幼发拉底河 起源 什么 地方
+LOC_OTHER	月亮 金字塔 坐落 在
+LOC_OTHER	张衡 环形 山 在 哪里
+LOC_OTHER	张家界 在 哪里
+LOC_OTHER	珍宝岛 在 哪儿
+LOC_OTHER	位于 哪个 区
+LOC_OTHER	中国 海岸线 北 起 在
+LOC_OTHER	中国 最 大 沙漠 是 哪 一个
+LOC_OTHER	中国 最 大 沙漠 是 什么
+LOC_OTHER	中国 最 南部 海峡 是 什么
+LOC_OTHER	最 贫困 县 是 什么
+LOC_OTHER	最 热 地方 在 哪里
+LOC_OTHER	中国 最 著名 峡谷 叫做 什么
+LOC_OTHER	中南海 在 什么 区
+LOC_OTHER	中山大学 在 哪里
+LOC_OTHER	珠江 地区 饮用水 主要 来自 哪里
+LOC_OTHER	最 长 海峡 是 什么 海峡
+LOC_OTHER	嫦娥 住 在
+LOC_OTHER	150001 是 哪里 邮编
+LOC_OTHER	必 斯开湾 是 什么 地方
+LOC_OTHER	北非 最 著名 沙漠 叫 什么 沙漠
+LOC_OTHER	北京都 有 什么 主要 景点
+LOC_OTHER	被 称为 是 什么
+LOC_OTHER	长江 以南 在 称为 什么
+LOC_OTHER	飞机 一般 降落 在
+LOC_OTHER	过 后 会 平静 一 段 时间 不久 将 会 从 再度 横扫
+LOC_OTHER	伊拉克 在 什么 方位
+LOC_OTHER	中国 东北 森林 叫 什么
+LOC_OTHER	中国 革命 历史 博物馆 在 什么 位置
+LOC_OTHER	中国 最 大 原始 森林 是 哪 一个
+LOC_OTHER	最 大 原始 森林 是 什么
+LOC_PROVINCE	辽宁 又 称 为什么
+LOC_PROVINCE	长江 流经 哪些 省份
+LOC_PROVINCE	从 去 要 经过 哪 几 个 省
+LOC_PROVINCE	东三省 包括 哪些 省
+LOC_PROVINCE	西部 大 开发 都 包括 哪 几 个 省份
+LOC_PROVINCE	长白山 位于 哪个 省份
+LOC_PROVINCE	海城市 在 哪个 省
+LOC_PROVINCE	华山 位于 哪个 省份
+LOC_PROVINCE	黄冈市 在 哪个 省
+LOC_PROVINCE	黄山 在 哪个 省
+LOC_PROVINCE	九华山 在 哪个 省 境内
+LOC_PROVINCE	青岛 属于 哪个 省
+LOC_PROVINCE	王昭君 家乡 在 哪个 省
+LOC_PROVINCE	我国 哪个 省 是 大熊猫 产地
+LOC_PROVINCE	豫 是 中国 哪个 省 简称
+LOC_PROVINCE	云冈 石窟 位于 我国 哪个 省
+LOC_PROVINCE	位于 哪 一个 省份
+LOC_PROVINCE	中国 哪个 省 人口 最 多
+LOC_PROVINCE	中国 哪个 省 海拔 最高
+LOC_PROVINCE	最 靠 省 是 什么
+LOC_PROVINCE	舟山 群岛 归 哪个 省
+LOC_PROVINCE	著名 九寨沟 风景 名胜区 位于 哪个 省份
+LOC_PROVINCE	蕲春县 在 哪个 省
+LOC_RIVER	巴拿马 境内 有 什么 运河
+LOC_RIVER	非洲 第一 大 河 是 什么 河
+LOC_RIVER	黑龙江 分支 包括 哪些 河流
+LOC_RIVER	卢沟桥 在 哪 条 河 上面
+LOC_RIVER	南美 之间 运河 叫 什么
+LOC_RIVER	世界 上 最 大 河流 是 什么
+LOC_RIVER	世界 上 最 大 运河 是 什么
+LOC_RIVER	太原 市内 有 什么 河
+LOC_RIVER	赵州桥 在 哪 条 河 上
+LOC_RIVER	中国 什么 河 最 长
+LOC_RIVER	中国 两 国 界河 是 什么 河
+LOC_RIVER	中国 最 长 河流 是 什么 河
+LOC_RIVER	长江 有 哪些 分支
+LOC_UNIVERSE	九 大 行星 是 哪些
+LOC_UNIVERSE	太阳系 包括 哪些 行星
+LOC_UNIVERSE	牛郎星 位于 哪个 星座
+LOC_UNIVERSE	白矮星 属于 哪个 星系
+LOC_UNIVERSE	北斗星 属于 什么 星座
+LOC_UNIVERSE	北极星 属于 哪个 星座
+LOC_UNIVERSE	被 称为 星系 是 哪 一 星系
+LOC_UNIVERSE	地球 卫星 是 什么
+LOC_UNIVERSE	对 最 是 什么
+LOC_UNIVERSE	和 是 什么
+LOC_UNIVERSE	金星 又 叫 什么 星
+LOC_UNIVERSE	距离 是 哪 一 颗
+LOC_UNIVERSE	牛郎星 属于 哪个 星座
+LOC_UNIVERSE	农历 四月 八日 属于 什么 星座
+LOC_UNIVERSE	人类 第一 个 到达 星球 是 什么
+LOC_UNIVERSE	能 看到 最 远 行星 是 哪 颗
+LOC_UNIVERSE	什么样 恒星 会 变成 红巨星
+LOC_UNIVERSE	太阳系 中 最 大 行星 是 什么 星
+LOC_UNIVERSE	在 被 称为 最 最 是 哪 一 颗
+LOC_UNIVERSE	织女星 位于 哪个 星座
+LOC_UNIVERSE	周杰伦 是 什么 星座
+LOC_UNIVERSE	最后 一个 被 发现 行星 是 哪 一个
+NUM_AREA	澳门 面积 有 多 大
+NUM_AREA	大兴安岭 原始 森林 面积 目前 还 剩 多少
+NUM_AREA	东北 林业 大学 面积 是 多少
+NUM_AREA	哈尔滨 工业 大学 方圆 多 大
+NUM_AREA	哈尔滨 工业 大学 占地 面积 是 多少
+NUM_AREA	黑龙江省 耕地 面积 是 多少
+NUM_AREA	黑龙江省 人均 耕地 面积 是 多少
+NUM_AREA	加拿大 国土 面积 是 多 大
+NUM_AREA	镜泊湖 面积 多 大
+NUM_AREA	世界 上 最 小 国家 梵蒂冈 领土 面积 为 多少
+NUM_AREA	沙漠 塔克拉玛干 沙漠 面积 多 大
+NUM_AREA	台湾 面积 多 大
+NUM_AREA	太平洋 面积 是 多少
+NUM_AREA	中国 国土 面积 有 多 大
+NUM_AREA	中国 森林 面积 共有 多少
+NUM_AREA	中国 沙漠 面积 多 大
+NUM_CODE	北京大学 邮编 是 多少
+NUM_CODE	大连 理工大学 邮编 是 多少
+NUM_CODE	大 邮编 是 多少
+NUM_CODE	高雄市 邮政编码 是 多少
+NUM_CODE	哈尔滨 邮编 是 多少
+NUM_CODE	哈工大 教务处 电话 是 多少
+NUM_CODE	黑龙江省 莫河市 邮政编码 是 多少
+NUM_CODE	火警 号码 是 多少
+NUM_CODE	火警 电话 是 多少
+NUM_CODE	火警 急救 电话 是 多少
+NUM_CODE	急救 热线 电话 号码 是 多少
+NUM_CODE	如果 你 想 查询 应该 拨
+NUM_CODE	世界 足球 王 贝利 球衣号 为 几 号
+NUM_CODE	微软 中国 公司 客户 服务 电话 号码 是 多少
+NUM_CODE	西安 交通 大学 邮政编码 是 多少
+NUM_CODE	烟台 邮编 是 多少
+NUM_COUNT	长江 流经 几 个 省 自治区 直辖市
+NUM_COUNT	1969年 到 1972年 阿波罗 登 月 成功
+NUM_COUNT	2000年 奥运会 中国 得 了 多少 枚 金牌
+NUM_COUNT	千 湖 国 芬兰 大约 有 多少 个 湖泊
+NUM_COUNT	巴西 国旗 有 几 种 颜色
+NUM_COUNT	巴彦县 有 多少 个 乡镇
+NUM_COUNT	北京市 人口 有 多少
+NUM_COUNT	成人 牙齿 共 多少 颗
+NUM_COUNT	大于 烃常温 下 就 是 固体
+NUM_COUNT	地球 有 几 个 卫星
+NUM_COUNT	第二十四 届 奥运会 中国 获得 多少 枚 金牌
+NUM_COUNT	第十八 届 冬奥会 中国 获得 了 几 枚 银牌
+NUM_COUNT	第四 届 奥运会 东道主 英国 总共 得 了 多少 枚 奖牌
+NUM_COUNT	第一 届 奥运会 有 几 个 大项
+NUM_COUNT	多少 电子 电荷 为 一库伦
+NUM_COUNT	法国 人口 大概 有 多少 数量
+NUM_COUNT	国际象棋 共有 多少 颗 棋子
+NUM_COUNT	哈尔滨市 有 多少 人
+NUM_COUNT	哈尔滨 有 多少 人口
+NUM_COUNT	哈工大 有 几 个 学院 院士
+NUM_COUNT	杭州 有 多少 居民
+NUM_COUNT	河南省 人口 是 多少
+NUM_COUNT	花旗 银行 在 有 几 家 分行
+NUM_COUNT	华盛顿 担任 了 几 届 总统
+NUM_COUNT	鸡 有 几 只 脚
+NUM_COUNT	甲 A 有 多少 支 球队
+NUM_COUNT	剑桥 大学 有 几 个 学院
+NUM_COUNT	迈克尔·乔丹 夺 过 NBA 多少 次 总 冠军
+NUM_COUNT	目前 小学 教育 共 开设 几 门 必修课
+NUM_COUNT	牛津 大学 几 个 学院
+NUM_COUNT	欧洲 人口 是 多少
+NUM_COUNT	乔丹 在 最 多 抢 多少 个 篮板球
+NUM_COUNT	人 一般 有 多少 牙
+NUM_COUNT	人 有 多少 根 头发
+NUM_COUNT	人 有 多少 颗 恒牙
+NUM_COUNT	日本 多少 人口
+NUM_COUNT	日本 目前 多少 人
+NUM_COUNT	最 少 国家 人口 是 多少
+NUM_COUNT	世界 上 共有 多少 个 国家
+NUM_COUNT	孙继海 在 共 踢 进
+NUM_COUNT	万里长城 横跨 我国 多少 省
+NUM_COUNT	我国 共有 多少 种 鸟
+NUM_COUNT	我国 有 多少 个 民族
+NUM_COUNT	现在 美国 国旗 星条旗 上 有 多少 颗 星
+NUM_COUNT	一个 人 有 多少 块 骨头
+NUM_COUNT	一 年 有 几 个 季度
+NUM_COUNT	伊拉克 有 多少 人口
+NUM_COUNT	正常 人体 体细胞 有 多少 条 染色体
+NUM_COUNT	中国 人口 总数 是 多少
+NUM_COUNT	最 多 城市 多少 人
+NUM_COUNT	中国 一共 有 多少 个 军事 博物馆
+NUM_COUNT	中国 邮政编码 多少 位
+NUM_COUNT	中国 有 多少 个 省
+NUM_COUNT	中国 有 多少 农民
+NUM_COUNT	中国 有 几 个 特区
+NUM_COUNT	著名 比萨 斜塔 共有 多少 级 台阶
+NUM_COUNT	一 立方米 水中 有 多少 水分子
+NUM_COUNT	白云 机场 平均 日 客运量 是 多少
+NUM_COUNT	北京市 共 分 几 个 城区
+NUM_COUNT	哈工大 图书馆 藏书量 是 多少
+NUM_COUNT	美国 杰出 黑人 短跑 名将 杰西·欧文斯 在 独 得 几 面 金牌
+NUM_COUNT	乔丹 本人 几 次 被 评为 最 有
+NUM_COUNT	正常 是 多少
+NUM_COUNT	一 张 普通 光盘 能够 存储 多少 字节 数据
+NUM_COUNT	一个 蜂群 有 多少 只 蜜蜂 组成
+NUM_DISTANCE	白马座 距离 有 多 远
+NUM_DISTANCE	北京 到 哈尔滨 有 多
+NUM_DISTANCE	北京 之间 距离 是 多少
+NUM_DISTANCE	标准 篮球场 有 多 长
+NUM_DISTANCE	长江 有 多 长
+NUM_DISTANCE	大气层 厚度 约 为 多少
+NUM_DISTANCE	邓小平 有 多 高
+NUM_DISTANCE	非洲 第一 高峰 乞力马扎罗山 海拔 高度 是 多少
+NUM_DISTANCE	哈尔滨 距离 是 多少
+NUM_DISTANCE	哈尔滨 距离 有 多少 公里
+NUM_DISTANCE	青藏 高原 平均 海拔 多少 米
+NUM_DISTANCE	青海湖 海拔 高度 是 多少
+NUM_DISTANCE	琼州 海峡 最 窄 处 有 多 宽
+NUM_DISTANCE	世界 上 最高 人 有 多 高
+NUM_DISTANCE	死海 最低 海拔 为 多少 米
+NUM_DISTANCE	苏伊士 运河 有 多 长
+NUM_DISTANCE	太阳 距离 是 多少
+NUM_DISTANCE	太阳 相距 多 远
+NUM_DISTANCE	唐古拉山 海拔 是 多少
+NUM_DISTANCE	跳高 记录 是 多少
+NUM_DISTANCE	吐鲁番 盆地 海拨 是 多少 米
+NUM_DISTANCE	英吉利 海峡 最 深处 海拔 是 多少
+NUM_DISTANCE	月亮 直径 是 多少
+NUM_DISTANCE	中国 人 平均 身高 是 多少
+NUM_DISTANCE	足球 比赛 场地 角旗 高度 为 多少 米
+NUM_FREQUENCY	蓝牙 频率 是 多少
+NUM_MONEY	唐山 大 地震 损失 估计 有
+NUM_MONEY	中国 人民币 最 小 面值 多少
+NUM_MONEY	我国 每年 发放 国债 多少
+NUM_MONEY	公司 每年 向 上交 多少 税
+NUM_MONEY	目前 购买 一 台 笔记本 电脑 需要
+NUM_MONEY	一克拉 钻石 值 多少 钱
+NUM_MONEY	一 台 笔记本 大概 多少 钱
+NUM_MONEY	有限 责任 公司 发行 公司 债券 最低 为
+NUM_MONEY	中国 每年 教育 经费 总额 是 多少
+NUM_MONEY	中国 一 年 国民 生产总值 是 多少
+NUM_OTHER	普通 白炽灯 发光光 强 是 多 大
+NUM_OTHER	普通 灌装 啤酒 一般 是 多少 毫升
+NUM_OTHER	泰森 一 记 直 勾拳
+NUM_OTHER	一 升 等于 多少 毫升
+NUM_OTHER	一般 是 多少
+NUM_OTHER	太阳 紫外线 辐射量 是 多少
+NUM_OTHER	E 容量 是 多少
+NUM_OTHER	笔记本 功率 有 多 大
+NUM_OTHER	允许 最 大 电流 是 多少
+NUM_OTHER	丹江口 水库 总 蓄水量 为 多少
+NUM_OTHER	电阻 丝 熔断 电流 是 多少
+NUM_OTHER	对 安全 电压 是 多少 伏
+NUM_OTHER	多少 伏特 电压 为 安全 电压
+NUM_OTHER	黄金 分割点 是 多少
+NUM_OTHER	目前 主流 硬盘 容量 是 多 大
+NUM_OTHER	人 一 天 热量 需要 多少
+NUM_OTHER	人类 每天 平均 消耗 多少 能量
+NUM_OTHER	能够 承受 最 大 电压 是 多 大
+NUM_OTHER	含有 能量
+NUM_OTHER	跳 绳1 分钟 能 消耗
+NUM_OTHER	我国 每年 用电量 多少
+NUM_OTHER	一个 成年 男人 身上 电阻 大约 是 多少
+NUM_OTHER	一个 鸡腿 含有 多少 热量
+NUM_OTHER	含有 热量 是 多少
+NUM_OTHER	低于 时 称为 酸雨
+NUM_OTHER	照明电 正常 电压 是 多少
+NUM_OTHER	正常 情况 下 人体 内 血糖 含量 是 多少
+NUM_OTHER	18K 金 含金量 是 多少
+NUM_OTHER	今年 世界 降水 是 多少
+NUM_PERCENT	MP3 在 不 是 以 压缩
+NUM_PERCENT	需要 交 利息 是 多少
+NUM_PERCENT	2000年 奥运会 中国 女排 美国队 比分 是 多少
+NUM_PERCENT	水 占 人体 重量 百分之 多少
+NUM_PERCENT	占 是 多少
+NUM_PERCENT	氧气 占 空气 体积 百分之 多少
+NUM_PERCENT	储蓄 利率 是 多少
+NUM_PERCENT	中国 森林 覆盖率 是 多少
+NUM_PERCENT	中国 目前 新生儿 死亡率 是 多少
+NUM_PERIOD	乘坐 民航 班机 多少 岁 以上 不 能 购买
+NUM_PERIOD	多 大 年纪 猫 算是 寿星
+NUM_PERIOD	太阳 年龄 约 有 多 大
+NUM_PERIOD	至今 为止 地球 年龄 约 是 多少
+NUM_PERIOD	钻禧 是 指
+NUM_PERIOD	非典 谋伏期 是 多少 天
+NUM_PERIOD	眉毛 生长 周期 有 多久
+NUM_PERIOD	闰年 几 年 会 出现 一 次
+NUM_PERIOD	太阳 黑子 爆发 多少 年 一 次
+NUM_PERIOD	托福 考试 成绩 能 保留 几 年
+NUM_PERIOD	一个 有 星期 多少 天
+NUM_PERIOD	一 年 有 多少 天
+NUM_PERIOD	自 转 大约 是 地球 上 多少 天
+NUM_PERIOD	这 次 梅雨 季节 持续 多少 天
+NUM_PERIOD	成年人 每日 正常 睡眠 时间 应 是 多少 小时
+NUM_PERIOD	唐朝 存在 时间
+NUM_PERIOD	1794年 拿破仑 被 监禁 了 多少 天
+NUM_PERIOD	地球 多 长 时间 绕 太阳 一 圈
+NUM_PERIOD	地球 绕 太阳 公转 一 周 多
+NUM_PERIOD	非 典型 肺炎 谋伏期 是 多 长 时间
+NUM_PERIOD	狗 能 活 多 长 时间
+NUM_PERIOD	绕 周期 约 为 多少 年
+NUM_PERIOD	海龟 平均 能 活多 长 时间
+NUM_PERIOD	少年儿童 每日 正常 睡眠 时间 应 是 多少 小时
+NUM_PERIOD	塑料袋 在 需要 多少 年 才 能 分解
+NUM_PERIOD	颁发 出国 留学 护照 有效期 为 几 年
+NUM_PERIOD	实行 是 几年制 义务教育
+NUM_PERIOD	第三 届 奥运会 一共 持续 了 多久
+NUM_PERIOD	太阳能 存在 多 长 时间
+NUM_RANGE	中度 酒 酒精 含量 在 多少 范围 之内
+NUM_RANK	被 称为 是 第几 届 冬奥会
+NUM_RANK	戴相龙 是 央行 第几 任 行长
+NUM_RANK	哈工大 计算机系 在 排名 第几
+NUM_RANK	海南岛 是 我国 第几 大 岛
+NUM_RANK	美国 杰出 黑人 短跑 名将 杰西·欧文斯 在 独 拿 4 枚 金牌
+NUM_SPEED	北极 重力 加 速度 是 多少
+NUM_SPEED	地球 加速度 多 大
+NUM_SPEED	火车 在 标准加 速度 是 多少
+NUM_SPEED	火星 上 重力 加 速度 是 多少
+NUM_SPEED	水星 重力 加 速度 是 多少
+NUM_SPEED	我们 在 规定 是 是
+NUM_SPEED	自由 落体 加速度 是 多少
+NUM_SPEED	第一 宇宙 速度 是 多少
+NUM_SPEED	光 速度 是 多少
+NUM_SPEED	光速 是 多少
+NUM_SPEED	光速 有 多 大
+NUM_SPEED	光速 约 为 多少
+NUM_SPEED	目前 火车 最 大 速度 是 多少
+NUM_SPEED	男子 百 米 冠军 速度 是 多少
+NUM_SPEED	能 达到 最 快 速度 是 多少
+NUM_SPEED	战斗机 最 快 时速 是 多少
+NUM_TEMPERATURE	地球 内部 地 核 温度 高于 多少 度
+NUM_TEMPERATURE	海底 最低 温度 可能 达到 多少
+NUM_TEMPERATURE	今天 气温 有 多少 度
+NUM_TEMPERATURE	人 正常 体温 是 多少
+NUM_TEMPERATURE	太阳 表面 温度 大约 多少
+NUM_TEMPERATURE	太阳 表面 温度 一般 达到 多少 摄氏度
+NUM_TEMPERATURE	氧气 在 呈 液态
+NUM_TEMPERATURE	伊拉克 年 平均 气温 是 多少
+NUM_TEMPERATURE	在 冰 熔点 是 多少
+NUM_VOLUME	一 加仑 是 多少 立方米
+NUM_VOLUME	标准 集装箱 体积 是 多少
+NUM_VOLUME	地球 体积 有 多 大
+NUM_VOLUME	一 立方米 等于 多少 立方厘米
+NUM_WEIGHT	第一 次 探索 阿波罗号 总 重量 为 多少
+NUM_WEIGHT	飞机 上 允许 随身 重量 是 多少
+NUM_WEIGHT	轰炸机 最 大 起飞 重量 是 多少
+NUM_WEIGHT	人 标准 体重 是 多少
+NUM_WEIGHT	手机 一般 多少 重量
+NUM_WEIGHT	重 重量 是 多 大
+NUM_WEIGHT	泰坦尼克号 吃水量 有 多少 吨
+NUM_WEIGHT	新生儿 平均 重量 是 多少
+NUM_WEIGHT	一 头 成年 非洲 象 有
+OBJ_ACADEMIC	爱因斯坦都 提出 了 哪些 理论
+OBJ_ACADEMIC	北大 最 权威 专业 是 什么
+OBJ_ACADEMIC	在 哪 一个 专业 最 热门
+OBJ_ADDRESS	在 商业 公司 域名 后缀 是 什么
+OBJ_ANIMAL	沙光鱼 学名 叫 啥
+OBJ_ANIMAL	澳大利亚 最 著名 动物 是 什么
+OBJ_ANIMAL	霸王龙 是 哪 一 类 动物
+OBJ_ANIMAL	被 用 会 飞 动物 是 什么
+OBJ_ANIMAL	和 是 什么
+OBJ_ANIMAL	金鱼 祖先 是 什么
+OBJ_ANIMAL	哪 一 种 动物 最 重
+OBJ_ANIMAL	哪 种 鸟 是 印度 国鸟
+OBJ_ANIMAL	跑 最 动物 是 什么
+OBJ_ANIMAL	人类 发现 最 早 是
+OBJ_ANIMAL	什么 动物 嘴 最 大
+OBJ_ANIMAL	什么 动物 有 腹袋
+OBJ_ANIMAL	什么 动物 最 小
+OBJ_ANIMAL	什么 是 跑 最 动物
+OBJ_ANIMAL	什么 鱼 游 得 最 快
+OBJ_ANIMAL	世界 上 现存 最 大 动物 是 什么
+OBJ_ANIMAL	最 大 动物 是 什么
+OBJ_ANIMAL	熊猫 学名 叫 什么
+OBJ_ANIMAL	印度 国鸟 是 什么 鸟
+OBJ_ANIMAL	在 被 称为 不 是
+OBJ_ANIMAL	中国 国宝 是 什么 动物
+OBJ_ANIMAL	最 聪明 动物 是 什么
+OBJ_ANIMAL	一级 保护 动物 有 哪些
+OBJ_ANIMAL	考拉 是 什么 种属 动物
+OBJ_ANIMAL	人 属于 动物 中 哪 一 科
+OBJ_ANIMAL	狮子 属于 什么 科
+OBJ_ART	体育 舞蹈 又 被 称为 什么
+OBJ_ART	球王 贝利 曾 参加 过 哪 一 部 电影 的 拍摄
+OBJ_ART	中国 国歌 是 什么
+OBJ_ART	中国 第一 部 彩色 故事片 叫 什么 名字
+OBJ_BODY	人 小 腿 含 哪些 骨头
+OBJ_BODY	避雷针 安装 在
+OBJ_BODY	打 篮球 会 锻炼
+OBJ_BODY	内耳 又 叫 作
+OBJ_BODY	人体 中枢 是 什么
+OBJ_BODY	人体 里 最 坚硬 器官 是 哪个
+OBJ_BODY	人体 最 坚硬 部位 是 什么
+OBJ_BODY	人 写字 通常 使用
+OBJ_BODY	人 用 走路
+OBJ_BODY	握手 时候 一般 是 哪 只 手
+OBJ_BODY	肱二头肌 在 身体 哪个 部位
+OBJ_BODY	鲨鱼 用 呼吸
+OBJ_BODY	生长 最 手臂 以下 部分 是 什么
+OBJ_CATEGORY	火把节 是 哪个 民族 传统 节日
+OBJ_CATEGORY	哪 一 民族 把 称为 白食
+OBJ_CATEGORY	泼水节 是 我国 哪 一 民族 一 年 中 最 盛大 节日
+OBJ_CATEGORY	我国 著名 体操 选手 李宁 是 什么 民族
+OBJ_CATEGORY	献 是 哪个 民族 礼节
+OBJ_COLOR	大海 是 什么 颜色
+OBJ_COLOR	国旗 主要 颜色 是 什么
+OBJ_COLOR	美国 邮递员 制服 是 什么 颜色
+OBJ_COLOR	牡丹花 是 什么 颜色
+OBJ_COLOR	天 是 什么 颜色
+OBJ_COLOR	雨 后 天空 是 什么 颜色
+OBJ_COLOR	中国 代表 帝王之色 是 什么 颜色
+OBJ_CURRENCY	韩国 流通 货币 是 什么
+OBJ_CURRENCY	荷兰 使用 什么 货币
+OBJ_CURRENCY	流通 货币 是 什么
+OBJ_CURRENCY	台湾 流通 货币 是 什么
+OBJ_CURRENCY	新西兰 流通 货币 是 什么
+OBJ_CURRENCY	伊拉克 流通 货币 是 什么
+OBJ_CURRENCY	意大利 货币 称作 什么
+OBJ_DISEASE	肺炎 都 包括 哪些 种类
+OBJ_DISEASE	HIV 会 导致 什么 病症
+OBJ_DISEASE	世界 上 什么 病 死亡率 最高
+OBJ_DISEASE	世界 上 最高 疾病 是 什么
+OBJ_EVENT	目前 开 了 什么 会议
+OBJ_EVENT	2004年 什么 会议
+OBJ_EVENT	邓小平 是 在 是
+OBJ_EVENT	哪 次 会议 为 准
+OBJ_EVENT	确立 以 为 是 哪 次 会议
+OBJ_EVENT	今年 澳门 举办 什么 运动会
+OBJ_EVENT	上海 在 发生 了 一 次 什么 战争
+OBJ_EVENT	哪 次 战争 是 成熟 标志
+OBJ_EVENT	哪 次 战争 象征 着 三 国 最后 战
+OBJ_EVENT	哪 一个 战争 是 最 令
+OBJ_EVENT	汉 之间 主要 有 哪 几 场 战争
+OBJ_EVENT	新 中国 哪 场 战争 最 经典
+OBJ_EVENT	伱 最 喜欢 火影 里 哪 场 战争
+OBJ_EVENT	目前 世界 上 有 最 大 地震 是 哪 一 次
+OBJ_FOOD	大头菜 又 称 什么
+OBJ_FOOD	俄罗斯 人 冬天 主食 是 什么
+OBJ_FOOD	什么 饮料 有 提神 作用
+OBJ_FOOD	世界 上 最 多 是 哪 一 种 饮料
+OBJ_FOOD	悉尼 奥运会 中国 代表团 指定 是 什么
+OBJ_FOOD	夏天 肯 基卖 最 好 饮料 是 什么
+OBJ_FOOD	中国 人 过年 最 喜欢
+OBJ_FOOD	白薯 又 叫 什么
+OBJ_FOOD	土豆 又 叫做 什么
+OBJ_FOOD	西红柿 别名 是 什么
+OBJ_FOOD	缺少 后 儿童 易 患 佝偻病 易 得
+OBJ_INSTRUMENT	人类 第一 次 登 上 乘坐 宇宙飞船 叫
+OBJ_INSTRUMENT	最 擅长 乐器 是 什么
+OBJ_INSTRUMENT	什么 工具 可以 把 钉 到
+OBJ_INSTRUMENT	有 乐器 王 称 乐器 是 什么
+OBJ_INSTRUMENT	标准 管弦乐队 由 组成
+OBJ_INSTRUMENT	第一 艘 成功 飞过 探测 船 叫 什么 名字
+OBJ_INSTRUMENT	中国 人 吃饭 一般 要 用
+OBJ_INSTRUMENT	最 快 交通 工具 是 什么
+OBJ_LANGUAGE	朱镕基 给 是 什么
+OBJ_LANGUAGE	蒙太奇 一 词 源于 哪 国 语言
+OBJ_LANGUAGE	席梦思 三 个 字 源于 什么 语言
+OBJ_LANGUAGE	澳大利亚 讲 什么 语
+OBJ_LANGUAGE	比利时 官方 语言 是 什么
+OBJ_LANGUAGE	古巴 官方 语言 是 什么 语
+OBJ_LANGUAGE	荷兰 人 说 什么 语言
+OBJ_LANGUAGE	加拿大 官方 语言 是 什么 语
+OBJ_LANGUAGE	世界 上 什么 语言 被 最 使用
+OBJ_LANGUAGE	最 多 语言 是 什么 语言
+OBJ_LANGUAGE	说 最 多
+OBJ_LANGUAGE	新加坡 官方 语言 是 什么
+OBJ_LANGUAGE	新西兰 人 讲 什么 语
+OBJ_LANGUAGE	意大利 民间 说 什么 语言
+OBJ_LANGUAGE	印度 官方 语言 是 什么 语
+OBJ_LANGUAGE	印度 母语 是 什么
+OBJ_LANGUAGE	智利 官方 语言 是 什么
+OBJ_LITERATURE	福克纳 写 过 什么 小说
+OBJ_LITERATURE	戊戌变法 运动 期间 创办 第一 份 报纸 是 什么 报
+OBJ_LITERATURE	列举 出 两 部 吴敬梓 著作
+OBJ_LITERATURE	列举 出 茅盾 农村 三部曲
+OBJ_LITERATURE	一千零一 夜 又 被 称为 什么
+OBJ_MATERIAL	炖 都 有 什么 原料
+OBJ_MATERIAL	花岗岩 属于 哪 一 类 岩石
+OBJ_MATERIAL	冲锋枪 是 用 做
+OBJ_MATERIAL	防水 雨衣 是 用 制成
+OBJ_MATERIAL	最 早 认识 并 金属 是 什么
+OBJ_MATERIAL	最低 金属 是 什么
+OBJ_MATERIAL	用 制作 馒头
+OBJ_OTHER	徐悲鸿 以 闻名 世界
+OBJ_OTHER	电脑 由 组装 成 的
+OBJ_OTHER	列举 出 中国 四 大 发明
+OBJ_OTHER	原子核 是 由 组成
+OBJ_OTHER	A 是 什么 单位
+OBJ_OTHER	华表 又 叫作 什么
+OBJ_OTHER	高斯 是 什么 物理 单位
+OBJ_OTHER	光年 是 什么 单位
+OBJ_OTHER	好望角 盛行 什么 风
+OBJ_OTHER	甲骨文 是 写
+OBJ_OTHER	诺贝尔 发明 了 什么
+OBJ_OTHER	欧姆 是 什么 单位
+OBJ_OTHER	帕斯卡 是 什么 单位
+OBJ_OTHER	最 大 瀑布 是 什么 瀑布
+OBJ_OTHER	凝 后 叫 什么
+OBJ_OTHER	微软 公司 主要 产品 是 什么
+OBJ_OTHER	信阳 特产 是 什么
+OBJ_OTHER	炸 配方 是 什么
+OBJ_OTHER	哪 种 液体 易 被 吸收
+OBJ_OTHER	最 需要 气体 是 什么
+OBJ_OTHER	酸雨 里 含有 什么 有毒 气体
+OBJ_OTHER	最 轻 气体 是 什么
+OBJ_PLAN	圣诞节 你 有 什么 计划
+OBJ_PLANT	百合 别名 是 什么
+OBJ_PLANT	核桃树 学名 是 什么
+OBJ_PLANT	北方 最 多 树 叫 什么 树
+OBJ_PLANT	最 常见 树 是 什么
+OBJ_PLANT	开封 市花 是 什么
+OBJ_PLANT	什么 花 象征 爱情
+OBJ_PLANT	什么 树 叶子 象针 一样
+OBJ_PLANT	什么 树 四季 常青
+OBJ_RELIGION	维吾尔族 人 信奉 什么 教
+OBJ_SERVICE	哪 次 车 经过 哈尔滨
+OBJ_SPORTS	李小龙 最 早 是 学
+OBJ_SPORTS	从事 是 什么 体育运动
+OBJ_SPORTS	现代 奥运会 产生 第一 个 冠军 项目 是 什么 项目
+OBJ_SPORTS	在 参加 最 是 什么
+OBJ_SUBSTANCE	大理石 是 由 构成
+OBJ_SUBSTANCE	巧克力 成分 有 哪些
+OBJ_SUBSTANCE	氧气 由 组成
+OBJ_SUBSTANCE	干冰 成分 是 什么
+OBJ_SUBSTANCE	坏血病 是 因 而 造成
+OBJ_SUBSTANCE	金属 中 最 坚硬 物质 是 什么
+OBJ_SUBSTANCE	热气球 里 需要 充入
+OBJ_SUBSTANCE	如果 发现 容易 断裂 说明
+OBJ_SUBSTANCE	沙林 毒气 主要 成分 是 什么
+OBJ_SUBSTANCE	塑料 主要 成分 是 什么
+OBJ_SUBSTANCE	所谓 液体 炸药 一般 是 什么 成分
+OBJ_SYMBOL	世界 自然 基金 组织 标志 是 什么
+OBJ_TERM	辐射 计量 单位 都 有 什么
+OBJ_TERM	测量 降水量 用 作为
+OBJ_TERM	磁通量 单位 是 什么
+OBJ_TERM	电阻 单位 是 什么
+OBJ_TERM	发电量 用 计数
+OBJ_TERM	辐射 计量 单位 是 什么
+OBJ_TERM	衡量 单位 是 什么
+OBJ_TITLE	成立 时 周恩来 任 什么 职务
+OBJ_VOCATION	计算机 可以 做 什么 工作
+OBJ_VOCATION	居里夫人 职业 是 什么
+OBJ_VOCATION	被 称作 是 什么
+OBJ_VOCATION	当前 最 爱 欢迎
+OBJ_VOCATION	给 治病 人 属于 什么 职业
+TIME_DAY	爱因斯坦 忌日 是 哪 一 天
+TIME_DAY	端午节 是 哪 天
+TIME_DAY	端午节 在 哪 一 天
+TIME_DAY	法国 国庆节 是 哪 天
+TIME_DAY	复活节 是 哪 天
+TIME_DAY	父亲节 是 每年 哪 一 天
+TIME_DAY	母亲节 是 哪 天
+TIME_DAY	慕尼黑队 成立 时间 是 哪 一 天
+TIME_DAY	哪 天 是 儿童节
+TIME_DAY	哪 天 是 情人节
+TIME_DAY	七夕节 是 在
+TIME_DAY	情人节 是 哪 天
+TIME_DAY	世界 环境日 为 每年 哪 一 天
+TIME_DAY	世界 水日 是 哪 一 天
+TIME_DAY	世界 癫痫日 是 哪 一 天
+TIME_DAY	太阳 在 离 地球 最 远
+TIME_DAY	愚人节 是 每年 几 号
+TIME_DAY	中 甲午战争 中 双方 正式 宣战 是 在
+TIME_ERA	电视 发明 于 多少 年代
+TIME_ERA	史记 作者 司马迁 是 哪个 朝代 人
+TIME_ERA	曹操 是 哪个 朝代
+TIME_ERA	第一 次 工业 革命 发生 在
+TIME_ERA	电子 计算机 诞生 在
+TIME_ERA	华夏 文明 始 于
+TIME_ERA	科举制 始 于
+TIME_ERA	克里奥佩特拉 是 哪个 王朝 君主
+TIME_ERA	哪个 世纪 被 称为 欧洲 黑暗 中世纪
+TIME_ERA	诗仙 李白 是 哪个 朝代
+TIME_ERA	太平天国 发生 在
+TIME_ERA	位于 十三陵 是 哪 朝 皇帝 陵墓
+TIME_ERA	文化大革命 发生 在
+TIME_ERA	文艺复兴 时期 在 什么 年代
+TIME_ERA	我国 科举 制度 始 于
+TIME_ERA	有声 电影 诞生 在
+TIME_ERA	岳飞 是 哪个 朝代 人
+TIME_ERA	云冈 石窟 创建 于
+TIME_ERA	在 哪个 朝代 女人 裹 小 脚
+TIME_ERA	在 什么 年代 中国 男人 是 扎辫子
+TIME_ERA	中国 哪个 朝代 疆 土 辽阔
+TIME_ERA	朱元璋 是 哪个 朝代
+TIME_ERA	朱元璋 是 哪个 朝代 皇帝
+TIME_ERA	孙子 兵法 成 书 于
+TIME_ERA	哪个 朝代 中国 水墨 写意 得以 迅速 发展
+TIME_HOLIDAY	在 5月份 第二 个 星期日 是 什么 节
+TIME_MONTH	被 称为 月份 是 几 月
+TIME_MONTH	湖北 梅雨 季节 在 哪个 月份
+TIME_MONTH	周恩来 是 哪个 月份 去世
+TIME_OTHER	开会 具体 时间 是 多少
+TIME_OTHER	朱元璋 年号 是 什么
+TIME_OTHER	白宫 是 何时 修建
+TIME_OTHER	波士顿 倾茶 事件 发生 在
+TIME_OTHER	第二 次 世界大战 无条件 投降 是 在
+TIME_OTHER	第五 届 奥运会 是 在 闭幕
+TIME_OTHER	第一 次 鸦片战争 发生 在
+TIME_OTHER	第一 届 现代 奥林匹克 运动会 什么 时候 开始 的
+TIME_OTHER	第一 颗 原子弹 是 什么 时候 爆炸
+TIME_OTHER	第一 位 非碘 病例 是 出现
+TIME_OTHER	电影 是 进入
+TIME_OTHER	东条英机 是 什么 时候 被 执行
+TIME_OTHER	反 法西斯 同盟 是 什么 时候 成立
+TIME_OTHER	国际 奥委会 是 什么 时候 成立
+TIME_OTHER	哈工大 是 什么 时候 建校
+TIME_OTHER	计算机 是 什么 时候 诞生
+TIME_OTHER	联合国 教育 是 什么 时间 成立
+TIME_OTHER	联合国 是 什么 时候 成立
+TIME_OTHER	迈克尔·乔丹 是 什么 时间 出生
+TIME_OTHER	统一 是 在
+TIME_OTHER	清朝 什么 时候 灭亡 的
+TIME_OTHER	请问 是 在
+TIME_OTHER	人类 什么 时候 登 上
+TIME_OTHER	人类 首 次 登月 是 在
+TIME_OTHER	人们 什么 时候 发现 原子核 反应
+TIME_OTHER	什么 时候 出生 人 属于 山羊座
+TIME_OTHER	什么 时候 发现 首 例 非 典型性 肺炎
+TIME_OTHER	什么 时候 喝 汤 容易 发胖
+TIME_OTHER	世界 七大 奇迹 之一 摩索拉斯 陵墓 是 什么 时候 建造
+TIME_OTHER	首 例 艾滋病 是 什么 时候 发现
+TIME_OTHER	文化大革命 是 什么 时候 发生
+TIME_OTHER	我国 第一 颗 人造卫星 是 什么 时候 发射
+TIME_OTHER	我国 是 什么 时候 采用
+TIME_OTHER	香港 是 什么 时候 回归
+TIME_OTHER	结束 是 什么 时候
+TIME_OTHER	有声 电影 何时 问世
+TIME_OTHER	中国 第一 枚 原子弹 是 在 试
+TIME_OTHER	中国 历史 上 第一 次 农民 起义 发生 在
+TIME_OTHER	中国 是 什么 时候 建国
+TIME_OTHER	中华人民共和国 什么 时候 成立 的
+TIME_OTHER	朱镕基 是 什么 时候 任
+TIME_RANGE	第一 次 海湾 战争 起止 时间 分别 是 什么
+TIME_RANGE	中国 共产党 第一 次 代表大会 是 在 召开
+TIME_RANGE	二 次 世界大战 从 开始 到 哪 一 年 结束 的
+TIME_RANGE	中 甲午战争 是 哪 年 开始 到 哪 年
+TIME_SEASON	春季 过后 是 什么 季节
+TIME_SEASON	花 开 在
+TIME_SEASON	哪个 季节 北京 沙尘暴 最 多
+TIME_SEASON	什么 季节 是 收获 季节
+TIME_SOLARTERM	打春 是 我国 二十四 节气 中 哪个 节气
+TIME_SOLARTERM	哪个 节气 是 反映
+TIME_SOLARTERM	7月 20 号 是 什么 节气
+TIME_SOLARTERM	二十四 节气 是 什么
+TIME_WEEK	耶稣 受难日 是 星期几
+TIME_WEEK	法定 休息日 是 星期几
+TIME_WEEK	国家 法定 休息日 是 星期几
+TIME_WEEK	人们 在 星期 几 做 礼拜
+TIME_YEAR	世界 第一 台 红宝石 激光器 哪 年 问世
+TIME_YEAR	ARPAnet 诞生 于
+TIME_YEAR	DNA 双螺旋 结构 在 提出
+TIME_YEAR	珍珠港 事件 发生 在
+TIME_YEAR	爱因斯坦 去世 于
+TIME_YEAR	奥运会 首 次 在 举办 是 哪 一 年
+TIME_YEAR	巴拿马 运河 在 开始 建造
+TIME_YEAR	登陆 时间 是 哪 一 年
+TIME_YEAR	曹操 生于 哪 一 年
+TIME_YEAR	成吉思汗 病逝 于
+TIME_YEAR	达芬奇 是 哪 一 年 出生
+TIME_YEAR	第三 国际 建立 于
+TIME_YEAR	第一 次 奥林匹克 运动会 是 哪 一 年 举行
+TIME_YEAR	第一 届 欧洲 足球 锦标赛 是 在 举办
+TIME_YEAR	第一 届 世界杯 足球赛 在 举行
+TIME_YEAR	第一 台 计算机 是 哪 年 问世
+TIME_YEAR	第一 台 计算机 是 哪 年 问世
+TIME_YEAR	建筑 行业 中 鲁班奖 是 于 创建
+TIME_YEAR	诞生 是 在
+TIME_YEAR	抗日战争 时期 著名 百团大战 是 发生
+TIME_YEAR	科举 制度 是 在 被 废除
+TIME_YEAR	隆美尔 死 于
+TIME_YEAR	罗荣桓 是 哪 一 年 加入
+TIME_YEAR	麦当劳 是 哪 一 年 进入
+TIME_YEAR	发表 是 在
+TIME_YEAR	摩托罗拉 公司 成立 于
+TIME_YEAR	拿破仑 百日 王朝 哪 一 年 建立
+TIME_YEAR	拿破仑 死 于
+TIME_YEAR	拿破仑 在 颁布 了 拿破仑 法典
+TIME_YEAR	哪 一 年 Internet 网 延伸 至
+TIME_YEAR	哪 一 年 迈克·舒马赫 在 发生 严重 车祸
+TIME_YEAR	诺基亚 公司 成立 于
+TIME_YEAR	第一 次 登 是 哪 一 年
+TIME_YEAR	人类 第一 次 发现 是
+TIME_YEAR	人类 有史以来 第一 次 登月 是 在
+TIME_YEAR	萨马兰奇 哪 一 年 开始 当选
+TIME_YEAR	世界 第一 架 航天飞机 试航 是 在
+TIME_YEAR	世界 上 第一 部 双向 对讲机 产生 于
+TIME_YEAR	世界 上 第一 例 试管婴儿 哪 一 年 出生
+TIME_YEAR	我国 著作权法 是 从 开始
+TIME_YEAR	和平 解放 是 在
+TIME_YEAR	我军 是 从 开始 实行
+TIME_YEAR	谢军 在 战胜 了 第一 次 获得
+TIME_YEAR	新 中国 第一 部 律师法 于 开始 施行
+TIME_YEAR	在 叶剑英 被 授予 元帅 军衔
+TIME_YEAR	获得 是 在
+TIME_YEAR	中国 第一 颗 氢弹 是 在 研制
+TIME_YEAR	中国 第一 颗 原子弹 是 在 研制
+TIME_YEAR	中华人民共和国 哪 一 年 成立
+UNKNOWN_	直升 飞机 是 靠 转弯
+UNKNOWN_	薄公英 靠 传播 种子
+UNKNOWN_	树木 主要 靠 减弱
