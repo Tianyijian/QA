@@ -5,6 +5,7 @@ from whoosh.qparser import QueryParser
 from whoosh.analysis import KeywordAnalyzer
 from whoosh.qparser import syntax
 import numpy as np
+import jieba
 import json
 import os
 import time
@@ -21,7 +22,7 @@ segmentor.load(cws_model_path)  # 加载模型
 
 def ltp_seg():
     """
-    使用LTP 对json文件中的标题和正文进行分词
+    使用LTP 对json文件中的正文进行分词
     :return:
     """
     LTP_DATA_DIR = 'D:\BaiduNetdiskDownload\ltp_data_v3.4.0'  # ltp模型目录的路径
@@ -31,7 +32,6 @@ def ltp_seg():
     segmentor = Segmentor()  # 初始化实例
     segmentor.load(cws_model_path)  # 加载模型
     # 读入json文件
-    read_results = []
     with open(const.passages_data, encoding='utf-8') as fin:
         read_results = [json.loads(line.strip()) for line in fin.readlines()]
     # 对正文进行分词
@@ -54,6 +54,24 @@ def ltp_seg_sent(sent):
     """
     words = segmentor.segment(sent)
     return ' '.join(words)
+
+
+def jie_ba_seg():
+    """使用jie ba 对正文进行分词"""
+    # 读入json文件
+    with open(const.passages_data, encoding='utf-8') as fin:
+        read_results = [json.loads(line.strip()) for line in fin.readlines()]
+    # 对正文进行分词
+    start = time.time()
+    for res in read_results:
+        res['document'] = [' '.join(jieba.cut(sent)) for sent in res['document']]
+    end = time.time()
+    # 写回json文件
+    with open(const.passages_seg, 'w', encoding='utf-8') as fout:
+        for sample in read_results:
+            fout.write(json.dumps(sample, ensure_ascii=False) + '\n')
+    segmentor.release()  # 释放模型
+    print("JieBa seg done, use time: {}s".format(end - start))  # JieBa seg done, use time: 65.84215712547302s
 
 
 def create_index():
@@ -103,7 +121,8 @@ def train_test():
         # for item in items[0:500]:
         for item in items:
             pid_label.append(item['pid'])
-            q = ltp_seg_sent(item['question'])
+            # q = ltp_seg_sent(item['question'])
+            q = ' '.join(jieba.cut(item['question']))
             # print(q)
             results = searcher.search(parser.parse(q))
             if len(results) > 0:
@@ -143,6 +162,7 @@ def eval(label, pre):
 
 if __name__ == '__main__':
     # ltp_seg()
+    # jie_ba_seg()
     # create_index()
     # search()
     train_test()
