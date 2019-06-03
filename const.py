@@ -2,7 +2,12 @@ import logging
 
 logging = logging
 LOG_FORMAT = "%(asctime)s - %(levelname)s - %(message)s"
-logging.basicConfig(filename='./result/log.txt', level=logging.DEBUG, format=LOG_FORMAT)
+# logging.basicConfig(filename='./result/log.txt', level=logging.DEBUG, format=LOG_FORMAT)
+logging.basicConfig(level=logging.DEBUG, format=LOG_FORMAT)
+
+# w2v
+# model_file = '/home/syq/tyj/Test/sgns.baidubaike.bigram-char/sgns.baidubaike.bigram-char'
+model_file = 'D:\BaiduNetdiskDownload\sgns.baidubaike.bigram-char\sgns.baidubaike.bigram-char'
 
 # 原始数据
 passages_data = 'data/passages_multi_sentences.json'
@@ -30,6 +35,12 @@ qc_test_rough_res = 'question_classification/test_rough_res.txt'
 qc_train_fine_res = 'question_classification/train_fine_res.txt'
 qc_test_fine_res = 'question_classification/test_fine_res.txt'
 
+ass_train_data = 'answer_sentence_selection/ass_train.txt'
+ass_dev_data = 'answer_sentence_selection/ass_dev.txt'
+ass_stop_words = 'answer_sentence_selection/stopwords(new).txt'
+ass_prediction = 'C:/Users/26241/Desktop/svm_rank_windows/answer_sentence_selection/predictions'
+ass_feature = 'answer_sentence_selection/ass_feature.txt'
+ass_sent = 'answer_sentence_selection/ass_sent.txt'
 
 # 生成数据
 passages_seg = 'result/passages_seg.json'

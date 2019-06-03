@@ -1,4 +1,5 @@
-Whoosh==2.7.4
 numpy==1.15.4
+jieba==0.39
+Whoosh==2.7.4
 pyltp==0.2.1
-scikit_learn==0.21.1
+scikit_learn==0.21.2
