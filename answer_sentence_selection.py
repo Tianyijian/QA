@@ -120,8 +120,8 @@ def gen_data_feature():
             data.clear()
             data_qid.clear()
         feature_array = feature_mat[k]
-        # feature = ["{}:{}".format(j - 3, feature_array[j]) for j in range(4, len(feature_array))]
-        feature = ["{}:{}".format(1, feature_array[8])]
+        feature = ["{}:{}".format(j + 1, feature_array[j]) for j in range(0, len(feature_array))]
+        # feature = ["{}:{}".format(1, feature_array[8])]
         data.append("{} qid:{} {}\n".format(item['label'], item['qid'], ' '.join(feature)))
         data_qid.append(item['qid'])
     # 写入开发集
@@ -297,7 +297,7 @@ def calc_mrr():
             # print(i)
             p = np.argsort(-predictions[q_s:i]) + q_s
             for k in range(len(p)):
-                if dev[p[k]][1] == 3:
+                if dev[p[k]][1] == 1:
                     question_with_answer += 1
                     if k == 0:
                         prefect_correct += 1
@@ -309,7 +309,7 @@ def calc_mrr():
             question_num += 1
     p = np.argsort(-predictions[q_s:]) + q_s
     for k in range(len(p)):
-        if dev[p[k]][1] == 3:
+        if dev[p[k]][1] == 1:
             question_with_answer += 1
             if k == 0:
                 prefect_correct += 1
@@ -334,9 +334,98 @@ def test():
     print(' '.join(feature))
 
 
+def build__test_feature():
+    """ 建立测试文件的特征文件
+    q:500, s:33530, avg(s/q):67.06, vocab:70797
+    """
+    # 读取test json文件
+    with open(const.test_search_res, 'r', encoding='utf-8') as fin:
+        items = [json.loads(line.strip()) for line in fin.readlines()]
+    # 读入passage json文件
+    passage = {}
+    with open(const.passages_seg, encoding='utf-8') as fin:
+        for line in fin.readlines():
+            read = json.loads(line.strip())
+            passage[read['pid']] = read['document']
+    answer_pid = []
+    for item in items:
+        # if len(item['answer_pid']) == 2:
+        #     print(item['qid'])
+        for pid in item['answer_pid']:
+            answer_pid.append(pid)
+    print(len(answer_pid))
+    # 建立词典
+    sents = []
+    for pid in answer_pid:
+        sents += passage[pid]
+    cv = CountVectorizer(token_pattern=r"(?u)\b\w+\b")
+    cv.fit(sents)
+    tv = TfidfVectorizer(token_pattern=r"(?u)\b\w+\b")
+    tv.fit(sents)
+    print("q:{}, s:{}, avg(s/q):{}, vocab:{}".format(len(items), len(sents), float(len(sents)) / len(items),
+                                                     len(tv.vocabulary_.items())))
+    # 读取词向量
+    model = gensim.models.KeyedVectors.load_word2vec_format(const.model_file, binary=False, limit=100)
+    # 建立特征矩阵
+    feature = []
+    sents_json = []
+    for k in range(len(items)):
+        item = items[k]
+        for pid in item['answer_pid']:
+            for sent in passage[pid]:
+                # print(sent)
+                feature_array = extract_feature(item['question'], sent, cv, tv, model)
+                feature.append(' '.join([str(attr) for attr in feature_array]) + '\n')
+                sen = {}
+                sen['label'] = 0
+                sen['qid'] = item['qid']
+                sen['question'] = item['question']
+                sen['answer'] = sent
+                sents_json.append(sen)
+    # 特征写入文件
+    with open(const.ass_test_feature, 'w', encoding='utf-8') as f:
+        f.writelines(feature)
+    # 句子写入文件
+    with open(const.ass_test_sent, 'w', encoding='utf-8') as fout:
+        for sample in sents_json:
+            fout.write(json.dumps(sample, ensure_ascii=False) + '\n')
+
+
+def gen_test_data():
+    """生成测试数据
+    test 500
+    """
+    # 读取sent json文件
+    with open(const.ass_test_sent, 'r', encoding='utf-8') as fin:
+        items = [json.loads(line.strip()) for line in fin.readlines()]
+    # 读取特征文件
+    with open(const.ass_test_feature, 'r', encoding='utf-8') as f:
+        feature_mat = [line.strip().split(' ') for line in f.readlines()]
+    print(len(items))
+    print(len(feature_mat))
+    data = []
+    data_qid = []
+    qid_set = set()
+    for k in range(len(items)):
+        item = items[k]
+        qid_set.add(item['qid'])
+        feature_array = feature_mat[k]
+        feature = ["{}:{}".format(j + 1, feature_array[j]) for j in range(0, len(feature_array))]
+        # feature = ["{}:{}".format(1, feature_array[8])]
+        data.append("{} qid:{} {}\n".format(item['label'], item['qid'], ' '.join(feature)))
+        data_qid.append(item['qid'])
+    # 写入开发集
+    sort_index = np.argsort(data_qid)
+    with open(const.ass_test_data, 'w', encoding='utf-8') as f:
+        for j in range(len(sort_index)):
+            f.write(data[sort_index[j]])
+
+
 if __name__ == '__main__':
     # gen_data()
     # test()
     calc_mrr()
     # build_feature()
     # gen_data_feature()
+    # build__test_feature()
+    # gen_test_data()

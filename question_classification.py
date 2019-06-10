@@ -5,6 +5,7 @@ from sklearn.svm import SVC
 from sklearn.linear_model import LogisticRegression
 from sklearn.naive_bayes import MultinomialNB
 from sklearn.model_selection import GridSearchCV
+from sklearn.externals import joblib
 import jieba
 import const
 import os
@@ -310,6 +311,8 @@ def train_svm_fine():
     # clf = SVC(decision_function_shape='ovo')
     clf = SVC(C=100.0, gamma=0.01)
     clf.fit(train_data, y_train)
+    # 保存模型
+    joblib.dump(clf, const.qc_model_fine)
     test_res = clf.predict(test_data)
     # 将预测结果写入文件
     with open(const.qc_test_fine_res, 'w', encoding='utf-8') as f:
@@ -324,11 +327,14 @@ def train_svm_rough():
     # tv = CountVectorizer(token_pattern=r"(?u)\b\w+\b")
     train_data = tv.fit_transform(x_train)
     test_data = tv.transform(x_test)
-
+    # 保存tv 模型
+    joblib.dump(tv, const.tv_model)
     # clf = SVC(decision_function_shape='ovo')
     # clf = SVC(C=100.0, kernel='linear')
     clf = SVC(C=100.0, gamma=0.1)
     clf.fit(train_data, y_train)
+    # 保存模型
+    joblib.dump(clf, const.qc_model_rough)
     test_res = clf.predict(test_data)
     # 将预测结果写入文件
     with open(const.qc_test_rough_res, 'w', encoding='utf-8') as f:
@@ -379,7 +385,7 @@ if __name__ == '__main__':
     # ltp_pos_data()
     # ltp_ner_data()
     # ltp_remove_stop_words()
-    ltp_parser_data()
+    # ltp_parser_data()
     # ltp_parser_data_test()
     # jie_ba_seg()
     # train_nb()
