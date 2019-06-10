@@ -1,3 +1,6 @@
+"""
+常量类，便于全局的使用和管理
+"""
 import logging
 
 logging = logging
@@ -13,6 +16,7 @@ model_file = 'D:\BaiduNetdiskDownload\sgns.baidubaike.bigram-char\sgns.baidubaik
 passages_data = 'data/passages_multi_sentences.json'
 test_data = 'data/test.json'
 train_data = 'data/train.json'
+stop_words_new = 'data/stopwords(new).txt'
 stop_words = 'question_classification/stopwords.txt'
 qc_train_data = 'question_classification/train_questions.txt'
 qc_test_data = 'question_classification/test_questions.txt'
