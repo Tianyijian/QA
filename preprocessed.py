@@ -59,8 +59,9 @@ def ltp_seg_sent(sent):
 
 def jie_ba_seg():
     """使用jie ba 对正文进行分词"""
-    # 读取通用词
+    # 读取停用词
     stop_words = read_stop_word()
+    # stop_words = set()
     # 读入json文件
     with open(const.passages_data, encoding='utf-8') as fin:
         read_results = [json.loads(line.strip()) for line in fin.readlines()]
@@ -261,8 +262,8 @@ def eval(label, pre):
 
 if __name__ == '__main__':
     # ltp_seg()
-    # jie_ba_seg()
+    jie_ba_seg()
     # create_index()
     # search()
     # train_test()
-    train_test_bm25()
+    # train_test_bm25()
