@@ -192,7 +192,7 @@ def ltp_parser_data_test():
     parser.release()  # 释放模型
 
 
-def ltp_remove_stop_words():
+def remove_stop_words():
     """去除停用词"""
     with open(const.stop_words, 'r', encoding='utf-8') as f:
         stop_words = [word.strip() for word in f.readlines()]
@@ -231,7 +231,7 @@ def load_data(size='fine'):
     y_train = []
     x_test = []
     y_test = []
-    with open(const.qc_train_seg, 'r', encoding='utf-8') as f:
+    with open(const.qc_train_seg_jie_ba, 'r', encoding='utf-8') as f:
         for line in f.readlines():
             attr = line.strip().split('\t')
             x_train.append(attr[1])
@@ -239,7 +239,7 @@ def load_data(size='fine'):
                 y_train.append(attr[0].split('_')[0])
             else:
                 y_train.append(attr[0])
-    with open(const.qc_test_seg, 'r', encoding='utf-8') as f:
+    with open(const.qc_test_seg_jie_ba, 'r', encoding='utf-8') as f:
         for line in f.readlines():
             attr = line.strip().split('\t')
             x_test.append(attr[1])
@@ -356,10 +356,10 @@ def choose_svm():
             'gamma': ['scale', 0.001, 0.002, 0.01, 0.02, 0.1, 1],
             'kernel': ['rbf']
         },
-        # {
-        #     'C': [1, 10, 50, 100, 500, 1000],
-        #     'kernel': ['linear']
-        # }
+        {
+            'C': [1, 10, 50, 100, 500, 1000],
+            'kernel': ['linear']
+        }
     ]
     x_train, y_train, x_test, y_test = load_data(size='rough')
     # x_train, y_train, x_test, y_test = load_data()
@@ -384,12 +384,12 @@ if __name__ == '__main__':
     # ltp_seg_data()
     # ltp_pos_data()
     # ltp_ner_data()
-    # ltp_remove_stop_words()
+    # remove_stop_words()
     # ltp_parser_data()
     # ltp_parser_data_test()
     # jie_ba_seg()
-    # train_nb()
-    # train_lr()
+    train_nb()
+    train_lr()
     train_svm_fine()
     train_svm_rough()
     # choose_svm()

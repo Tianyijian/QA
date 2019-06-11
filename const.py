@@ -9,12 +9,12 @@ LOG_FORMAT = "%(asctime)s - %(levelname)s - %(message)s"
 logging.basicConfig(level=logging.DEBUG, format=LOG_FORMAT)
 
 # w2v
-model_file = '/home/syq/tyj/Test/sgns.baidubaike.bigram-char/sgns.baidubaike.bigram-char'
-# model_file = 'D:\BaiduNetdiskDownload\sgns.baidubaike.bigram-char\sgns.baidubaike.bigram-char'
+# model_file = '/home/syq/tyj/Test/sgns.baidubaike.bigram-char/sgns.baidubaike.bigram-char'
+model_file = 'D:\BaiduNetdiskDownload\sgns.baidubaike.bigram-char\sgns.baidubaike.bigram-char'
 
 # 原始数据
 passages_data = 'data/passages_multi_sentences.json'
-test_data = 'data/test.json'
+test_data = 'data/new_test.json'
 train_data = 'data/train.json'
 stop_words_new = 'data/stopwords(new).txt'
 stop_words = 'question_classification/stopwords.txt'
@@ -48,6 +48,7 @@ ass_sent = 'answer_sentence_selection/ass_sent.txt'
 ass_feature = 'answer_sentence_selection/ass_feature.txt'
 ass_test_data = 'answer_sentence_selection/ass_test.txt'
 ass_prediction = 'C:/Users/26241/Desktop/svm_rank_windows/answer_sentence_selection/predictions'
+ass_test_pre = 'answer_sentence_selection/test_predictions'
 ass_test_feature = 'answer_sentence_selection/ass_test_feature.txt'
 ass_test_sent = 'answer_sentence_selection/ass_test_sent.txt'
 ass_bm25_pre = 'answer_sentence_selection/ass_bm25_pre.txt'
@@ -61,3 +62,5 @@ index_dir = 'result/index'
 index_name = 'index_file'
 log_file = 'result/log.txt'
 test_search_res = 'result/test_res/test_search_res.json'
+test_ass = 'result/test_res/test_ass.json'
+test_answer = 'result/test_res/test_answer.json'

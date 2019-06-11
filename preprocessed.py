@@ -260,10 +260,47 @@ def eval(label, pre):
         "Total:{}, rr:{}, rr_rn:{}, rr_nr:{}, P:{}, R:{}, F1:{}".format(len(label), rr, rr_rn, rr_nr, p, r, f))
 
 
+def test_search():
+    """对 test.json 文件进行搜索，获得answer_pid"""
+    # 读取停用词
+    stop_words = read_stop_word()
+    # 读取json文件
+    with open(const.test_data, 'r', encoding='utf-8') as fin:
+        items = [json.loads(line.strip()) for line in fin.readlines()]
+    # 打开索引文件
+    index = open_dir(const.index_dir, indexname=const.index_name)
+    start = time.time()
+    with index.searcher() as searcher:
+        # 采用Or操作
+        parser = QueryParser("passage", index.schema, group=syntax.OrGroup)
+        res = []
+        i = 0
+        for item in items:
+            # q = ltp_seg_sent(item['question'])
+            # q = ' '.join(jieba.cut(item['question']))
+            q = ' '.join(word for word in jieba.cut(item['question']) if word not in stop_words)
+            # print(q)
+            results = searcher.search(parser.parse(q))
+            if len(results) > 0:
+                item['answer_pid'] = [int(res['id']) for res in results[0:3]]
+                # pid_pre.append([int(results[0]['id'])])
+            else:
+                item['answer_pid'] = []
+            i += 1
+            res.append(item)
+    end = time.time()
+    print("Search {}, use time {}s".format(i, end - start))
+    # 写回json文件
+    with open(const.test_search_res, 'w', encoding='utf-8') as fout:
+        for sample in res:
+            fout.write(json.dumps(sample, ensure_ascii=False) + '\n')
+
+
 if __name__ == '__main__':
     # ltp_seg()
-    jie_ba_seg()
+    # jie_ba_seg()
     # create_index()
     # search()
     # train_test()
     # train_test_bm25()
+    test_search()

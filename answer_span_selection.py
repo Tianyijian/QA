@@ -7,9 +7,8 @@ import os
 import numpy as np
 
 
-
 def train_test():
-    """使用 LTP 进行词性标注"""
+    """对训练集进行答案提取 测试性能"""
     LTP_DATA_DIR = 'D:\BaiduNetdiskDownload\ltp_data_v3.4.0'  # ltp模型目录的路径
 
     pos_model_path = os.path.join(LTP_DATA_DIR, 'pos.model')  # 词性标注模型路径，模型名称为`pos.model`
@@ -50,9 +49,12 @@ def train_test():
         # print([word for word in ans_words])
         words_pos = postagger.postag(ans_words)
         # print([pos for pos in words_pos])
-        arcs = parser.parse(ans_words, words_pos)  # 句法分析
+        # arcs = parser.parse(ans_words, words_pos)  # 句法分析
         if '：' in ans_sent:
-            item['answer'] = ''.join(ans_sent.split('：')[1:])
+            # item['answer'] = ''.join(ans_sent.split('：')[1:])
+            item['answer'] = ans_sent.split('：')[1]
+        elif ':' in ans_sent:
+            item['answer'] = ans_sent.split(':')[1]
         elif label == 'HUM':  # 人物
             item['answer'] = extract_by_pos(q_words, ans_words, words_pos, ['nh', 'ni'])
         elif label == 'LOC':
@@ -61,13 +63,13 @@ def train_test():
             item['answer'] = extract_by_pos(q_words, ans_words, words_pos, ['m'])
         elif label == 'TIME':
             item['answer'] = extract_by_pos(q_words, ans_words, words_pos, ['nt'])
-        elif label == 'OBJ':
-            item['answer'] = extract_by_pos(q_words, ans_words, words_pos, ['n'])
-        elif label == 'DES':
-            item['answer'] = extract_by_pos(q_words, ans_words, words_pos, ['j'])
+        # elif label == 'OBJ':
+        #     item['answer'] = extract_by_pos(q_words, ans_words, words_pos, ['n'])
+        # elif label == 'DES':
+        #     item['answer'] = extract_by_pos(q_words, ans_words, words_pos, ['j'])
         else:
-            # item['answer'] = ''.join(ans_words)
-            item['answer'] = ''
+            item['answer'] = ''.join(ans_words)
+            # item['answer'] = ''
         res.append(item)
         if item['answer'] == '':
             none_cnt += 1
@@ -78,7 +80,7 @@ def train_test():
         tmp['true'] = ans
         tmp['s'] = ' '.join(ans_words)
         tmp['pos'] = [pos for pos in words_pos]
-        tmp['arcs'] = " ".join("%d:%s" % (arc.head, arc.relation) for arc in arcs)
+        # tmp['arcs'] = " ".join("%d:%s" % (arc.head, arc.relation) for arc in arcs)
         train_diff_res.append((label, tmp))
         # print(tmp)
     print("none_cnt: {}".format(none_cnt))
@@ -90,13 +92,14 @@ def train_test():
         for sample in res:
             fout.write(json.dumps(sample, ensure_ascii=False) + '\n')
     # 写中间结果文件
-    train_diff_res.sort(key=lambda item:item[0])
+    train_diff_res.sort(key=lambda item: item[0])
     with open(const.aps_train_diff, 'w', encoding='utf-8') as f:
         for i in range(len(train_diff_res)):
-            f.write(json.dumps(train_diff_res[i][1], ensure_ascii=False)+'\n')
+            f.write(json.dumps(train_diff_res[i][1], ensure_ascii=False) + '\n')
 
-
+#
 # def extract_by_pos(q_words, words, words_pos, pos):
+#     """ 尝试计算每个候选词与问句词之间的距离，返回最短距离的词"""
 #     res = []
 #     for i in range(len(words_pos)):
 #         if words_pos[i] in pos:
@@ -121,7 +124,9 @@ def train_test():
 #     else:
 #         return ''.join(res)
 
+
 def extract_by_pos(q_words, words, words_pos, pos):
+    """抽取某个词性的词"""
     res = []
     for i in range(len(words_pos)):
         if words_pos[i] in pos:
@@ -129,11 +134,11 @@ def extract_by_pos(q_words, words, words_pos, pos):
     if len(res):
         return ''.join(res)
     else:
-        return ''
-
+        return ''.join(words)
 
 
 def eval():
+    """评估"""
     # 读取json文件
     with open(const.train_data, 'r', encoding='utf-8') as fin:
         train_data = [json.loads(line.strip()) for line in fin.readlines()]
@@ -161,6 +166,78 @@ def eval():
     print("bleu1:{}, em:{}, p:{}, r:{}, f1:{}".format(bleu / cnt, em, p / cnt, r / cnt, f1 / cnt))
 
 
+def test_aps():
+    """ 对测试文件进行答案抽取 """
+    LTP_DATA_DIR = 'D:\BaiduNetdiskDownload\ltp_data_v3.4.0'  # ltp模型目录的路径
+
+    pos_model_path = os.path.join(LTP_DATA_DIR, 'pos.model')  # 词性标注模型路径，模型名称为`pos.model`
+    from pyltp import Postagger
+    postagger = Postagger()  # 初始化实例
+    postagger.load(pos_model_path)  # 加载模型
+
+    cws_model_path = os.path.join(LTP_DATA_DIR, 'cws.model')  # 分词模型路径，模型名称为`cws.model`
+    from pyltp import Segmentor
+    segmentor = Segmentor()  # 初始化实例
+    segmentor.load(cws_model_path)  # 加载模型
+
+    par_model_path = os.path.join(LTP_DATA_DIR, 'parser.model')  # 依存句法分析模型路径，模型名称为`parser.model`
+    from pyltp import Parser
+    parser = Parser()  # 初始化实例
+    parser.load(par_model_path)  # 加载模型
+
+    clf = joblib.load(const.qc_model_rough)
+    tv = joblib.load(const.tv_model)
+    # 读取sent json文件
+    with open(const.test_ass, 'r', encoding='utf-8') as fin:
+        items = [json.loads(line.strip()) for line in fin.readlines()]
+    res = []
+    none_cnt = 0
+    for item in items:
+        if len(item['answer_sentence']) == 0:
+            del item['answer_pid']
+            del item['answer_sentence']
+            item['answer'] = ''
+            res.append(item)
+            continue
+        sent = ' '.join(jieba.cut(item['question']))
+        test_data = tv.transform([sent])
+        label = clf.predict(test_data)[0]
+        ans_sent = item['answer_sentence'][0]
+        q_words = [word for word in segmentor.segment(item['question'])]
+        ans_words = [word for word in segmentor.segment(ans_sent)]
+        words_pos = postagger.postag(ans_words)
+        if '：' in ans_sent:
+            # item['answer'] = ''.join(ans_sent.split('：')[1:])
+            item['answer'] = ans_sent.split('：')[1]
+        elif ':' in ans_sent:
+            item['answer'] = ans_sent.split(':')[1]
+        elif label == 'HUM':  # 人物
+            item['answer'] = extract_by_pos(q_words, ans_words, words_pos, ['nh', 'ni'])
+        elif label == 'LOC':
+            item['answer'] = extract_by_pos(q_words, ans_words, words_pos, ['nl', 'ns'])
+        elif label == 'NUM':
+            item['answer'] = extract_by_pos(q_words, ans_words, words_pos, ['m'])
+        elif label == 'TIME':
+            item['answer'] = extract_by_pos(q_words, ans_words, words_pos, ['nt'])
+        # elif label == 'OBJ':
+        #     item['answer'] = extract_by_pos(q_words, ans_words, words_pos, ['n'])
+        # elif label == 'DES':
+        #     item['answer'] = extract_by_pos(q_words, ans_words, words_pos, ['j'])
+        else:
+            item['answer'] = ''.join(ans_words)
+            # item['answer'] = ''
+        del item['answer_pid']
+        del item['answer_sentence']
+        res.append(item)
+        if item['answer'] == '':
+            none_cnt += 1
+    # 写回文件
+    with open(const.test_answer, 'w', encoding='utf-8') as fout:
+        for sample in res:
+            fout.write(json.dumps(sample, ensure_ascii=False) + '\n')
+
+
 if __name__ == '__main__':
     train_test()
     eval()
+    # test_aps()

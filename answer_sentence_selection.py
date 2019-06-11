@@ -13,7 +13,7 @@ import gensim
 
 def gen_data_feature():
     """生成 SVM Rank 格式的训练和测试数据
-    train:4353 dev:1087
+    train:4281 dev:1071
     """
     # 读取sent json文件
     with open(const.ass_sent, 'r', encoding='utf-8') as fin:
@@ -80,7 +80,7 @@ def build_feature():
     feature = []
     sents_json = []
     for k in range(len(items)):
-    # for k in range(100):
+        # for k in range(100):
         item = items[k]
 
         # 建立词袋模型
@@ -248,54 +248,65 @@ def test():
     print(' '.join(feature))
 
 
-def build__test_feature():
+def build_test_feature():
     """ 建立测试文件的特征文件
     q:500, s:33530, avg(s/q):67.06, vocab:70797
     """
     # 读取test json文件
     with open(const.test_search_res, 'r', encoding='utf-8') as fin:
         items = [json.loads(line.strip()) for line in fin.readlines()]
+    items.sort(key=lambda item: item['qid'])  # 按qid升序排序
+
     # 读入passage json文件
     passage = {}
     with open(const.passages_seg, encoding='utf-8') as fin:
         for line in fin.readlines():
             read = json.loads(line.strip())
             passage[read['pid']] = read['document']
-    answer_pid = []
-    for item in items:
-        # if len(item['answer_pid']) == 2:
-        #     print(item['qid'])
-        for pid in item['answer_pid']:
-            answer_pid.append(pid)
-    print(len(answer_pid))
-    # 建立词典
-    sents = []
-    for pid in answer_pid:
-        sents += passage[pid]
-    cv = CountVectorizer(token_pattern=r"(?u)\b\w+\b")
-    cv.fit(sents)
-    tv = TfidfVectorizer(token_pattern=r"(?u)\b\w+\b")
-    tv.fit(sents)
-    print("q:{}, s:{}, avg(s/q):{}, vocab:{}".format(len(items), len(sents), float(len(sents)) / len(items),
-                                                     len(tv.vocabulary_.items())))
+
     # 读取词向量
     model = gensim.models.KeyedVectors.load_word2vec_format(const.model_file, binary=False, limit=100)
     # 建立特征矩阵
     feature = []
     sents_json = []
     for k in range(len(items)):
+        # for k in range(10):
         item = items[k]
+
+        sents = []
+        corpus = []
         for pid in item['answer_pid']:
+            sents += passage[pid]
             for sent in passage[pid]:
-                # print(sent)
-                feature_array = extract_feature(item['question'], sent, cv, tv, model)
-                feature.append(' '.join([str(attr) for attr in feature_array]) + '\n')
-                sen = {}
-                sen['label'] = 0
-                sen['qid'] = item['qid']
-                sen['question'] = item['question']
-                sen['answer'] = sent
-                sents_json.append(sen)
+                corpus.append(sent.split())
+        # print(len(corpus))
+        # print(len(sents))
+        if len(sents) == 0:  # 没有检索到文档
+            print("no answer pid: {}".format(item['qid']))
+            continue
+
+        # 建立词袋模型
+        cv = CountVectorizer(token_pattern=r"(?u)\b\w+\b")
+        cv.fit(sents)
+        tv = TfidfVectorizer(token_pattern=r"(?u)\b\w+\b")
+        tv.fit(sents)
+
+        # 提取 BM25 特征
+        bm25_model = bm25.BM25(corpus)
+        average_idf = sum(map(lambda k: float(bm25_model.idf[k]), bm25_model.idf.keys())) / len(bm25_model.idf.keys())
+        q = list(jieba.cut(item['question']))
+        scores = bm25_model.get_scores(q, average_idf)
+
+        for i in range(len(sents)):
+            feature_array = extract_feature(item['question'], sents[i], cv, tv, model, scores[i])
+            feature.append(' '.join([str(attr) for attr in feature_array]) + '\n')
+            sen = {}
+            sen['label'] = 0
+            sen['qid'] = item['qid']
+            sen['question'] = item['question']
+            sen['answer'] = sents[i]
+            sents_json.append(sen)
+
     # 特征写入文件
     with open(const.ass_test_feature, 'w', encoding='utf-8') as f:
         f.writelines(feature)
@@ -307,7 +318,7 @@ def build__test_feature():
 
 def gen_test_data():
     """生成测试数据
-    test 500
+    test 1978
     """
     # 读取sent json文件
     with open(const.ass_test_sent, 'r', encoding='utf-8') as fin:
@@ -324,15 +335,55 @@ def gen_test_data():
         item = items[k]
         qid_set.add(item['qid'])
         feature_array = feature_mat[k]
-        feature = ["{}:{}".format(j + 1, feature_array[j]) for j in range(0, len(feature_array))]
+        index = [0, 1, 2, 3, 4, 5, 6, 8, 10]
+        # feature = ["{}:{}".format(j + 1, feature_array[j]) for j in range(0, len(feature_array))]
+        feature = ["{}:{}".format(j + 1, feature_array[index[j]]) for j in range(len(index))]
         # feature = ["{}:{}".format(1, feature_array[8])]
         data.append("{} qid:{} {}\n".format(item['label'], item['qid'], ' '.join(feature)))
         data_qid.append(item['qid'])
     # 写入开发集
-    sort_index = np.argsort(data_qid)
     with open(const.ass_test_data, 'w', encoding='utf-8') as f:
-        for j in range(len(sort_index)):
-            f.write(data[sort_index[j]])
+        f.writelines(data)
+
+
+def get_test_ans():
+    """ 根据SVM Rank 对test.json 的预测文件得到候选答案句"""
+    # 读入排序结果
+    with open(const.ass_test_pre, 'r', encoding='utf-8') as f:
+        predictions = np.array([float(line.strip()) for line in f.readlines()])
+    print(len(predictions))
+    # 读取sent json文件
+    with open(const.ass_test_sent, 'r', encoding='utf-8') as fin:
+        items = [json.loads(line.strip()) for line in fin.readlines()]
+    print(len(items))
+    sent_qid = []
+    for item in items:
+        sent_qid.append(item['qid'])
+    # 读取test res json文件
+    with open(const.test_search_res, 'r', encoding='utf-8') as fin:
+        test_res = [json.loads(line.strip()) for line in fin.readlines()]
+    for res in test_res:
+        if res['qid'] not in sent_qid:
+            res['answer_sentence'] = []
+            continue
+        s = sent_qid.index(res['qid'])
+        e = s
+        while e < len(sent_qid) and sent_qid[e] == res['qid']:
+            e += 1
+        # print(s)
+        # print(e)
+        # print(predictions[s:e])
+        p = np.argsort(-predictions[s:e])
+        # print(p)
+        # print(len(p))
+        answer = []
+        for i in p[0:3]:
+            answer.append(items[i + s]['answer'])
+        res['answer_sentence'] = answer
+    # 写回文件
+    with open(const.test_ass, 'w', encoding='utf-8') as fout:
+        for sample in test_res:
+            fout.write(json.dumps(sample, ensure_ascii=False) + '\n')
 
 
 def bm25_feature():
@@ -442,6 +493,7 @@ if __name__ == '__main__':
     BM25:  question num:5352, question with answer5319, prefect_correct:2783, MRR:0.6594948607696011
     -- [8, 10]: BM25 + TF: question num:1071, question with answer1064, prefect_correct:566, MRR:0.6626076288570559
     1  [0, 8, 10]: question num:1071, question with answer1064, prefect_correct:571, MRR:0.6672033276872427
+    1  [1, 8, 10]: question num:1071, question with answer1064, prefect_correct:580, MRR:0.6760457345092623
     1  [2, 8, 10]: question num:1071, question with answer1064, prefect_correct:573, MRR:0.6696462509248209
     -  [6, 8, 10]: question num:1071, question with answer1064, prefect_correct:566, MRR:0.6623672110525073
     0  [9, 8, 10]: question num:1071, question with answer1064, prefect_correct:564, MRR:0.6606765867066795
@@ -462,10 +514,11 @@ if __name__ == '__main__':
     """
     # gen_data()
     # test()
-    calc_mrr()
+    # calc_mrr()
     # build_feature()
     # gen_data_feature()
-    # build__test_feature()
+    # build_test_feature()
     # gen_test_data()
     # bm25_feature()
     # calc_mrr_bm25()
+    get_test_ans()
